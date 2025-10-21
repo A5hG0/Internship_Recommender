@@ -8,7 +8,7 @@ base_url = "https://internshala.com/internships/machine-learning-internship"
 titles, companies, locations, skills = [], [], [], []
 
 # fetch first few pages
-for page in range(1, 3):
+for page in range(1, 4):
     url = f"{base_url}/page-{page}"
     print("Scraping:", url)
     res = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -33,7 +33,7 @@ for page in range(1, 3):
     
 base_url = "https://internshala.com/internships/data-science-internship"
 
-for page in range(1, 8):
+for page in range(1, 9):
     url = f"{base_url}/page-{page}"
     print("Scraping:", url)
     res = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -52,10 +52,11 @@ for page in range(1, 8):
         titles.append(title.text.strip() if title else "")
         companies.append(company.text.strip() if company else "")
         locations.append(location.text.strip() if location else "")
-        skills.append(skill_div.text.strip() if skill_div else "")
+        skills.append(skill_div.text.strip() if skill_div else " ")
+        # print(skills)
 
     time.sleep(1)  # be polite — delay between requests
-print(title)
+# print(title)
 # save to DataFrame
 df = pd.DataFrame({
     'Title': titles,
