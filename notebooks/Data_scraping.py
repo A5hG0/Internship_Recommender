@@ -5,7 +5,7 @@ import time
 
 # base_url = "https://internshala.com/internships/machine-learning-internship"
 
-# titles, companies, locations, skills = [], [], [], []
+titles, companies, locations, skills = [], [], [], []
 
 # # fetch first few pages
 # for page in range(1, 4):
