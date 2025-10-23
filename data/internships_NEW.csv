@@ -1,21 +1,21 @@
 Unnamed: 0,Title,Company,Location,Skills
 0.0,Artificial Intelligence (AI),OmniNeura AI Technologies Pvt Ltd,Work from home,PythonMachine LearningNatural Language Processing (NLP)Deep Learning
-1.0,Technical Support,Tech Analogy,Ahmedabad,MATLABOpenCVSolidWorksClient InteractionMachine LearningTechnical SupportClient Relationship+4 more
+1.0,Technical Support,Tech Analogy,Ahmedabad,MATLABOpenCVSolidWorksClient InteractionMachine LearningTechnical SupportClient Relationship+4
 2.0,Data Annotation,RoadVision AI Private Limited,South,Data InterpretationData Annotation
-3.0,Data Science,Zoop Live,Delhi,PythonMachine LearningData ScienceNatural Language Processing (NLP)Deep LearningArtificial intelligenceNumPy+1 more
-4.0,Data Science,Tradexa Technologies Private Limited,Pune,PythonSQLAlgorithmsData StructuresData AnalyticsStatistical ModelingGit+2 more
+3.0,Data Science,Zoop Live,Delhi,PythonMachine LearningData ScienceNatural Language Processing (NLP)Deep LearningArtificial intelligenceNumPy+1
+4.0,Data Science,Tradexa Technologies Private Limited,Pune,PythonSQLAlgorithmsData StructuresData AnalyticsStatistical ModelingGit+2
 5.0,Data Science,Emoolar Technology Private Limited,Work from home,PythonMachine LearningData ScienceArtificial intelligence
 6.0,Agentic RAG Tools And Applications Development,FrugalX (Frugal Explorations Foundation),Work from home,JavaScriptTypeScript
 7.0,Data Science,Mindenious Edutech,Work from home,PythonSQLData AnalyticsMachine LearningData ScienceDeep Learning
-8.0,Artificial Intelligence For Biotech For Climate (A4B4C),Energy Alternatives India,Chennai,BiologyMachine LearningBioinformaticsMicrobiological TechniquesNeural NetworksBusiness ResearchArtificial intelligence+1 more
-9.0,Full Stack Development,NDL Power Limited,Work from home,PythonASP.NETMachine LearningNode.jsMS SQL ServerAutomationReact+5 more
-11.0,Data Science,"Mekari (Jakarta, Indonesia)",Work from home,PythonSQLData AnalyticsMachine LearningData entryData ScienceNatural Language Processing (NLP)+4 more
-12.0,Devops Engineer,Techdome Solutions Private Limited,"Indore, Hyderabad",LinuxMachine LearningJenkinsAnsibleKubernetesCI/CDTerraform+3 more
-13.0,"Producers Assistant Residency Program: Founders Office - Research, Development And Operations (Hollywood Film)",Continuum Media,Mumbai,MS-OfficeContent WritingPythonAdobe IllustratorSQLAdobe Creative SuiteMachine Learning+7 more
-14.0,Technical Content Curation,Tech Analogy,Ahmedabad,Content WritingOpenCVPythonSolidWorksARM MicrocontrollerRoboticsSearch Engine Optimization (SEO)+9 more
-15.0,Android App Development,Practice Buzz,Chandigarh,PythonGitMachine LearningJSONGitHubComputer VisionREST API+4 more
+8.0,Artificial Intelligence For Biotech For Climate (A4B4C),Energy Alternatives India,Chennai,BiologyMachine LearningBioinformaticsMicrobiological TechniquesNeural NetworksBusiness ResearchArtificial intelligence+1
+9.0,Full Stack Development,NDL Power Limited,Work from home,PythonASP.NETMachine LearningNode.jsMS SQL ServerAutomationReact+5
+11.0,Data Science,"Mekari (Jakarta, Indonesia)",Work from home,PythonSQLData AnalyticsMachine LearningData entryData ScienceNatural Language Processing (NLP)+4
+12.0,Devops Engineer,Techdome Solutions Private Limited,"Indore, Hyderabad",LinuxMachine LearningJenkinsAnsibleKubernetesCI/CDTerraform+3
+13.0,"Producers Assistant Residency Program: Founders Office - Research, Development And Operations (Hollywood Film)",Continuum Media,Mumbai,MS-OfficeContent WritingPythonAdobe IllustratorSQLAdobe Creative SuiteMachine Learning+7
+14.0,Technical Content Curation,Tech Analogy,Ahmedabad,Content WritingOpenCVPythonSolidWorksARM MicrocontrollerRoboticsSearch Engine Optimization (SEO)+9
+15.0,Android App Development,Practice Buzz,Chandigarh,PythonGitMachine LearningJSONGitHubComputer VisionREST API+4
 16.0,Python Development,Jorim Technology Solutions Private Limited,Chennai (Hybrid),PythonDjangoMachine LearningREST APIFlask
-17.0,Machine Learning,Zdminds,Work from home,PythonData AnalyticsMachine LearningR ProgrammingData ScienceNatural Language Processing (NLP)Deep Learning+1 more
+17.0,Machine Learning,Zdminds,Work from home,PythonData AnalyticsMachine LearningR ProgrammingData ScienceNatural Language Processing (NLP)Deep Learning+1
 18.0,Machine Learning,CareerNest,Work from home,PythonMachine LearningData Science
 19.0,Python Development,Zdminds,Work from home,HTMLCSSPythonDjangoMachine LearningREST APIFlask
 20.0,Data Analytics,Zdminds,Work from home,PythonSQLData AnalyticsMS-ExcelData SciencePower BITableau
@@ -26,30 +26,30 @@ Unnamed: 0,Title,Company,Location,Skills
 25.0,Data Science,Zdminds,Work from home,PythonSQLData AnalyticsMachine LearningData ScienceNatural Language Processing (NLP)
 26.0,Artificial Intelligence (AI),Zdminds,Work from home,PythonData StructuresMachine LearningData ScienceNeural NetworksNatural Language Processing (NLP)Deep Learning
 27.0,Python Development,Mindenious Edutech,Work from home,HTMLCSSPythonMachine Learning
-28.0,Artificial Intelligence (AI),Stirring Minds,"Delhi, Gurgaon, Noida                                                                (Hybrid)",PythonData StructuresMachine LearningData ScienceNeural NetworksNatural Language Processing (NLP)Deep Learning+3 more
+28.0,Artificial Intelligence (AI),Stirring Minds,"Delhi, Gurgaon, Noida                                                                (Hybrid)",PythonData StructuresMachine LearningData ScienceNeural NetworksNatural Language Processing (NLP)Deep Learning+3
 29.0,AI Engineer,Clientcarex AI Private Limited,Hyderabad,Problem SolvingResearch and AnalyticsReport GenerationSelf-learningGenerative AI ToolsChatGPT
-30.0,AI For Climate Tech,Energy Alternatives India,Chennai,BiologyMachine LearningBioinformaticsMicrobiological TechniquesNeural NetworksBusiness ResearchArtificial intelligence+1 more
+30.0,AI For Climate Tech,Energy Alternatives India,Chennai,BiologyMachine LearningBioinformaticsMicrobiological TechniquesNeural NetworksBusiness ResearchArtificial intelligence+1
 31.0,Instructional Designer,Kalvium,Bangalore,Data StructuresMachine LearningData ScienceComputer ArchitectureOperating SystemsCybersecurityGenerative AI Tools
 32.0,Artificial Intelligence (AI),Zoxima Solutions Private Limited,Work from home,Artificial intelligenceLangChain
-33.0,Machine Learning,Vaibhav Wakade,"Pune, Ahmednagar, Nashik (Hybrid)",JavaScriptPythonData AnalyticsAutomationNatural Language Processing (NLP)Deep LearningBlockchain+5 more
-34.0,Artificial Intelligence (AI),Across The Globe (ATG),Work from home,PythonData StructuresMachine LearningComputer VisionData ScienceNeural NetworksNatural Language Processing (NLP)+2 more
-35.0,AI Engineer,Entrepreneur Growth Lab (OPC) Private Limited,Work from home,JavaJavaScriptPythonAlgorithmsMachine LearningAutomationREST API+4 more
+33.0,Machine Learning,Vaibhav Wakade,"Pune, Ahmednagar, Nashik (Hybrid)",JavaScriptPythonData AnalyticsAutomationNatural Language Processing (NLP)Deep LearningBlockchain+5
+34.0,Artificial Intelligence (AI),Across The Globe (ATG),Work from home,PythonData StructuresMachine LearningComputer VisionData ScienceNeural NetworksNatural Language Processing (NLP)+2
+35.0,AI Engineer,Entrepreneur Growth Lab (OPC) Private Limited,Work from home,JavaJavaScriptPythonAlgorithmsMachine LearningAutomationREST API+4
 36.0,AI/ML Python,Tellis Technologies Private Limited,Work from home,JavaScriptPythonMachine LearningArtificial intelligenceMERN
-37.0,Artificial Intelligence (AI),Stirring Minds,Work from home,PythonSQLData StructuresMachine LearningData ScienceNeural NetworksRTOS+7 more
+37.0,Artificial Intelligence (AI),Stirring Minds,Work from home,PythonSQLData StructuresMachine LearningData ScienceNeural NetworksRTOS+7
 38.0,Software Engineering- AI Agent Integration Team,EmergentLabs,Bangalore,PythonProblem SolvingArtificial intelligenceAPIsDebuggingPrompt Engineering
 39.0,Python Development,Scoreazy Edutech Private Limited,Work from home,PythonREST APIFastAPIOpenAI APIStreamlitPrompt Engineering
-40.0,Quant Developer,QuantGlobal,"Delhi, Noida",PythonFinanceMongoDBMachine LearningFinancial ModelingStatisticsC++ Programming+7 more
-41.0,AI Engineer,Sameer Khatri,Bangalore                                                                (Hybrid),PythonMachine LearningAmazon Web Services (AWS)Natural Language Processing (NLP)Artificial intelligenceGenerative AI ToolsLLMOps+1 more
-42.0,Video Annotator,Indika AI Private Limited,Work from home,Attention to DetailTime ManagementData AnalyticsTechnical AnalysisArtificial intelligenceMachine Learning Operations (MLOps)Self-learning+2 more
+40.0,Quant Developer,QuantGlobal,"Delhi, Noida",PythonFinanceMongoDBMachine LearningFinancial ModelingStatisticsC++ Programming+7
+41.0,AI Engineer,Sameer Khatri,Bangalore                                                                (Hybrid),PythonMachine LearningAmazon Web Services (AWS)Natural Language Processing (NLP)Artificial intelligenceGenerative AI ToolsLLMOps+1
+42.0,Video Annotator,Indika AI Private Limited,Work from home,Attention to DetailTime ManagementData AnalyticsTechnical AnalysisArtificial intelligenceMachine Learning Operations (MLOps)Self-learning+2
 43.0,Mechanical Engineering,Pneumatic Equipments Corporation,Kolkata,Machine Learning
 44.0,Python Development,TwiLearn EduTech Private Limited,Work from home,HTMLCSSPythonDjangoMachine LearningREST API
 45.0,AI Agent Development,NAVNEET TOPTECH,Mumbai,JavaScriptPythonAPIsLangChainPrompt EngineeringChatGPTLLMOps
 46.0,Artificial Intelligence (AI),DeepThought CultureTech Ventures Private Limited,Work from home,Artificial intelligence
 47.0,AI System Development & Automation,Fast Action Claims,Work from home,JavaPythonOpenAI APIGenerative AI ToolsChatGPT
 48.0,Machine Learning,NoirCapial,Work from home,PythonData AnalyticsMachine LearningData ScienceNatural Language Processing (NLP)Deep LearningArtificial intelligence
-49.0,Artificial Intelligence (AI),NoirCapial,Work from home,PythonData StructuresMachine LearningData ScienceNeural NetworksNatural Language Processing (NLP)Deep Learning+1 more
+49.0,Artificial Intelligence (AI),NoirCapial,Work from home,PythonData StructuresMachine LearningData ScienceNeural NetworksNatural Language Processing (NLP)Deep Learning+1
 50.0,Data Analytics,TwiLearn EduTech Private Limited,Work from home,PythonSQLData AnalyticsMS-ExcelData SciencePower BITableau
-51.0,Video Annotator,Indika AI Private Limited,Work from home,Attention to DetailTime ManagementData AnalyticsTechnical AnalysisArtificial intelligenceMachine Learning Operations (MLOps)Self-learning+2 more
+51.0,Video Annotator,Indika AI Private Limited,Work from home,Attention to DetailTime ManagementData AnalyticsTechnical AnalysisArtificial intelligenceMachine Learning Operations (MLOps)Self-learning+2
 52.0,Mechanical Engineering,Pneumatic Equipments Corporation,Kolkata,Machine Learning
 53.0,Python Development,TwiLearn EduTech Private Limited,Work from home,HTMLCSSPythonDjangoMachine LearningREST API
 54.0,Artificial Intelligence (AI),OmniNeura AI Technologies Pvt Ltd,Work from home,PythonMachine LearningNatural Language Processing (NLP)Deep Learning
@@ -57,92 +57,92 @@ Unnamed: 0,Title,Company,Location,Skills
 56.0,Artificial Intelligence (AI),DeepThought CultureTech Ventures Private Limited,Work from home,Artificial intelligence
 57.0,AI System Development & Automation,Fast Action Claims,Work from home,JavaPythonOpenAI APIGenerative AI ToolsChatGPT
 58.0,Machine Learning,NoirCapial,Work from home,PythonData AnalyticsMachine LearningData ScienceNatural Language Processing (NLP)Deep LearningArtificial intelligence
-59.0,Artificial Intelligence (AI),NoirCapial,Work from home,PythonData StructuresMachine LearningData ScienceNeural NetworksNatural Language Processing (NLP)Deep Learning+1 more
+59.0,Artificial Intelligence (AI),NoirCapial,Work from home,PythonData StructuresMachine LearningData ScienceNeural NetworksNatural Language Processing (NLP)Deep Learning+1
 60.0,Data Analytics,TwiLearn EduTech Private Limited,Work from home,PythonSQLData AnalyticsMS-ExcelData SciencePower BITableau
 62.0,Agentic AI,International Institute Of SDGs & Public Policy Research,Work from home,Statistical ModelingMachine LearningNeural NetworksEnglish Proficiency (Spoken)Predictive AnalyticsArtificial intelligencePython Libraries
-63.0,AI/ML AI Agent Development,Tellis Technologies Private Limited,Work from home,JavaScriptPythonMachine LearningData ScienceReactArtificial intelligenceData Analysis+2 more
+63.0,AI/ML AI Agent Development,Tellis Technologies Private Limited,Work from home,JavaScriptPythonMachine LearningData ScienceReactArtificial intelligenceData Analysis+2
 64.0,Machine Learning,TSTEPS PRIVATE LIMITED,"Chennai, Mumbai, Bangalore, Kerala, Puduchery                                                                (Hybrid)",PythonData AnalyticsR ProgrammingData ScienceDeep LearningArtificial intelligence
 65.0,Python Development,TSTEPS PRIVATE LIMITED,"Chennai, Mumbai, Hyderabad, Kerala, Puduchery                                                                (Hybrid)",HTMLCSSPythonDjangoMachine Learning
 66.0,Artificial Intelligence (AI),Sai Kalyan,Work from home,HTMLPython
 67.0,Machine Learning Engineer - Forecasting And Buy Algorithms,Mohan Gopalakrishna,Work from home,PythonMachine LearningData Science
-68.0,Business Research,Adrasti,Work from home,FinanceSoftware TestingAccountingMarket AnalysisMachine LearningCybersecurityArtificial intelligence+4 more
+68.0,Business Research,Adrasti,Work from home,FinanceSoftware TestingAccountingMarket AnalysisMachine LearningCybersecurityArtificial intelligence+4
 69.0,Artificial Intelligence (AI),SystemaOps,Work from home,Artificial intelligence
-70.0,Intelligent Transportation Systems (ITS) Researcher,The Asian Institute Of Transport Development,Delhi,PythonTime ManagementMachine LearningProblem SolvingLiterature ReviewArtificial intelligenceEffective Communication+5 more
-71.0,Python Development,Everything About AI,Work from home,CSSPythonMongoDBMachine LearningPostgreSQLREST APIDeep Learning+4 more
+70.0,Intelligent Transportation Systems (ITS) Researcher,The Asian Institute Of Transport Development,Delhi,PythonTime ManagementMachine LearningProblem SolvingLiterature ReviewArtificial intelligenceEffective Communication+5
+71.0,Python Development,Everything About AI,Work from home,CSSPythonMongoDBMachine LearningPostgreSQLREST APIDeep Learning+4
 72.0,Neuro Technology,TSTEPS PRIVATE LIMITED,"Chennai, Madurai, Bangalore, Kerala, Andra, Puduchery                                                                (Hybrid)",Machine LearningEmbedded SystemsSignal Processing
-73.0,AI Agent Development,Aditya Jha,Work from home,JavaScriptPythonNode.jsJSONREST APIAPIsOpenAI API+1 more
+73.0,AI Agent Development,Aditya Jha,Work from home,JavaScriptPythonNode.jsJSONREST APIAPIsOpenAI API+1
 74.0,FPGA Developer,Vicharak Computers LLP,Surat,VLSIVerilogVHDLFPGA Synthesis and PrototypingDebugging
 75.0,AI Agent Development,Zoxima Solutions Private Limited,Work from home,JavaScriptPythonGenerative AI Tools
 76.0,Machine Learning,Tilak Karveran,Work from home,PythonSQLData AnalyticsMachine LearningNoSQLscikit-learnSeaborn
-77.0,Artificial Intelligence (AI),Nobrokerage.com,Pune,JavaPythonData StructuresArtificial intelligenceJuliaOpenAI APIKeras+2 more
-78.0,Quant Researcher,QuantGlobal,"Delhi, Ghaziabad, Greater Noida, Noida",PythonStatistical ModelingMachine LearningFinancial ModelingTableauStock TradingData Analysis+3 more
+77.0,Artificial Intelligence (AI),Nobrokerage.com,Pune,JavaPythonData StructuresArtificial intelligenceJuliaOpenAI APIKeras+2
+78.0,Quant Researcher,QuantGlobal,"Delhi, Ghaziabad, Greater Noida, Noida",PythonStatistical ModelingMachine LearningFinancial ModelingTableauStock TradingData Analysis+3
 79.0,Quant Developer,QuantGlobal,"Delhi, Noida",PythonMongoDBMachine LearningC++ ProgrammingStock TradingAPIsProbability
 80.0,Node.js Generative AI/ML Developer,Arakoo,Work from home,Node.jsExpress.jsTypeScriptTerraform
 81.0,Quant Developer,AlgoBulls,Work from home,PythonGitGitHubData ScienceBashQuantitative Research
-82.0,AI Agent Development,EshiaBIM,Ahmedabad,JSONFrontend developmentMicrosoft AzureREST APIAmazon Web Services (AWS)CI/CDFastAPI+9 more
+82.0,AI Agent Development,EshiaBIM,Ahmedabad,JSONFrontend developmentMicrosoft AzureREST APIAmazon Web Services (AWS)CI/CDFastAPI+9
 83.0,AI Agent Development,Yardstick,Work from home,PythonMachine Learning
 84.0,Data And AI Architect,Sorvanis,Work from home,PythonData AnalyticsLangChain
-85.0,AI Agent Development,Awwgment,Work from home,PythonREST APITransformersFastAPIAPIsOpenAI APILangChain+4 more
+85.0,AI Agent Development,Awwgment,Work from home,PythonREST APITransformersFastAPIAPIsOpenAI APILangChain+4
 86.0,LLM,Indika AI Private Limited,Delhi,MySQLPythonMachine Learning
-87.0,Artificial Intelligence (AI),Almost Magic Private Limited,"Chandigarh, Mohali, Panchkula",PythonData StructuresMachine LearningData ScienceNeural NetworksNatural Language Processing (NLP)Deep Learning+1 more
+87.0,Artificial Intelligence (AI),Almost Magic Private Limited,"Chandigarh, Mohali, Panchkula",PythonData StructuresMachine LearningData ScienceNeural NetworksNatural Language Processing (NLP)Deep Learning+1
 88.0,Artificial Intelligence (AI),Pulse Labs,Work from home,MS-OfficeSoftware TestingArtificial intelligence
 89.0,Data Labelling,Radic Advertising Private Limited,Hyderabad                                                                (Hybrid),PythonMS-ExcelJSON
 90.0,Artificial Intelligence (AI),URE Legal Advocates,Noida,PythonMachine LearningNatural Language Processing (NLP)Deep Learning
 91.0,AI Specialist,QuantGlobal,Noida,PythonArtificial intelligenceAPIsGenerative AI DevelopmentArtificial Intelligence Markup Language (AIML)LangChainLLMOps
-92.0,Full Stack AI Engineer,DigiPlus IT,"Mumbai, Maharashtra",MongoDBNode.jsUI & UX DesignDockerGitHubTypeScriptDevOps+6 more
+92.0,Full Stack AI Engineer,DigiPlus IT,"Mumbai, Maharashtra",MongoDBNode.jsUI & UX DesignDockerGitHubTypeScriptDevOps+6
 93.0,Artificial Intelligence (AI),Evolvra,Work from home,PythonMachine LearningData ScienceNeural NetworksNatural Language Processing (NLP)Deep LearningArtificial intelligence
 94.0,Software Engineer,Giddly.com,Work from home,PythonMachine LearningReact NativeGolangTypeScriptArtificial intelligence
 95.0,Artificial Intelligence (AI),Kazunov 1AI,Work from home,PythonTensorFlowPyTorch
 96.0,Python Development,EvoNexis,Work from home,HTMLCSSPythonDjangoMachine LearningREST APIFlask
 97.0,Machine Learning,EvoNexis,Work from home,PythonData AnalyticsMachine LearningData ScienceNatural Language Processing (NLP)Deep LearningArtificial intelligence
-98.0,Data Science AI&ML Python Research,Megaminds IT Services,Work from home,JavaPythonDjangoMachine LearningComputer VisionFlaskDeep Learning+9 more
+98.0,Data Science AI&ML Python Research,Megaminds IT Services,Work from home,JavaPythonDjangoMachine LearningComputer VisionFlaskDeep Learning+9
 99.0,Machine Learning,Pexaworks Technologies Private Limited,Work from home,PythonMachine LearningTensorFlowPyTorch
-100.0,Artificial Intelligence (AI),Hubnine India Private Limited,Work from home,CSSContent WritingPythonData StructuresMachine LearningData ScienceReact+6 more
+100.0,Artificial Intelligence (AI),Hubnine India Private Limited,Work from home,CSSContent WritingPythonData StructuresMachine LearningData ScienceReact+6
 101.0,Artificial Intelligence (AI),Kunal Kapur,"Delhi, Gurgaon",Python
 103.0,Inside Sales,CloudBC Labs Private Limited,Bangalore                                                                (Hybrid),Cold CallingComputer skillsLead GenerationBusiness Development
 104.0,Generative AI Machine Learning,Arakoo,"Delhi, Noida",Python
 105.0,AI Agent Development (Only Night Shift),Big Internet E-commerce Private Limited,Work from home,JavaScriptAmazon Web Services (AWS)APIsLangChainNestJSLLMOps
-106.0,Mobile App Development,VigiSafeMed,Work from home,PythonMachine LearningNode.jsFlutterReact NativeiOSAndroid+1 more
+106.0,Mobile App Development,VigiSafeMed,Work from home,PythonMachine LearningNode.jsFlutterReact NativeiOSAndroid+1
 107.0,AI/ML Dev,Trinity Packaging Co. Pvt. Ltd.,Mumbai                                                                (Hybrid),PythonDockerArtificial intelligenceAPIsLLMOps
-108.0,Data Science,Accredian,Work from home,PythonVideo EditingSQLMachine LearningVideo MakingR ProgrammingDeep Learning+1 more
-109.0,AI and ML Mentor,Mikado Solutions,Work from home,Machine LearningComputer VisionNeural NetworksNatural Language Processing (NLP)Artificial intelligenceGenerative AI DevelopmentLLMOps+1 more
+108.0,Data Science,Accredian,Work from home,PythonVideo EditingSQLMachine LearningVideo MakingR ProgrammingDeep Learning+1
+109.0,AI and ML Mentor,Mikado Solutions,Work from home,Machine LearningComputer VisionNeural NetworksNatural Language Processing (NLP)Artificial intelligenceGenerative AI DevelopmentLLMOps+1
 110.0,Artificial Intelligence (AI),Ethical Den,Kolkata,PythonMachine LearningDeep LearningArtificial intelligence
 111.0,Artificial Intelligence (AI),Ekam Apps,Work from home,PythonSQLNode.jsNatural Language Processing (NLP)Artificial intelligence
 112.0,Artificial Intelligence (AI),Universal Adventures,Work from home,Artificial Intelligence Markup Language (AIML)
 113.0,Computer Vision,Practice Buzz,Chandigarh,OpenCV
-114.0,AI Engineer,Splashgain Technology Solutions Private Limited,Pune                                                                (Hybrid),GitHubREST APIAPIsAngularPrompt EngineeringClaudeGemini+1 more
-115.0,Machine Learning,Infits,Work from home,PythonData AnalyticsMachine LearningProblem SolvingComputer VisionAmazon Web Services (AWS)Natural Language Processing (NLP)+1 more
+114.0,AI Engineer,Splashgain Technology Solutions Private Limited,Pune                                                                (Hybrid),GitHubREST APIAPIsAngularPrompt EngineeringClaudeGemini+1
+115.0,Machine Learning,Infits,Work from home,PythonData AnalyticsMachine LearningProblem SolvingComputer VisionAmazon Web Services (AWS)Natural Language Processing (NLP)+1
 116.0,AI Agent Development,TSTEPS PRIVATE LIMITED,"Chennai, Delhi, Hyderabad, Mumbai, Bangalore, Kerala Estate                                                                (Hybrid)",Artificial intelligenceAPIsPyTorchLLM evaluation
 117.0,Artificial Intelligence (AI),Elementals.ai,Bangalore,Computer VisionTransformersReinforcement LearningSelf-learning
 118.0,Artificial Intelligence (AI),Global Groupware Solutions Limited,Work from home,PythonMachine LearningArtificial intelligence
 119.0,Big Data,TSTEPS PRIVATE LIMITED,"Chennai, Coimbatore, Delhi, Hyderabad, Mumbai, Salem, Bangalore, Kerala Estate                                                                (Hybrid)",JavaPythonSQLMachine LearningHadoopApache Spark
-120.0,Artificial Intelligence (AI),Cosy Toys,Noida,PythonData StructuresMachine LearningData ScienceNeural NetworksNatural Language Processing (NLP)Deep Learning+1 more
+120.0,Artificial Intelligence (AI),Cosy Toys,Noida,PythonData StructuresMachine LearningData ScienceNeural NetworksNatural Language Processing (NLP)Deep Learning+1
 121.0,AI video creation,EMIAC Technologies,Jaipur,Adobe PhotoshopAdobe IllustratorFinal Cut ProCanvaCapcut
-122.0,Technical Support,Tech Analogy,Ahmedabad,MATLABOpenCVSolidWorksClient InteractionMachine LearningTechnical SupportClient Relationship+4 more
+122.0,Technical Support,Tech Analogy,Ahmedabad,MATLABOpenCVSolidWorksClient InteractionMachine LearningTechnical SupportClient Relationship+4
 123.0,Database & Storage Internals Research,Black Potato Systems,Work from home,Database Management System (DBMS)Distributed ComputingKubernetes
 124.0,Market Research,Klearprop,Mumbai,MS-WordMS-ExcelEnglish Proficiency (Spoken)English Proficiency (Written)Research and Analytics
 125.0,Digital Marketing,EMIAC Technologies,Gopalpura,Digital MarketingLinkedIn MarketingDigital Marketing Tools
 126.0,Agentic RAG Tools And Applications Development,FrugalX (Frugal Explorations Foundation),Work from home,JavaScriptTypeScript
-127.0,Artificial Intelligence For Biotech For Climate (A4B4C),Energy Alternatives India,Chennai,BiologyMachine LearningBioinformaticsMicrobiological TechniquesNeural NetworksBusiness ResearchArtificial intelligence+1 more
+127.0,Artificial Intelligence For Biotech For Climate (A4B4C),Energy Alternatives India,Chennai,BiologyMachine LearningBioinformaticsMicrobiological TechniquesNeural NetworksBusiness ResearchArtificial intelligence+1
 128.0,E-commerce Associate,Codeous Technologies Private Limited,Work from home,MS-ExcelEffective Communication
-129.0,Data Engineering & Analytics,Hornbill Labs Private Limited,Thiruvananthapuram,JavaScriptPythonSQLData AnalyticsNode.jsWeb developmentData Visualization+1 more
-130.0,"Producers Assistant Residency Program: Founders Office - Research, Development And Operations (Hollywood Film)",Continuum Media,Mumbai,MS-OfficeContent WritingPythonAdobe IllustratorSQLAdobe Creative SuiteMachine Learning+7 more
+129.0,Data Engineering & Analytics,Hornbill Labs Private Limited,Thiruvananthapuram,JavaScriptPythonSQLData AnalyticsNode.jsWeb developmentData Visualization+1
+130.0,"Producers Assistant Residency Program: Founders Office - Research, Development And Operations (Hollywood Film)",Continuum Media,Mumbai,MS-OfficeContent WritingPythonAdobe IllustratorSQLAdobe Creative SuiteMachine Learning+7
 132.0,Digital Transformation,Kores (India) Limited,Mumbai,Data InterpretationPower BIFigmaData AnalysisData Cleaning
-133.0,AI Applications,Paracoat Products Limited,Gurgaon,MS-OfficeProject ManagementMS-PowerPointPresentation skillsData AnalyticsMS-ExcelProblem Solving+7 more
+133.0,AI Applications,Paracoat Products Limited,Gurgaon,MS-OfficeProject ManagementMS-PowerPointPresentation skillsData AnalyticsMS-ExcelProblem Solving+7
 134.0,Field Force Transformation In Consumer Product Division,Parag Milk Foods Limited,Mumbai,MS-ExcelInterpersonal skillsEffective Communication
-135.0,Data Science,"Mekari (Jakarta, Indonesia)",Work from home,PythonSQLData AnalyticsMachine LearningData entryData ScienceNatural Language Processing (NLP)+4 more
-136.0,Content Development (English),Gyaan Plus Media,Bangalore,Video EditingArtificial intelligenceGoogle SheetsGenerative AI ToolsCapcutAI Video GenerationAI Image Generation+2 more
+135.0,Data Science,"Mekari (Jakarta, Indonesia)",Work from home,PythonSQLData AnalyticsMachine LearningData entryData ScienceNatural Language Processing (NLP)+4
+136.0,Content Development (English),Gyaan Plus Media,Bangalore,Video EditingArtificial intelligenceGoogle SheetsGenerative AI ToolsCapcutAI Video GenerationAI Image Generation+2
 137.0,Financial Research ( Only For Students Planning To Study Abroad After Graduation ),HumbleWalking,Mumbai                                                                (Hybrid),Interpersonal skillsEffective Communication
-138.0,AI Tutor,Aadi Foundation,Work from home,PythonVideo EditingVideo MakingArtificial intelligenceGenerative AI ToolsAI Video GenerationAI Image Generation+1 more
+138.0,AI Tutor,Aadi Foundation,Work from home,PythonVideo EditingVideo MakingArtificial intelligenceGenerative AI ToolsAI Video GenerationAI Image Generation+1
 139.0,Tech Operations & Website (Only For Students Planning To Study Abroad),HumbleWalking,Mumbai                                                                (Hybrid),Effective Communication
 140.0,Solution Engineer,Zext Digital LLP,Work from home,JavaScriptPythonAPIsLangChainGenerative AI ToolsLLM evaluation
 141.0,Database Building/Management,Pune Logitech Services Pvt. Ltd.,Pune,MS-OfficeMS-WordMS-Excel
 142.0,Python Development,Jorim Technology Solutions Private Limited,Chennai                                                                (Hybrid),PythonDjangoMachine LearningREST APIFlask
-143.0,Full Stack Development,NDL Power Limited,Work from home,PythonASP.NETMachine LearningNode.jsMS SQL ServerAutomationReact+5 more
+143.0,Full Stack Development,NDL Power Limited,Work from home,PythonASP.NETMachine LearningNode.jsMS SQL ServerAutomationReact+5
 144.0,Founders Office,MARKETMAZE,Work from home,PythonDigital MarketingInterpersonal skillsEffective Communication
 145.0,Business Strategy & Performance (CEO’s Office),Neuherbs,Noida,Presentation skillsTime ManagementAnalytical ThinkingMS-Excel
 146.0,Market Research,Ruban Bridge Private Limited (1Bridge),Bangalore,MS-PowerPointMS-ExcelResearch and Analytics
-147.0,Machine Learning,Zdminds,Work from home,PythonData AnalyticsMachine LearningR ProgrammingData ScienceNatural Language Processing (NLP)Deep Learning+1 more
+147.0,Machine Learning,Zdminds,Work from home,PythonData AnalyticsMachine LearningR ProgrammingData ScienceNatural Language Processing (NLP)Deep Learning+1
 148.0,Machine Learning,CareerNest,Work from home,PythonMachine LearningData Science
 149.0,Growth Marketing,Bloomeasy AI,Work from home,Digital MarketingMarketing Strategies Marketing Campaigns Data Analysis
 150.0,Research Analyst,JP IT STAFFING LLC,Work from home,Research and Analytics
@@ -150,7 +150,7 @@ Unnamed: 0,Title,Company,Location,Skills
 152.0,AI Agent Development,On Demand Experts,Work from home,PythonLLMOpsLLM evaluation
 153.0,Financial Analyst,Zean Lithos And Company Private Limited,Work from home,MS-WordMS-Excel
 154.0,Data Science,CareerNest,Work from home,PythonData AnalyticsMachine LearningData ScienceNatural Language Processing (NLP)Deep LearningArtificial intelligence
-155.0,Business Analytics,Treviax.in,Work from home,MS-OfficePythonSQLData AnalyticsMS-ExcelEnglish Proficiency (Spoken)English Proficiency (Written)+1 more
+155.0,Business Analytics,Treviax.in,Work from home,MS-OfficePythonSQLData AnalyticsMS-ExcelEnglish Proficiency (Spoken)English Proficiency (Written)+1
 156.0,Data Analytics,Treviax.in,Work from home,PythonSQLData AnalyticsMS-ExcelData SciencePower BITableau
 157.0,Machine Learning,Treviax.in,Work from home,PythonData AnalyticsMachine LearningData ScienceNatural Language Processing (NLP)Deep LearningArtificial intelligence
 158.0,Data Analytics,Hunt Digital Media,Work from home,PythonSQLData AnalyticsMS-ExcelData SciencePower BITableau
@@ -158,9 +158,9 @@ Unnamed: 0,Title,Company,Location,Skills
 160.0,Artificial Intelligence (AI),Zdminds,Work from home,PythonData StructuresMachine LearningData ScienceNeural NetworksNatural Language Processing (NLP)Deep Learning
 161.0,AI Video Creator & Editor,Aadi Foundation,Work from home,Video EditingVideo MakingArtificial intelligenceVideo Marketing
 162.0,Data Science,Mindenious Edutech,Work from home,PythonSQLData AnalyticsMachine LearningData ScienceDeep Learning
-163.0,Data (SQL & Visualization),Wadhwani Foundation,"Chennai, Delhi, Mumbai, Bangalore                   (Hybrid)",SQLMongoDBPostgreSQLMS-ExcelData VisualizationPower BITableau+3 more
+163.0,Data (SQL & Visualization),Wadhwani Foundation,"Chennai, Delhi, Mumbai, Bangalore                   (Hybrid)",SQLMongoDBPostgreSQLMS-ExcelData VisualizationPower BITableau+3
 164.0,Prompt Engineering,Ozibook Tech Solutions Private Limited,Work from home,ChatGPT
-165.0,Artificial Intelligence (AI),Stirring Minds,"Delhi, Gurgaon, Noida                                                                (Hybrid)",PythonData StructuresMachine LearningData ScienceNeural NetworksNatural Language Processing (NLP)Deep Learning+3 more
+165.0,Artificial Intelligence (AI),Stirring Minds,"Delhi, Gurgaon, Noida                                                                (Hybrid)",PythonData StructuresMachine LearningData ScienceNeural NetworksNatural Language Processing (NLP)Deep Learning+3
 166.0,Data Analytics,Ozibook Tech Solutions Private Limited,Work from home,MS-ExcelLead Generation
 167.0,Research Analyst,Ozibook Tech Solutions Private Limited,Work from home,Research and Analytics
 168.0,Business Analyst Assistant,Ozibook Tech Solutions Private Limited,Work from home,MS-OfficeGoogle Docs
@@ -168,9 +168,9 @@ Unnamed: 0,Title,Company,Location,Skills
 170.0,Data Science,Emoolar Technology Private Limited,Work from home,PythonMachine LearningData ScienceArtificial intelligence
 171.0,Market Entry Strategy,Aura Workwear,Work from home,Market AnalysisStrategyMarket researchData Analysis
 172.0,Data Science,Mindenious Edutech,Work from home,PythonSQLData AnalyticsMachine LearningData ScienceDeep Learning
-173.0,Data (SQL & Visualization),Wadhwani Foundation,"Chennai, Delhi, Mumbai, Bangalore                                                                (Hybrid)",SQLMongoDBPostgreSQLMS-ExcelData VisualizationPower BITableau+3 more
+173.0,Data (SQL & Visualization),Wadhwani Foundation,"Chennai, Delhi, Mumbai, Bangalore                                                                (Hybrid)",SQLMongoDBPostgreSQLMS-ExcelData VisualizationPower BITableau+3
 174.0,Prompt Engineering,Ozibook Tech Solutions Private Limited,Work from home,ChatGPT
-175.0,Artificial Intelligence (AI),Stirring Minds,"Delhi, Gurgaon, Noida                                                                (Hybrid)",PythonData StructuresMachine LearningData ScienceNeural NetworksNatural Language Processing (NLP)Deep Learning+3 more
+175.0,Artificial Intelligence (AI),Stirring Minds,"Delhi, Gurgaon, Noida                                                                (Hybrid)",PythonData StructuresMachine LearningData ScienceNeural NetworksNatural Language Processing (NLP)Deep Learning+3
 176.0,Data Analytics,Ozibook Tech Solutions Private Limited,Work from home,MS-ExcelLead Generation
 177.0,Research Analyst,Ozibook Tech Solutions Private Limited,Work from home,Research and Analytics
 178.0,Business Analyst Assistant,Ozibook Tech Solutions Private Limited,Work from home,MS-OfficeGoogle Docs
@@ -181,16 +181,16 @@ Unnamed: 0,Title,Company,Location,Skills
 184.0,Digital Marketing,Technix Digital Marketing,Work from home,Social Media MarketingSearch Engine Marketing (SEM)Digital MarketingSearch Engine Optimization (SEO)Email MarketingInstagram Marketing
 185.0,AI Engineer,Clientcarex AI Private Limited,Hyderabad,Problem SolvingResearch and AnalyticsReport GenerationSelf-learningGenerative AI ToolsChatGPT
 186.0,Data Collection Agent,Instawork,Bangalore,Effective Communication
-187.0,AI For Climate Tech,Energy Alternatives India,Chennai,BiologyMachine LearningBioinformaticsMicrobiological TechniquesNeural NetworksBusiness ResearchArtificial intelligence+1 more
+187.0,AI For Climate Tech,Energy Alternatives India,Chennai,BiologyMachine LearningBioinformaticsMicrobiological TechniquesNeural NetworksBusiness ResearchArtificial intelligence+1
 188.0,Instructional Designer,Kalvium,Bangalore,Data StructuresMachine LearningData ScienceComputer ArchitectureOperating SystemsCybersecurityGenerative AI Tools
 189.0,Prompt Engineering,Nestup Space,Hyderabad,JavaScriptPythonFrontend development
 190.0,Market Research (Only For Students Planning To Study Abroad After Graduation),HumbleWalking,Mumbai                                                                (Hybrid),Interpersonal skillsEffective Communication
 191.0,Full Stack Development,Aurus.ai,Work from home,CSSPythonDjangoPostgreSQLReactFigmaNext.js
-192.0,Technical Support,Fantastech Solutions Private Limited,Work from home,REST APIEnglish Proficiency (Spoken)English Proficiency (Written)Interpersonal skillsEffective CommunicationAPIsOnboarding+1 more
-193.0,E-Commerce Business Management,Vipul Sharma,Work from home,Social Media MarketingMarket AnalysisMS-ExcelMarketingEffective CommunicationProduct MarketingAI Video Generation+1 more
+192.0,Technical Support,Fantastech Solutions Private Limited,Work from home,REST APIEnglish Proficiency (Spoken)English Proficiency (Written)Interpersonal skillsEffective CommunicationAPIsOnboarding+1
+193.0,E-Commerce Business Management,Vipul Sharma,Work from home,Social Media MarketingMarket AnalysisMS-ExcelMarketingEffective CommunicationProduct MarketingAI Video Generation+1
 194.0,Digital Marketing,Shree Krishna Enterprise,Work from home,Social Media MarketingSearch Engine Marketing (SEM)Digital MarketingSearch Engine Optimization (SEO)Facebook MarketingInstagram MarketingYouTube Ads
 195.0,Artificial Intelligence (AI),Zoxima Solutions Private Limited,Work from home,Artificial intelligenceLangChain
-196.0,Sales,Bridge2job,Work from home,Cold CallingClient Relationship Management (CRM)Sales ManagementSales SupportEnglish Proficiency (Spoken)English Proficiency (Written)Sales+2 more
+196.0,Sales,Bridge2job,Work from home,Cold CallingClient Relationship Management (CRM)Sales ManagementSales SupportEnglish Proficiency (Spoken)English Proficiency (Written)Sales+2
 197.0,Selenium Web Scraper Developer,Medius Technologies Private Limited,Work from home,SeleniumDjangoPostgreSQLAmazon Web Services (AWS)Flask
 198.0,Selenium Automation Developer,Medius Technologies Private Limited,Work from home,SeleniumDjangoPostgreSQLAmazon Web Services (AWS)Flask
 199.0,Search Engine Optimization (SEO),Shiksha Nation™,Noida,Google AnalyticsGoogle AdWordsSearch Engine Optimization (SEO)Google Search Console
@@ -198,61 +198,61 @@ Unnamed: 0,Title,Company,Location,Skills
 201.0,Marketing Solutions Consultant,Ramyoz,Noida,Digital MarketingInterpersonal skillsSalesEffective Communication
 202.0,Research And Marketing,Insytelli Services LLP,Bangalore                                                                (Hybrid),Market AnalysisResearch and AnalyticsProduct Marketing
 203.0,Market & Strategy Analyst (Isotopes),ESSI Integrated Technologies,Work from home,ChemistryMarket researchBiostatisticsPrompt EngineeringPharmacology
-204.0,Machine Learning,Vaibhav Wakade,"Pune, Ahmednagar, Nashik                                                                (Hybrid)",JavaScriptPythonData AnalyticsAutomationNatural Language Processing (NLP)Deep LearningBlockchain+5 more
+204.0,Machine Learning,Vaibhav Wakade,"Pune, Ahmednagar, Nashik                                                                (Hybrid)",JavaScriptPythonData AnalyticsAutomationNatural Language Processing (NLP)Deep LearningBlockchain+5
 205.0,Talent Acquisition,C3A Labs,Work from home,Social Media MarketingEnglish Proficiency (Spoken)English Proficiency (Written)Artificial intelligence
 206.0,Data Analytics,Emoolar Technology Private Limited,Work from home,PythonSQLData AnalyticsMS-ExcelPower BITableau
-207.0,Artificial Intelligence (AI),Across The Globe (ATG),Work from home,PythonData StructuresMachine LearningComputer VisionData ScienceNeural NetworksNatural Language Processing (NLP)+2 more
+207.0,Artificial Intelligence (AI),Across The Globe (ATG),Work from home,PythonData StructuresMachine LearningComputer VisionData ScienceNeural NetworksNatural Language Processing (NLP)+2
 208.0,Creative Associate Bengali,Pratilipi,Work from home,Content WritingCreative WritingBengali Proficiency (Spoken)ProofreadingBengali Proficiency (Written)Creative DirectionContent Editing
 209.0,Pre-Sales,LocoBuzz,Mumbai,Analytical ThinkingSales SupportInterpersonal skillsEffective CommunicationStakeholder ManagementCollaboration
-210.0,Saas Data Engineer/Data Pipeline Developer,"Estate Atlas (Los Angeles, United States)",Work from home,MySQLPythonSQLNext.jsData ExtractionData EngineeringETL processes+1 more
+210.0,Saas Data Engineer/Data Pipeline Developer,"Estate Atlas (Los Angeles, United States)",Work from home,MySQLPythonSQLNext.jsData ExtractionData EngineeringETL processes+1
 211.0,Marketing Research,Bodhitree Multimedia Ltd,Mumbai,MS-WordPresentation skillsMS-ExcelCanvaInterpersonal skillsEffective Communication
 212.0,Product Analyst,CloudBird Digital Private Limited,Noida,Business AnalysisBusiness ResearchResearch and AnalyticsProduct Strategy
-213.0,AI Engineer,Entrepreneur Growth Lab (OPC) Private Limited,Work from home,JavaJavaScriptPythonAlgorithmsMachine LearningAutomationREST API+4 more
+213.0,AI Engineer,Entrepreneur Growth Lab (OPC) Private Limited,Work from home,JavaJavaScriptPythonAlgorithmsMachine LearningAutomationREST API+4
 214.0,Performance Marketing,Brandshark,Bangalore,Google AnalyticsDigital MarketingFacebook AdsPerformance Marketing
 215.0,Stock Market Backtesting Executive,LJ Webtech,Work from home,Analytical ThinkingStock TradingData Analysis
 216.0,AI Data Entry,Codematics Solution LLP,Work from home,MS-OfficeDigital MarketingTime ManagementMS-ExcelEnglish Proficiency (Spoken)Google Suite (G Suite)
 217.0,Data Analytics,DeepThought CultureTech Ventures Private Limited,Work from home,Data Analytics
 218.0,Data Science,DeepThought CultureTech Ventures Private Limited,Work from home,PythonGoogle Sheets
-219.0,Data Science,Tradexa Technologies Private Limited,Pune,PythonSQLAlgorithmsData StructuresData AnalyticsStatistical ModelingGit+2 more
+219.0,Data Science,Tradexa Technologies Private Limited,Pune,PythonSQLAlgorithmsData StructuresData AnalyticsStatistical ModelingGit+2
 220.0,Content and Social Media Marketing,Right To Digital,"Delhi, Noida                                                                (Hybrid)",Creative WritingEnglish Proficiency (Spoken)English Proficiency (Written)
 221.0,Marketing Associate,Ayurveda House Private Limited,Delhi,Email MarketingAnalytical ThinkingClient Relationship Management (CRM)CoordinationEffective CommunicationData AnalysisPerformance Management
 222.0,AI + Graphic Designer,DigiChefs,Mumbai                                                                (Hybrid),Artificial intelligenceGraphic Design
-224.0,Data Science,Zoop Live,Delhi,PythonMachine LearningData ScienceNatural Language Processing (NLP)Deep LearningArtificial intelligenceNumPy+1 more
+224.0,Data Science,Zoop Live,Delhi,PythonMachine LearningData ScienceNatural Language Processing (NLP)Deep LearningArtificial intelligenceNumPy+1
 225.0,Social Media Marketing,FinX Institute Limited,Mumbai,Social Media MarketingDigital MarketingCreative WritingInstagram Marketing
-226.0,Data Analytics,Stirring Minds,Delhi,PythonSQLTime ManagementData AnalyticsMS-ExcelClient Relationship Management (CRM)Power BI+2 more
+226.0,Data Analytics,Stirring Minds,Delhi,PythonSQLTime ManagementData AnalyticsMS-ExcelClient Relationship Management (CRM)Power BI+2
 227.0,AI Content Assistant,Grivaa Consultancy Services,Work from home,Generative AI ToolsChatGPTElevenlabs (GenAI)HeyGen (GenAI)
 228.0,Founders Office,Ayurveda House Private Limited,Delhi,Social Media MarketingData AnalyticsMS-ExcelProduct DevelopmentEffective CommunicationProduct Strategy
 229.0,Graphic Design,MullenLowe Lintas Group,Mumbai,Adobe PhotoshopUI & UX Design
 230.0,AI/ML Python,Tellis Technologies Private Limited,Work from home,JavaScriptPythonMachine LearningArtificial intelligenceMERN
-231.0,AI Graphics Designer,Codematics Solution LLP,Work from home,CorelDRAWProject ManagementAdobe Creative SuiteSoftware TestingCreative WritingUI & UX DesignSketch+4 more
-232.0,Artificial Intelligence (AI),Stirring Minds,Work from home,PythonSQLData StructuresMachine LearningData ScienceNeural NetworksRTOS+7 more
-233.0,CGOps,Taskify,Bangalore,Time ManagementStrategyPlanningOperationsMS-ExcelInterpersonal skillsEffective Communication+2 more
+231.0,AI Graphics Designer,Codematics Solution LLP,Work from home,CorelDRAWProject ManagementAdobe Creative SuiteSoftware TestingCreative WritingUI & UX DesignSketch+4
+232.0,Artificial Intelligence (AI),Stirring Minds,Work from home,PythonSQLData StructuresMachine LearningData ScienceNeural NetworksRTOS+7
+233.0,CGOps,Taskify,Bangalore,Time ManagementStrategyPlanningOperationsMS-ExcelInterpersonal skillsEffective Communication+2
 234.0,Search Engine Optimization (SEO),Delhi Chai Cafe,Delhi,Social Media MarketingGoogle AnalyticsSearch Engine Marketing (SEM)Digital MarketingGoogle AdWordsEnglish Proficiency (Written)
 235.0,Software Engineering- AI Agent Integration Team,EmergentLabs,Bangalore,PythonProblem SolvingArtificial intelligenceAPIsDebuggingPrompt Engineering
 236.0,Performance Marketing,Baweja Media,Work from home,Google AnalyticsGoogle AdWordsEnglish Proficiency (Spoken)Facebook AdsPerformance Marketing
 237.0,Python Development,Scoreazy Edutech Private Limited,Work from home,PythonREST APIFastAPIOpenAI APIStreamlitPrompt Engineering
 238.0,Finance Research Analyst,Edify Equity,Work from home,Research and Analytics
-239.0,Sales – AI Product,Trustscape Technologies Private Limited,Work from home,Social Media MarketingPresentation skillsNetworkingCold CallingAnalytical ThinkingClient Relationship Management (CRM)Lead Generation+3 more
+239.0,Sales – AI Product,Trustscape Technologies Private Limited,Work from home,Social Media MarketingPresentation skillsNetworkingCold CallingAnalytical ThinkingClient Relationship Management (CRM)Lead Generation+3
 240.0,Business Development (Sales),The Hiring Stories,Work from home,Digital MarketingEmail MarketingMS-ExcelEnglish Proficiency (Spoken)English Proficiency (Written)
 241.0,AI & Data Science,Inorbvict Healthcare India Private Limited,Pune,Data ScienceArtificial intelligence
 242.0,Data Research & AI Assistant (Quipo – Digital Magazine Launch),"Quipo (Sydney, Australia)",Work from home,Research and AnalyticsGoogle SheetsChatGPTPerplexity
-243.0,Data Analytics,APEX ENGINEERING,Work from home,JavaPythonSQLData AnalyticsMS-ExcelData ScienceData Interpretation+4 more
+243.0,Data Analytics,APEX ENGINEERING,Work from home,JavaPythonSQLData AnalyticsMS-ExcelData ScienceData Interpretation+4
 244.0,SEO Analyst,Shiplee,Work from home,Search Engine Marketing (SEM)Search Engine Optimization (SEO)Analytical Thinking
-245.0,"Shopify Store Designer, Automation Specialist And Landing Page Developer",Sriven Commerce,Work from home,Social Media MarketingBrandingWordPressVideo EditingSearch Engine Optimization (SEO)Design ThinkingShopify+1 more
+245.0,"Shopify Store Designer, Automation Specialist And Landing Page Developer",Sriven Commerce,Work from home,Social Media MarketingBrandingWordPressVideo EditingSearch Engine Optimization (SEO)Design ThinkingShopify+1
 246.0,Growth Marketer,Anchors.in,Noida,Email MarketingAutomationLead GenerationInterpersonal skillsMarketingEffective Communication
-247.0,Quant Developer,QuantGlobal,"Delhi, Noida",PythonFinanceMongoDBMachine LearningFinancial ModelingStatisticsC++ Programming+7 more
+247.0,Quant Developer,QuantGlobal,"Delhi, Noida",PythonFinanceMongoDBMachine LearningFinancial ModelingStatisticsC++ Programming+7
 248.0,Search Engine Optimization (SEO),TVM Info Solutions Private Limited,Mumbai                                                                (Hybrid),Social Media MarketingGoogle AnalyticsSearch Engine Marketing (SEM)Digital MarketingGoogle AdWordsSearch Engine Optimization (SEO)
 249.0,Data Annotation,RoadVision AI Private Limited,South,Data InterpretationData Annotation
-250.0,AI Engineer,Sameer Khatri,Bangalore                                                                (Hybrid),PythonMachine LearningAmazon Web Services (AWS)Natural Language Processing (NLP)Artificial intelligenceGenerative AI ToolsLLMOps+1 more
+250.0,AI Engineer,Sameer Khatri,Bangalore                                                                (Hybrid),PythonMachine LearningAmazon Web Services (AWS)Natural Language Processing (NLP)Artificial intelligenceGenerative AI ToolsLLMOps+1
 251.0,Digital Marketing,Ample Technologies,Bangalore,Social Media MarketingGoogle AnalyticsSearch Engine Marketing (SEM)Search Engine Optimization (SEO)Creative WritingEmail MarketingEnglish Proficiency (Spoken)
 252.0,Social Media Marketing,Om Technologies Private Limited,Aurangabad                                                                (Hybrid),Digital MarketingFacebook MarketingEmail Marketing
-253.0,Video Annotator,Indika AI Private Limited,Work from home,Attention to DetailTime ManagementData AnalyticsTechnical AnalysisArtificial intelligenceMachine Learning Operations (MLOps)Self-learning+2 more
+253.0,Video Annotator,Indika AI Private Limited,Work from home,Attention to DetailTime ManagementData AnalyticsTechnical AnalysisArtificial intelligenceMachine Learning Operations (MLOps)Self-learning+2
 254.0,Content and Social Media Marketing,Biosolutions Cosmetics,Delhi,Social Media MarketingVideo EditingContent MarketingInstagram Ads
 255.0,Graphic Design,Om Kiran Group,Noida,Adobe PhotoshopVideo EditingAdaptabilityCanvaEffective CommunicationAI Video GenerationAI Image Generation
 256.0,Automation And Business Operations,PaySprint Private Limited,Delhi,JavaScriptPythonDockerEffective CommunicationGoogle Sheets
 257.0,Digital Marketing,Wolf Lifts,Delhi,Social Media MarketingDigital MarketingSearch Engine Optimization (SEO)Creative Writing
 258.0,Search Engine Optimization (SEO),Webwingz Software Private Limited,Work from home,English Proficiency (Written)
-259.0,Digital Marketing,Vanel Tech India Private Limited,Work from home,Social Media MarketingSearch Engine Marketing (SEM)Digital MarketingData AnalyticsGoogle AdWordsSearch Engine Optimization (SEO)Content Marketing+1 more
+259.0,Digital Marketing,Vanel Tech India Private Limited,Work from home,Social Media MarketingSearch Engine Marketing (SEM)Digital MarketingData AnalyticsGoogle AdWordsSearch Engine Optimization (SEO)Content Marketing+1
 260.0,AI Video Editor,NextMind Solutions,Work from home,Video EditingGenerative AI ToolsAI Video GenerationAI Image Generation
 261.0,AI Artist,Dashtoon,Bangalore                                                                (Hybrid),Artificial intelligenceDigital Art
 262.0,Data Analytics,GoMechanic,Pune,PythonSQLData AnalyticsMS-ExcelData SciencePower BITableau
@@ -260,11 +260,11 @@ Unnamed: 0,Title,Company,Location,Skills
 265.0,Data Mining - Part Time,Indika AI Private Limited,Work from home,Time ManagementComputer skillsData Extraction
 266.0,Search Engine Optimization (SEO),Eximine Private Limited,Delhi,Google AnalyticsSearch Engine Optimization (SEO)
 267.0,General Management,GraphixPro Design Academy,Mumbai,CoordinationEnglish Proficiency (Spoken)English Proficiency (Written)Canva
-268.0,Tech Assistant,Supervaisor.AI,Work from home,Attention to DetailTime ManagementProblem SolvingEnglish Proficiency (Spoken)English Proficiency (Written)AdaptabilityGoogle Workspace+3 more
+268.0,Tech Assistant,Supervaisor.AI,Work from home,Attention to DetailTime ManagementProblem SolvingEnglish Proficiency (Spoken)English Proficiency (Written)AdaptabilityGoogle Workspace+3
 269.0,Performance/Growth Marketer,Devavi Media,Work from home,Google AnalyticsGoogle AdWordsMS-ExcelFacebook AdsGoogle Tag Manager
-270.0,Data Analyst,APEX ENGINEERING,Work from home,MySQLPythonSQLData AnalyticsMS-ExcelStatisticsData Interpretation+6 more
+270.0,Data Analyst,APEX ENGINEERING,Work from home,MySQLPythonSQLData AnalyticsMS-ExcelStatisticsData Interpretation+6
 271.0,Graphic Design,Ekam Ventures,Bangalore,Social Media MarketingVideo EditingVisual DesignCanvaGenerative AI ToolsGraphic Design
-272.0,Fresher Marketing Analyst(Work From Home),ABUEM WORKIFYING LLP,Work from home,Team ManagementAttention to DetailMarket AnalysisProblem SolvingData InterpretationMarket researchEffective Communication+6 more
+272.0,Fresher Marketing Analyst(Work From Home),ABUEM WORKIFYING LLP,Work from home,Team ManagementAttention to DetailMarket AnalysisProblem SolvingData InterpretationMarket researchEffective Communication+6
 273.0,Artificial Intelligence (AI),OmniNeura AI Technologies Pvt Ltd,Work from home,PythonMachine LearningNatural Language Processing (NLP)Deep Learning
 274.0,AI Agent Development,NAVNEET TOPTECH,Mumbai,JavaScriptPythonAPIsLangChainPrompt EngineeringChatGPTLLMOps
 275.0,Business Analytics,DeepThought CultureTech Ventures Private Limited,Work from home,Business Analysis
@@ -272,22 +272,22 @@ Unnamed: 0,Title,Company,Location,Skills
 277.0,Artificial Intelligence (AI),DeepThought CultureTech Ventures Private Limited,Work from home,Artificial intelligence
 278.0,Grafana,Jampot Technologies Private Limited,"Thane, Navi Mumbai, Mumbai",Data VisualizationPerformance Monitoring
 279.0,Prompt Engineering (Female),Northbridge Consulting,Work from home,English Proficiency (Spoken)English Proficiency (Written)
-280.0,Data Science,Primetrade.ai,Work from home,PythonTime ManagementStatisticsCryptographyStock Tradingweb3.jsNumPy+2 more
+280.0,Data Science,Primetrade.ai,Work from home,PythonTime ManagementStatisticsCryptographyStock Tradingweb3.jsNumPy+2
 281.0,Vessel Performance,GET Marine Management (India) Pvt Ltd - Geoserve,Mumbai,MS-ExcelEffective Communication
 282.0,Business Research,Sabato Exports Pvt Ltd,Delhi,MS-OfficeMS-WordReport WritingEnglish Proficiency (Spoken)
-283.0,Operations,Next Labs,Mumbai,MS-OfficeDigital MarketingTime ManagementSearch Engine Optimization (SEO)MultitaskingEnglish Proficiency (Spoken)English Proficiency (Written)+1 more
+283.0,Operations,Next Labs,Mumbai,MS-OfficeDigital MarketingTime ManagementSearch Engine Optimization (SEO)MultitaskingEnglish Proficiency (Spoken)English Proficiency (Written)+1
 284.0,AI System Development & Automation,Fast Action Claims,Work from home,JavaPythonOpenAI APIGenerative AI ToolsChatGPT
 285.0,Performance Marketing,Break The Code,"Thane, Navi Mumbai, Mumbai, Virar, Vashi, Vasai, Mira Bhayandar, Nala Sopara, Borivali Tarf Rahur, Vasai-Virar, Bandra",Google AdWordsFacebook MarketingLead GenerationEnglish Proficiency (Spoken)English Proficiency (Written)Facebook AdsInstagram Ads
 286.0,Performance Marketing (Paid Ads),8Views,"Secunderabad, Hyderabad",Google AnalyticsSearch Engine Marketing (SEM)Google AdWordsDigital AdvertisingFacebook Ads
 287.0,Machine Learning,NoirCapial,Work from home,PythonData AnalyticsMachine LearningData ScienceNatural Language Processing (NLP)Deep LearningArtificial intelligence
-288.0,Artificial Intelligence (AI),NoirCapial,Work from home,PythonData StructuresMachine LearningData ScienceNeural NetworksNatural Language Processing (NLP)Deep Learning+1 more
+288.0,Artificial Intelligence (AI),NoirCapial,Work from home,PythonData StructuresMachine LearningData ScienceNeural NetworksNatural Language Processing (NLP)Deep Learning+1
 289.0,Data Analytics,NoirCapial,Work from home,PythonSQLData AnalyticsMS-ExcelData SciencePower BITableau
 290.0,System Design,International Institute Of SDGs & Public Policy Research,Work from home,English Proficiency (Spoken)Feature Engineering
 291.0,Data Analytics,TwiLearn EduTech Private Limited,Work from home,PythonSQLData AnalyticsMS-ExcelData SciencePower BITableau
 292.0,Product (AI Content & Analytics),OpenPrep Academy,Work from home,PythonPostgreSQLPrompt EngineeringLLM evaluation
 293.0,Founders Office,Hybr1d Technologies Private Limited,Work from home,Social Media MarketingData AnalyticsMarket AnalysisResearch and AnalyticsSalesMarketing
 294.0,Agentic AI,International Institute Of SDGs & Public Policy Research,Work from home,Statistical ModelingMachine LearningNeural NetworksEnglish Proficiency (Spoken)Predictive AnalyticsArtificial intelligencePython Libraries
-295.0,AI/ML AI Agent Development,Tellis Technologies Private Limited,Work from home,JavaScriptPythonMachine LearningData ScienceReactArtificial intelligenceData Analysis+2 more
+295.0,AI/ML AI Agent Development,Tellis Technologies Private Limited,Work from home,JavaScriptPythonMachine LearningData ScienceReactArtificial intelligenceData Analysis+2
 296.0,Business Analytics,Pexaworks Technologies Private Limited,Work from home,PythonSQLData AnalyticsBusiness AnalysisResearch and Analytics
 297.0,Machine Learning,TSTEPS PRIVATE LIMITED,"Chennai, Mumbai, Bangalore, Kerala, Puduchery (Hybrid)",PythonData AnalyticsR ProgrammingData ScienceDeep LearningArtificial intelligence
 298.0,Python Development,TSTEPS PRIVATE LIMITED,"Chennai, Mumbai, Hyderabad, Kerala, Puduchery (Hybrid)",HTMLCSSPythonDjangoMachine Learning
@@ -296,26 +296,26 @@ Unnamed: 0,Title,Company,Location,Skills
 301.0,Data Science,Business Quant,Work from home,PythonData AnalyticsData Science
 302.0,Social Media Marketing,Hyphiin,Work from home,Social Media MarketingDigital MarketingFacebook MarketingCreative WritingEnglish Proficiency (Written)Instagram Marketing
 303.0,Email Marketing,Flynaut Infotech Private Limited,Pune,Email MarketingEmail Management
-304.0,Digital Marketing,YuviB Strategic Value Partners,Pune,Social Media MarketingDigital MarketingCreative WritingEmail MarketingEnglish Proficiency (Spoken)English Proficiency (Written)Canva+2 more
+304.0,Digital Marketing,YuviB Strategic Value Partners,Pune,Social Media MarketingDigital MarketingCreative WritingEmail MarketingEnglish Proficiency (Spoken)English Proficiency (Written)Canva+2
 306.0,Equity Research,Business Quant,Work from home,MS-Excel
 307.0,Machine Learning Engineer - Forecasting And Buy Algorithms,Mohan Gopalakrishna,Work from home,PythonMachine LearningData Science
-308.0,Full Stack Development,LiteThink AI,Work from home,HTMLJavaScriptNode.jsReactFirebaseGoogle Cloud Platforms (GCP)OpenAI API+2 more
+308.0,Full Stack Development,LiteThink AI,Work from home,HTMLJavaScriptNode.jsReactFirebaseGoogle Cloud Platforms (GCP)OpenAI API+2
 309.0,AI Drone Engineer,Oxygen To Innovation,Noida,Embedded SystemsC++ ProgrammingArtificial intelligence
 310.0,Video Editing/Making,MostlyKool,Work from home,Adobe PhotoshopAdobe IllustratorVideo EditingAdobe Premiere ProFinal Cut ProVideo Making
 311.0,Artificial Intelligence (AI),SystemaOps,Work from home,Artificial intelligence
-312.0,Intelligent Transportation Systems (ITS) Researcher,The Asian Institute Of Transport Development,Delhi,PythonTime ManagementMachine LearningProblem SolvingLiterature ReviewArtificial intelligenceEffective Communication+5 more
+312.0,Intelligent Transportation Systems (ITS) Researcher,The Asian Institute Of Transport Development,Delhi,PythonTime ManagementMachine LearningProblem SolvingLiterature ReviewArtificial intelligenceEffective Communication+5
 313.0,Digital Marketing & Creative Storytelling,Amplyft Training Services Private Limited,Mumbai                                                                (Hybrid),Social Media MarketingMS-OfficeContent WritingCreative WritingCanvaGenerative AI Tools
 314.0,Quality And Policy,Unibots,Work from home,Quality Assurance/Quality Control (QA/QC)
 315.0,Inside Sales,Caresoft Systems Private Limited,Mira Bhayandar,MS-ExcelEnglish Proficiency (Spoken)English Proficiency (Written)Effective Communication
-316.0,Python Development,Everything About AI,Work from home,CSSPythonMongoDBMachine LearningPostgreSQLREST APIDeep Learning+4 more
+316.0,Python Development,Everything About AI,Work from home,CSSPythonMongoDBMachine LearningPostgreSQLREST APIDeep Learning+4
 317.0,Neuro Technology,TSTEPS PRIVATE LIMITED,"Chennai, Madurai, Bangalore, Kerala, Andra, Puduchery                                                                (Hybrid)",Machine LearningEmbedded SystemsSignal Processing
-318.0,AI Agent Development,Aditya Jha,Work from home,JavaScriptPythonNode.jsJSONREST APIAPIsOpenAI API+1 more
+318.0,AI Agent Development,Aditya Jha,Work from home,JavaScriptPythonNode.jsJSONREST APIAPIsOpenAI API+1
 319.0,Data Research & Lead Generation,MSA Software,Work from home,Search Engine Optimization (SEO)Data entryMarketing StrategyResearch and AnalyticsMarket research
-320.0,AI Product Strategy,Altekchain Software Solutions,Work from home,PythonPresentation skillsMS SQL ServerAnalytical ThinkingProduct Lifecycle Management(PLM)Effective CommunicationData Analysis+1 more
+320.0,AI Product Strategy,Altekchain Software Solutions,Work from home,PythonPresentation skillsMS SQL ServerAnalytical ThinkingProduct Lifecycle Management(PLM)Effective CommunicationData Analysis+1
 321.0,Information Technology,"Milltex Blanks Inc (New York, United States)",Work from home,PythonAPIsReplit (GenAI)
 322.0,Robotics,Gephr Labs,Hyderabad,PythonRoboticsC++ Programming
 323.0,Inside Sales,ChitraMandir Creations,Work from home,NegotiationMarket AnalysisCold CallingLead Generation
-324.0,AI Video Creator And Prompt Engineer,Village Talkies,Bangalore,CreativityAttention to DetailTime ManagementScript WritingVideo MakingAnimationStorytelling+10 more
+324.0,AI Video Creator And Prompt Engineer,Village Talkies,Bangalore,CreativityAttention to DetailTime ManagementScript WritingVideo MakingAnimationStorytelling+10
 325.0,AI & Automation Expert (Remote- Full-Time),"Pearl Lemon (London, United Kingdom)",Work from home,Problem SolvingAutomationData entryData InterpretationEffective CommunicationAPIs
 326.0,Business/Data Research,KP Hospicare Enterprises,Noida,Attention to DetailAnalytical ThinkingDatabase Management System (DBMS)Interpersonal skillsResearch and AnalyticsMarket research
 327.0,Social Media Marketing,GM's SpeechGears Private Limited,"Delhi, Gurgaon, Meerut, Greater Noida, Noida",Social Media MarketingDigital MarketingSearch Engine Optimization (SEO)Instagram Marketing
@@ -327,21 +327,21 @@ Unnamed: 0,Title,Company,Location,Skills
 333.0,Operations,A Pardawala,Mumbai,MS-OfficeMS-WordMS-PowerPointMS-ExcelEnglish Proficiency (Spoken)English Proficiency (Written)
 334.0,Data Generation,Skan.ai,Bangalore                                                                (Hybrid),Python
 335.0,Data Analytics,The Affordable Organic Store,Hyderabad,MS-OfficeSQLData AnalyticsMS-ExcelData SciencePower BI
-336.0,SAP BI (Business Intelligence) & Analytics,Entrepreneur Growth Lab (OPC) Private Limited,Noida                                                                (Hybrid),Data AnalyticsMS-ExcelBusiness AnalysisData VisualizationPower BITableauData Analysis+2 more
+336.0,SAP BI (Business Intelligence) & Analytics,Entrepreneur Growth Lab (OPC) Private Limited,Noida                                                                (Hybrid),Data AnalyticsMS-ExcelBusiness AnalysisData VisualizationPower BITableauData Analysis+2
 337.0,Machine Learning,Tilak Karveran,Work from home,PythonSQLData AnalyticsMachine LearningNoSQLscikit-learnSeaborn
-338.0,Artificial Intelligence (AI),Nobrokerage.com,Pune,JavaPythonData StructuresArtificial intelligenceJuliaOpenAI APIKeras+2 more
+338.0,Artificial Intelligence (AI),Nobrokerage.com,Pune,JavaPythonData StructuresArtificial intelligenceJuliaOpenAI APIKeras+2
 339.0,Google & Meta Ads Manager,Ayatrio,Kolkata,Google AnalyticsGoogle AdWordsAnalytical ThinkingInstagram MarketingYouTube AdsFacebook AdsGoogle Tag Manager
-340.0,Quant Researcher,QuantGlobal,"Delhi, Ghaziabad, Greater Noida, Noida",PythonStatistical ModelingMachine LearningFinancial ModelingTableauStock TradingData Analysis+3 more
+340.0,Quant Researcher,QuantGlobal,"Delhi, Ghaziabad, Greater Noida, Noida",PythonStatistical ModelingMachine LearningFinancial ModelingTableauStock TradingData Analysis+3
 341.0,Quant Developer,QuantGlobal,"Delhi, Noida",PythonMongoDBMachine LearningC++ ProgrammingStock TradingAPIsProbability
 342.0,Data Analytics,Satyanarayana S,Work from home,PythonSQLData Analytics
 343.0,Node.js Generative AI/ML Developer,Arakoo,Work from home,Node.jsExpress.jsTypeScriptTerraform
 344.0,Quant Developer,AlgoBulls,Work from home,PythonGitGitHubData ScienceBashQuantitative Research
-345.0,AI Agent Development,EshiaBIM,Ahmedabad,JSONFrontend developmentMicrosoft AzureREST APIAmazon Web Services (AWS)CI/CDFastAPI+9 more
+345.0,AI Agent Development,EshiaBIM,Ahmedabad,JSONFrontend developmentMicrosoft AzureREST APIAmazon Web Services (AWS)CI/CDFastAPI+9
 347.0,Full Stack Development - AI,Yardstick,Work from home,HTMLCSSJavaScriptMongoDBNode.jsReactNext.js
 348.0,AI Agent Development,Yardstick,Work from home,PythonMachine Learning
 349.0,Export Import,Fortuna Enterprise,Vadodara,Marketing
 350.0,Social Media Marketing,Marketing Matrix,Jaipur,Social Media MarketingDigital MarketingInstagram MarketingFacebook Ads
-351.0,Digital Marketing,Wow!Zindagi,Ranchi,Social Media MarketingSearch Engine Marketing (SEM)Digital MarketingSearch Engine Optimization (SEO)Facebook MarketingCreative WritingEnglish Proficiency (Written)+1 more
+351.0,Digital Marketing,Wow!Zindagi,Ranchi,Social Media MarketingSearch Engine Marketing (SEM)Digital MarketingSearch Engine Optimization (SEO)Facebook MarketingCreative WritingEnglish Proficiency (Written)+1
 352.0,AI Business Development,Redjinni Industries Private Limited,Work from home,Digital AdvertisingInterpersonal skillsEffective Communication
 353.0,Vibe Coders,Stirring Minds,Work from home,Web developmentArtificial intelligenceOpenAI APIClaudeVibe CodingCursor (GenAI)Lovable (GenAI)
 354.0,Sales & Marketing (AI Assessment Platform),Ability Audit SML Services,Mumbai,Sales ManagementBusiness DevelopmentSalesMarketing
@@ -354,23 +354,23 @@ Unnamed: 0,Title,Company,Location,Skills
 361.0,Video Editing/Making,SQB Pictures,Delhi,Adobe PhotoshopAdobe IllustratorVideo EditingAdobe Premiere ProVideo Making
 362.0,Business Analytics,ValQuant Research Private Limited,Thane,Social Media MarketingMS-OfficeData AnalyticsBusiness AnalysisEnglish Proficiency (Written)Marketing Campaigns
 363.0,Project Management,The Concept Company,Mumbai,Project ManagementMS-ExcelClient RelationshipEffective Communication
-364.0,AI Agent Development,Awwgment,Work from home,PythonREST APITransformersFastAPIAPIsOpenAI APILangChain+4 more
+364.0,AI Agent Development,Awwgment,Work from home,PythonREST APITransformersFastAPIAPIsOpenAI APILangChain+4
 365.0,Market Research,We3 Tech Works,Mumbai                                                                (Hybrid),Research and Analytics
 366.0,Social Media Marketing,Gemlay Jewels,Mohali,Social Media MarketingEnglish Proficiency (Written)Instagram Marketing
 367.0,Content and Social Media Marketing,Katalyst India,Mumbai                                                                (Hybrid),LinkedIn MarketingCanvaInstagram Marketing
 368.0,Business Development (Sales),OptivisX,"Delhi, Gurgaon, Noida                                                                (Hybrid)",Digital MarketingEmail MarketingEnglish Proficiency (Spoken)English Proficiency (Written)
 369.0,Business Development (Sales),Hiringjet,Bangalore,B2B SalesInside Sales
 370.0,LLM,Indika AI Private Limited,Delhi,MySQLPythonMachine Learning
-371.0,Artificial Intelligence (AI),Almost Magic Private Limited,"Chandigarh, Mohali, Panchkula",PythonData StructuresMachine LearningData ScienceNeural NetworksNatural Language Processing (NLP)Deep Learning+1 more
+371.0,Artificial Intelligence (AI),Almost Magic Private Limited,"Chandigarh, Mohali, Panchkula",PythonData StructuresMachine LearningData ScienceNeural NetworksNatural Language Processing (NLP)Deep Learning+1
 372.0,Artificial Intelligence (AI),Pulse Labs,Work from home,MS-OfficeSoftware TestingArtificial intelligence
 373.0,Business Development (Sales),Ratoon Professional Services Private Limited,Work from home,MS-ExcelSales ManagementSales
 374.0,Digital Growth & Performance Marketing,Mayuresh Darne,"Navi Mumbai, Belapur, Vashi Navi Mumbai                                                                (Hybrid)",Social Media MarketingMarketing StrategyContent MarketingDigital AdvertisingGraphic Design
 375.0,Operations Assistant,Himanshi Sharma,Work from home,Problem SolvingEnglish Proficiency (Written)CanvaChatGPT
-376.0,Digital Marketing,Navicater Solutions India Private Limited,Kochi,Social Media MarketingAdobe IllustratorSearch Engine Marketing (SEM)Digital MarketingSearch Engine Optimization (SEO)Facebook MarketingCreative Writing+2 more
+376.0,Digital Marketing,Navicater Solutions India Private Limited,Kochi,Social Media MarketingAdobe IllustratorSearch Engine Marketing (SEM)Digital MarketingSearch Engine Optimization (SEO)Facebook MarketingCreative Writing+2
 377.0,Social Media Marketing,Glowil Kart By PSS Tradelink,Pune                                                                (Hybrid),Social Media MarketingDigital MarketingSearch Engine Optimization (SEO)Facebook MarketingInstagram Marketing
-378.0,Inbound/Digital Marketing,Cardtree,Work from home,Social Media MarketingWordPressVideo EditingSearch Engine Optimization (SEO)Email MarketingVideo MakingWeb development+5 more
-379.0,Social Media Marketing,Dr Karanjeet Singh,Delhi,Social Media MarketingSearch Engine Marketing (SEM)Digital MarketingSearch Engine Optimization (SEO)Facebook MarketingEnglish Proficiency (Spoken)English Proficiency (Written)+1 more
-380.0,Content & Research Associate,Ampliverse,Work from home,MS-OfficeDigital MarketingSearch Engine Optimization (SEO)Analytical ThinkingEnglish Proficiency (Written)Research and AnalyticsGoogle Suite (G Suite)+2 more
+378.0,Inbound/Digital Marketing,Cardtree,Work from home,Social Media MarketingWordPressVideo EditingSearch Engine Optimization (SEO)Email MarketingVideo MakingWeb development+5
+379.0,Social Media Marketing,Dr Karanjeet Singh,Delhi,Social Media MarketingSearch Engine Marketing (SEM)Digital MarketingSearch Engine Optimization (SEO)Facebook MarketingEnglish Proficiency (Spoken)English Proficiency (Written)+1
+380.0,Content & Research Associate,Ampliverse,Work from home,MS-OfficeDigital MarketingSearch Engine Optimization (SEO)Analytical ThinkingEnglish Proficiency (Written)Research and AnalyticsGoogle Suite (G Suite)+2
 381.0,Excel Expert and Communication Expert,JP IT STAFFING LLC,Work from home,MISData AnalysisCollectionsReport Generation
 382.0,Regulatory Data Research & Automation (Finance & Compliance),Neurasix AI Private Limited,Work from home,Data Extraction
 383.0,Data Labelling,Radic Advertising Private Limited,Hyderabad                                                                (Hybrid),PythonMS-ExcelJSON
@@ -381,7 +381,7 @@ Unnamed: 0,Title,Company,Location,Skills
 389.0,EXPORT MIS ANALYST,JP IT STAFFING LLC,Work from home,MISData AnalysisCollectionsReport Generation
 390.0,Sales and Marketing,Amol Technologies,Nashik,MarketingEffective CommunicationSales Strategy
 391.0,Marketing,MoneySquad,Delhi,Social Media MarketingDigital MarketingEmail MarketingMS-ExcelInside Sales
-392.0,Full Stack AI Engineer,DigiPlus IT,"Mumbai, Maharashtra",MongoDBNode.jsUI & UX DesignDockerGitHubTypeScriptDevOps+6 more
+392.0,Full Stack AI Engineer,DigiPlus IT,"Mumbai, Maharashtra",MongoDBNode.jsUI & UX DesignDockerGitHubTypeScriptDevOps+6
 393.0,Arabic Language Specialist,NoBroker,Bangalore,English Proficiency (Spoken)Arabic Proficiency (Spoken)Arabic Proficiency (Written)
 394.0,Artificial Intelligence (AI),Evolvra,Work from home,PythonMachine LearningData ScienceNeural NetworksNatural Language Processing (NLP)Deep LearningArtificial intelligence
 395.0,Software Engineer,Giddly.com,Work from home,PythonMachine LearningReact NativeGolangTypeScriptArtificial intelligence
@@ -389,16 +389,16 @@ Unnamed: 0,Title,Company,Location,Skills
 397.0,Artificial Intelligence (AI),Kazunov 1AI,Work from home,PythonTensorFlowPyTorch
 398.0,Machine Learning,EvoNexis,Work from home,PythonData AnalyticsMachine LearningData ScienceNatural Language Processing (NLP)Deep LearningArtificial intelligence
 399.0,Data Analytics,EvoNexis,Work from home,PythonSQLData AnalyticsMS-ExcelData SciencePower BITableau
-400.0,Business Development (Sales),BR SoftSol,Work from home,Social Media MarketingDigital MarketingEmail MarketingMS-ExcelLead GenerationEnglish Proficiency (Spoken)English Proficiency (Written)+2 more
+400.0,Business Development (Sales),BR SoftSol,Work from home,Social Media MarketingDigital MarketingEmail MarketingMS-ExcelLead GenerationEnglish Proficiency (Spoken)English Proficiency (Written)+2
 401.0,Digital Marketing,SRS Media,Coimbatore,Digital Marketing
 402.0,Social Media Analysis,DeepThought CultureTech Ventures Private Limited,Work from home,Business AnalysisPsychology
-403.0,Data Science AI&ML Python Research,Megaminds IT Services,Work from home,JavaPythonDjangoMachine LearningComputer VisionFlaskDeep Learning+9 more
+403.0,Data Science AI&ML Python Research,Megaminds IT Services,Work from home,JavaPythonDjangoMachine LearningComputer VisionFlaskDeep Learning+9
 404.0,Machine Learning,Pexaworks Technologies Private Limited,Work from home,PythonMachine LearningTensorFlowPyTorch
 405.0,Technical Writer,DTALES Tech,Bangalore                                                                (Hybrid),Content WritingSearch Engine Optimization (SEO)Technical WritingContent MarketingContent Editing
 406.0,Data Analytics,Glorious Insight Private Limited,Mumbai,SQLPower BI
-407.0,Artificial Intelligence (AI),Hubnine India Private Limited,Work from home,CSSContent WritingPythonData StructuresMachine LearningData ScienceReact+6 more
+407.0,Artificial Intelligence (AI),Hubnine India Private Limited,Work from home,CSSContent WritingPythonData StructuresMachine LearningData ScienceReact+6
 408.0,Ticket Inventory Management,Eva Live,Mumbai,MS-ExcelInterpersonal skillsEffective CommunicationGoogle Sheets
-409.0,AI-Powered Video Editor,Gautam  Kumawat,Jaipur,Video EditingAdobe Premiere ProAdobe AuditionAdobe After EffectsColor GradingCapcutVisual Storytelling+3 more
+409.0,AI-Powered Video Editor,Gautam  Kumawat,Jaipur,Video EditingAdobe Premiere ProAdobe AuditionAdobe After EffectsColor GradingCapcutVisual Storytelling+3
 410.0,Market Research,KnowledgeChakra,Work from home,Effective Communication
 411.0,Digital Marketing,HFS Hearing Clinics Private Limited,Lucknow,Search Engine Marketing (SEM)Digital Marketing
 412.0,Social Media Marketing,House Of Qalakari,Bangalore                                                                (Hybrid),Social Media MarketingAdobe PhotoshopImage EditingEnglish Proficiency (Spoken)Graphic Design
@@ -411,52 +411,52 @@ Unnamed: 0,Title,Company,Location,Skills
 419.0,Biomedical,Value Kare Healthtech LLP,"Pune, Hyderabad, Jaipur, Bangalore",MS-PowerPointAutomationAdvanced ExcelPower BICanvaData Analysis
 420.0,Creative Design,VijanX,Jaipur,UI & UX DesignDesign ThinkingEnglish Proficiency (Written)CanvaAdobe XDFigma
 421.0,Pre- Sales,Lingual Consultancy Services,Gurgaon,MS-OfficeResearch and Analytics
-422.0,Founder Office,Daalchini Technologies,Noida,JavaMySQLPythonSQLMS-ExcelAutomationData Analysis+1 more
+422.0,Founder Office,Daalchini Technologies,Noida,JavaMySQLPythonSQLMS-ExcelAutomationData Analysis+1
 423.0,Field Survey Executive,Pooja Consulation Company,Manesar,Field WorkEffective Communication
 424.0,Digital Marketing,SM Services,Pune,Social Media MarketingSearch Engine Marketing (SEM)Digital MarketingSearch Engine Optimization (SEO)Facebook MarketingEmail MarketingInstagram Marketing
 425.0,Inside Sales,CloudBC Labs Private Limited,Bangalore                                                                (Hybrid),Cold CallingComputer skillsLead GenerationBusiness Development
-426.0,Marketing,RotoAI Private Limited,Delhi,Social Media MarketingMS-OfficeBloggingMS-PowerPointPresentation skillsDigital MarketingEmail Marketing+4 more
+426.0,Marketing,RotoAI Private Limited,Delhi,Social Media MarketingMS-OfficeBloggingMS-PowerPointPresentation skillsDigital MarketingEmail Marketing+4
 427.0,AI Agent Development,Stareout Games,Work from home,Artificial intelligence
 429.0,Generative AI Machine Learning,Arakoo,"Delhi, Noida",Python
 430.0,Sales and Marketing,The Growth Hive,Hyderabad                                                                (Hybrid),Lead Generation
 431.0,AI Agent Development (Only Night Shift),Big Internet E-commerce Private Limited,Work from home,JavaScriptAmazon Web Services (AWS)APIsLangChainNestJSLLMOps
 432.0,Data Analytics,Symonis,Work from home,PythonSQLData AnalyticsMS-ExcelData SciencePower BITableau
-433.0,Digital Marketing & Content Creation Intern,Job Vault,Work from home,Digital MarketingEmail MarketingContent ManagementLinkedIn MarketingCanvaInstagram MarketingInstagram Ads+5 more
-434.0,Mobile App Development,VigiSafeMed,Work from home,PythonMachine LearningNode.jsFlutterReact NativeiOSAndroid+1 more
-435.0,Data Analytics,Ergode IT Services Private Limited,Mumbai,MS-PowerPointData AnalyticsMS-ExcelPower BICanvaEffective CommunicationData Cleaning+2 more
+433.0,Digital Marketing & Content Creation Intern,Job Vault,Work from home,Digital MarketingEmail MarketingContent ManagementLinkedIn MarketingCanvaInstagram MarketingInstagram Ads+5
+434.0,Mobile App Development,VigiSafeMed,Work from home,PythonMachine LearningNode.jsFlutterReact NativeiOSAndroid+1
+435.0,Data Analytics,Ergode IT Services Private Limited,Mumbai,MS-PowerPointData AnalyticsMS-ExcelPower BICanvaEffective CommunicationData Cleaning+2
 436.0,MIS Executive,Sky Creation Interior Designers,Navi Mumbai,Data VisualizationAdvanced ExcelMISGoogle Cloud Platforms (GCP)Report GenerationGoogle Sheets
-437.0,Digital Marketing,DJRS Hospitality,Mumbai,Social Media MarketingDigital MarketingFacebook MarketingCreative WritingEmail MarketingEnglish Proficiency (Spoken)English Proficiency (Written)+1 more
+437.0,Digital Marketing,DJRS Hospitality,Mumbai,Social Media MarketingDigital MarketingFacebook MarketingCreative WritingEmail MarketingEnglish Proficiency (Spoken)English Proficiency (Written)+1
 438.0,Social Media Marketing,ADG Online Solutions Private Limited,Delhi,Social Media MarketingSearch Engine Marketing (SEM)Digital MarketingSearch Engine Optimization (SEO)Facebook MarketingEmail MarketingInstagram Marketing
 439.0,AI Agent Development,WhizJuniors,Mumbai                                                                (Hybrid),PythonProblem SolvingDatabase TestingFirebaseAPIsChatGPTGemini
 440.0,Virtual AI Internship Opportunity: Safer Cities Challenge,Multiverz,Work from home,Critical thinkingProblem SolvingArtificial intelligenceGenerative AI Tools
 441.0,Content and Social Media Marketing,UpliftU,"Thane, Mumbai",Social Media MarketingVideographyFacebook MarketingPhotographyContent ManagementInstagram Marketing
 442.0,AI/ML Dev,Trinity Packaging Co. Pvt. Ltd.,Mumbai                                                                (Hybrid),PythonDockerArtificial intelligenceAPIsLLMOps
-443.0,Data Science,Accredian,Work from home,PythonVideo EditingSQLMachine LearningVideo MakingR ProgrammingDeep Learning+1 more
+443.0,Data Science,Accredian,Work from home,PythonVideo EditingSQLMachine LearningVideo MakingR ProgrammingDeep Learning+1
 444.0,FinTech & Data Analytics,Nebulytix Technologies,"Chennai, Delhi, Hyderabad, Mumbai, Bangalore, Andhra Pradesh",JavaPython.NETWeb developmentDigital AdvertisingArtificial intelligence
 445.0,Social Media & Content,Eveens Infominds Private Limited,Delhi,Social Media MarketingContent WritingMS-ExcelCanvaInterpersonal skillsEffective CommunicationCapcut
 446.0,Marketing,Prodigy Infratech LLP,Noida                                                                (Hybrid),Social Media Marketing
 447.0,Business Development (Sales),The Startup Folks,Work from home,MS-ExcelEnglish Proficiency (Spoken)English Proficiency (Written)
 448.0,MIS,Zippee,"Mumbai, Bangalore",OperationsMS-ExcelEffective CommunicationData AnalysisData CleaningCollaboration
 449.0,Social Media Marketing,Mify Solutions Private Limited,Ghaziabad,Social Media MarketingAdobe PhotoshopCanvaCapcut
-450.0,Data Analytics,"Adore Beauty (Melbourne, Australia)",Work from home,PythonSQLData AnalyticsMS-ExcelData entryData SciencePower BI+2 more
+450.0,Data Analytics,"Adore Beauty (Melbourne, Australia)",Work from home,PythonSQLData AnalyticsMS-ExcelData entryData SciencePower BI+2
 451.0,Content and Social Media Marketing,RaviShikha Investments,Panipat,Social Media MarketingEmail MarketingCanvaFilmora
 452.0,Data Analytics Mentor,Mikado Solutions,Work from home,PythonData AnalyticsR ProgrammingData VisualizationPower BITableauData Analysis
-453.0,AI and ML Mentor,Mikado Solutions,Work from home,Machine LearningComputer VisionNeural NetworksNatural Language Processing (NLP)Artificial intelligenceGenerative AI DevelopmentLLMOps+1 more
+453.0,AI and ML Mentor,Mikado Solutions,Work from home,Machine LearningComputer VisionNeural NetworksNatural Language Processing (NLP)Artificial intelligenceGenerative AI DevelopmentLLMOps+1
 454.0,Video Editing & AI Content Generation,KalaGato,Work from home,Video Editing
-455.0,Sales and Marketing,Sahas Global Safety,Ghaziabad,Problem SolvingComputer skillsLead GenerationTeamworkAdaptabilitySalesMarketing+2 more
+455.0,Sales and Marketing,Sahas Global Safety,Ghaziabad,Problem SolvingComputer skillsLead GenerationTeamworkAdaptabilitySalesMarketing+2
 456.0,Tech,STARTUP SQUAD PRIVATE LIMITED,Gurgaon,JavaScriptPython
 457.0,Research & Insights,Caarya,"Chennai, Delhi, Kolkata, Hyderabad, Mumbai, Bangalore, Vishakhapatnam                                                                (Hybrid)",Attention to DetailMS-ExcelLead GenerationResearch and AnalyticsEmail ManagementGoogle SheetsSales Strategy
 458.0,Digital Marketing,Break Protection,Bangalore,Social Media MarketingCreative WritingInstagram Marketing
-,Android App Development,Practice Buzz,Chandigarh,PythonGitMachine LearningJSONGitHubComputer VisionREST API+4 more
+,Android App Development,Practice Buzz,Chandigarh,PythonGitMachine LearningJSONGitHubComputer VisionREST API+4
 ,Junior Mobile App Developer (React Native),SeleqtAI Solutions Private Limited,Work from home,Mobile Application DevelopmentReact NativeiOSAndroid
-,Mobile App Testing,Corefinexperts Global Technologies Private Limited,Work from home,JavaPythonSQLNetworkingData AnalyticsUser Interface (UI) DevelopmentMobile Application Development+13 more
-,Mobile App Development,Pexaworks Technologies Private Limited,Work from home,JavaJavaScriptNode.jsUI & UX DesignExpress.jsReactReact Native+2 more
-,Android App Development,Sameer Khatri,Bangalore                                                                (Hybrid),HTML 5CSS3GitMobile Application DevelopmentGitHubWeb developmentFrontend development+8 more
+,Mobile App Testing,Corefinexperts Global Technologies Private Limited,Work from home,JavaPythonSQLNetworkingData AnalyticsUser Interface (UI) DevelopmentMobile Application Development+13
+,Mobile App Development,Pexaworks Technologies Private Limited,Work from home,JavaJavaScriptNode.jsUI & UX DesignExpress.jsReactReact Native+2
+,Android App Development,Sameer Khatri,Bangalore                                                                (Hybrid),HTML 5CSS3GitMobile Application DevelopmentGitHubWeb developmentFrontend development+8
 ,Android App Development,DharmaIQ,Bangalore,AndroidKotlinJetpack Compose
 ,Flutter Development,Nexotech Solutions,"Kollam, Kottayam, Kozhikode, Pathanamthitta, Thiruvananthapuram, Thrissur, Malappuram, Alappuzha, Wayanad, Idukki, Kochi, Ernakulam, Palakkad, Kannur, Kasaragod                                                                (Hybrid)",FlutterREST APIDartGraphQLWebSockets
 ,Android App Development,7System Technology Private Limited,Delhi,JavaXMLREST APIAndroidFirebaseAPIs
-,Software Development,TringBox,Work from home,JavaCSSJavaScriptPython.NETNode.jsUI & UX Design+9 more
-,Mobile App Development,Ghackk Technologies,Gurgaon,MySQLHTMLCSSJavaScriptPythonMongoDBAngularJS+12 more
+,Software Development,TringBox,Work from home,JavaCSSJavaScriptPython.NETNode.jsUI & UX Design+9
+,Mobile App Development,Ghackk Technologies,Gurgaon,MySQLHTMLCSSJavaScriptPythonMongoDBAngularJS+12
 ,,,, 
 ,React Native Development,Gharpayy,Bangalore                                                                (Hybrid),JavaReactReact Native
 ,iOS Testing,Across The Globe (ATG),Work from home,PythonSeleniumManual TestingTest AutomationUsability Testing
@@ -464,10 +464,10 @@ Unnamed: 0,Title,Company,Location,Skills
 ,Mobile App Development,AiVibes Pvt. Ltd.,Work from home,MongoDBREST APIReact NativeGolangAmazon Web Services (AWS)Android
 ,Android App Development,Hunt Digital Media,Work from home,JavaAndroidKotlin
 ,Mobile App Developer (oct),Kaushal Ranjeet Private Limited,Work from home,Objective CNode.jsReact NativeKotlinFirebase
-,Mobile App Development,Sanora India Private Limited,Delhi,JavaPythonSoftware TestingNode.jsUI & UX DesignReactFlutter+9 more
+,Mobile App Development,Sanora India Private Limited,Delhi,JavaPythonSoftware TestingNode.jsUI & UX DesignReactFlutter+9
 ,JavaScript Development,Smaclify Technologies,Pune,JavaScriptNode.jsReact NativeAngular
 ,Android App Development,Aadi Foundation,Work from home,JavaXMLREST APIAndroidKotlinFirebase
-,Android App Development,Vijayi WFH Technologies Private Limited,Gurgaon,JavaXMLGitHubREST APIAndroidKotlinFirebase+1 more
+,Android App Development,Vijayi WFH Technologies Private Limited,Gurgaon,JavaXMLGitHubREST APIAndroidKotlinFirebase+1
 ,Android App Development,DRP Infotech,Bhubaneswar,JavaXMLREST APIAndroid
 ,Android App Development,Audify Tech Private Limited,Work from home,JavaXMLREST APIAndroidKotlinFirebase
 ,Android App Development,Traincape Technology,Delhi,PythonMongoDBNode.jsExpress.jsReact NativeTailwind CSS
@@ -476,11 +476,11 @@ Unnamed: 0,Title,Company,Location,Skills
 ,Mobile App Development,"KidZoo (Jersey City, United States)",Work from home,FlutterFirebaseCloud Firestore
 ,Mobile App Development,Whatbytes,Work from home,FlutterDartAndroid
 ,Flutter Development,Meru Technosoft Private Limited,Work from home,FlutterREST APIDartiOSAndroidFirebaseCloud Firestore
-,Mobile App Development,Brand Leap Media,Work from home,JavaNode.jsPostgreSQLGitHubReactFlutterREST API+8 more
+,Mobile App Development,Brand Leap Media,Work from home,JavaNode.jsPostgreSQLGitHubReactFlutterREST API+8
 ,Flutter Development,Starkzapp Technologies Private Limited,Work from home,FlutterDart
 ,Android App Development,Hybr1d Technologies Private Limited,Work from home,JavaAndroidKotlinFirebase
 ,Flutter Development,Itax Easy Private Limited,Noida,FlutterREST APIDartiOSAndroidFirebaseCloud Firestore
-,Full Stack Development,LiteThink AI,Work from home,HTMLJavaScriptNode.jsReactFirebaseGoogle Cloud Platforms (GCP)OpenAI API+2 more
+,Full Stack Development,LiteThink AI,Work from home,HTMLJavaScriptNode.jsReactFirebaseGoogle Cloud Platforms (GCP)OpenAI API+2
 ,Mobile App Development,F Square Media,Work from home,ReactReact NativeiOSAndroid
 ,Mobile App Development,URBAN PGM,Work from home,JavaSwiftFlutterReact NativeiOSAndroidKotlin
 ,Flutter Development,Scienext India Private Limited,Ahmedabad,FlutterREST APIDartiOSAndroid
@@ -489,7 +489,7 @@ Unnamed: 0,Title,Company,Location,Skills
 ,Course Creator (App Development),SelfCode Academy,Work from home,GitFlutterReact NativeEnglish Proficiency (Spoken)iOSAndroid
 ,Flutter Developer (Mobile App Development),Akshat Gupta,Work from home,GitUI & UX DesignFlutterREST APIDartFirebase
 ,Android App Development,Pixelkube Technologies Private Limited,Work from home,REST APIAndroidKotlin
-,Designer/Flutter + Node.js Developer/Next.js Developer,Deep Nucleus,Work from home,MySQLJavaScriptAdobe IllustratorMongoDBNode.jsReactFlutter+5 more
+,Designer/Flutter + Node.js Developer/Next.js Developer,Deep Nucleus,Work from home,MySQLJavaScriptAdobe IllustratorMongoDBNode.jsReactFlutter+5
 ,Flutter Development,Coderstudio,Salem,Flutter
 ,Flutter Development,Offiql Technologies Private Limited,Work from home,FlutterREST APIDartiOSAndroidFirebaseCloud Firestore
 ,Android App Development Mentor,Tutedude,Work from home,Kotlin
@@ -497,9 +497,9 @@ Unnamed: 0,Title,Company,Location,Skills
 ,Flutter Development,Infits,Work from home,FlutterREST APIDartiOSAndroidFirebaseCloud Firestore
 ,Mobile App Development,Cosy Toys,Work from home,JavaiOSAndroid
 ,Flutter Development,International Institute Of Data Science & Technology,Mumbai                                                                (Hybrid),FlutterREST APIDartiOSAndroidFirebaseCloud Firestore
-,Mobile App Development,VigiSafeMed,Work from home,PythonMachine LearningNode.jsFlutterReact NativeiOSAndroid+1 more
+,Mobile App Development,VigiSafeMed,Work from home,PythonMachine LearningNode.jsFlutterReact NativeiOSAndroid+1
 ,Android App Development,Pixelkube Technologies Private Limited,Work from home,REST APIAndroidKotlin
-,Designer/Flutter + Node.js Developer/Next.js Developer,Deep Nucleus,Work from home,MySQLJavaScriptAdobe IllustratorMongoDBNode.jsReactFlutter+5 more
+,Designer/Flutter + Node.js Developer/Next.js Developer,Deep Nucleus,Work from home,MySQLJavaScriptAdobe IllustratorMongoDBNode.jsReactFlutter+5
 ,Flutter Development,Coderstudio,Salem,Flutter
 ,Flutter Development,Offiql Technologies Private Limited,Work from home,FlutterREST APIDartiOSAndroidFirebaseCloud Firestore
 ,Android App Development Mentor,Tutedude,Work from home,Kotlin
@@ -507,28 +507,28 @@ Unnamed: 0,Title,Company,Location,Skills
 ,Flutter Development,Infits,Work from home,FlutterREST APIDartiOSAndroidFirebaseCloud Firestore
 ,Mobile App Development,Cosy Toys,Work from home,JavaiOSAndroid
 ,Flutter Development,International Institute Of Data Science & Technology,Mumbai                                                                (Hybrid),FlutterREST APIDartiOSAndroidFirebaseCloud Firestore
-,Mobile App Development,VigiSafeMed,Work from home,PythonMachine LearningNode.jsFlutterReact NativeiOSAndroid+1 more
+,Mobile App Development,VigiSafeMed,Work from home,PythonMachine LearningNode.jsFlutterReact NativeiOSAndroid+1
 ,,,, 
 ,Mobile App Development,Hungy Inc,Work from home,Node.jsUser Interface (UI) DevelopmentUI & UX DesignReact NativeiOSAndroid
 ,Full Stack Development,Gagan Puri,Work from home,MySQLMongoDBNode.jsGitHubExpress.jsReact Native
 ,Flutter Development,ANO SEO Tool,Work from home,FlutterREST APIDartiOSAndroidFirebaseCloud Firestore
 ,Flutter Development,Digital Guruji,Work from home,Flutter
-,Flutter Development,AGOMUC PROGRAM PRIVATE LIMITED,Delhi                                                                (Hybrid),FlutterREST APIDartiOSAndroidFirebaseFirebase Cloud Messaging+2 more
+,Flutter Development,AGOMUC PROGRAM PRIVATE LIMITED,Delhi                                                                (Hybrid),FlutterREST APIDartiOSAndroidFirebaseFirebase Cloud Messaging+2
 ,Kotlin Developer,Srchout Software Private Limited,Gurgaon,JavaHTMLCSSREST APIKotlinAPIs
 ,Flutter Development,Jarvis Technology & Strategy Consulting,Noida,GitFlutterDart
 ,Mobile App Development,Cogent Web Services,Work from home,JavaFlutterReact NativeKotlinFirebase
-,Android App Development,Suyash Tidke,Work from home,MongoDBNode.jsJSONGitHubFlutterREST APIFirebase+1 more
+,Android App Development,Suyash Tidke,Work from home,MongoDBNode.jsJSONGitHubFlutterREST APIFirebase+1
 ,Full Stack Development,Cogent Web Services,Work from home,Node.jsReactFlutter
 ,Android App Development,Cogent Web Services,Work from home,JavaAndroidKotlinFirebase
 ,Flutter Development,Cogent Web Services,Work from home,FlutterREST APIDartiOSFirebaseCloud Firestore
-,Software Development Engineering (Web),TSTEPS PRIVATE LIMITED,"Chennai, Coimbatore, Delhi, Hyderabad, Mumbai, Salem, Bangalore, Kerala Estate                                                                (Hybrid)",JavaPHPMySQLHTMLCSSJavaScriptjQuery+2 more
+,Software Development Engineering (Web),TSTEPS PRIVATE LIMITED,"Chennai, Coimbatore, Delhi, Hyderabad, Mumbai, Salem, Bangalore, Kerala Estate                                                                (Hybrid)",JavaPHPMySQLHTMLCSSJavaScriptjQuery+2
 ,Flutter Development,Adstacks Media,Gurgaon,FlutterREST APIDartiOSAndroidFirebase
 ,Web Development,Starbuzz Digimark,Aurangabad,Web developmentWeb Design
-,Technical Content Curation,Tech Analogy,Ahmedabad,Content WritingOpenCVPythonSolidWorksARM MicrocontrollerRoboticsSearch Engine Optimization (SEO)+9 more
-,Backend Development,Evolusis,"Thane, Navi Mumbai, Mumbai                                                                (Hybrid)",PythonMongoDBGitAnalytical ThinkingProblem SolvingREST APITeamwork+6 more
+,Technical Content Curation,Tech Analogy,Ahmedabad,Content WritingOpenCVPythonSolidWorksARM MicrocontrollerRoboticsSearch Engine Optimization (SEO)+9
+,Backend Development,Evolusis,"Thane, Navi Mumbai, Mumbai                                                                (Hybrid)",PythonMongoDBGitAnalytical ThinkingProblem SolvingREST APITeamwork+6
 ,ReactJS Development,Infokey Technology Private Limited,Delhi,JavaScriptReactReduxTailwind CSSMaterial UIContext APIShadcn
 ,Full Stack Development,Aureva Wealth Advisors Private Limited,Mumbai                                                                (Hybrid),JavaScriptNode.jsPostgreSQLExpress.jsReactNext.js
-,Mobile App Development,Ghackk Technologies,Gurgaon,MySQLHTMLCSSJavaScriptPythonMongoDBAngularJS+12 more
+,Mobile App Development,Ghackk Technologies,Gurgaon,MySQLHTMLCSSJavaScriptPythonMongoDBAngularJS+12
 ,IT Support (AI-Integrated Tools),Marpu Foundation,Work from home,Technical SupportArtificial intelligence
 ,Tech Development (AI-Assisted Coding),Marpu Foundation,Work from home,Computer skillsArtificial intelligence
 ,Linux Kernel Developer,Vicharak Computers LLP,Surat,LinuxGitC ProgrammingGitHubC++ ProgrammingBash
@@ -537,18 +537,18 @@ Unnamed: 0,Title,Company,Location,Skills
 ,Full Stack Development,Imarticus Learning Private Limited,Noida,HTMLCSSJavaScriptMongoDBNode.jsReact
 ,Tech Operations & Website (Only For Students Planning To Study Abroad),HumbleWalking,Mumbai                                                                (Hybrid),Effective Communication
 ,Full Stack Development,Lavanya  Srinivas,Bangalore,Node.jsReactNext.js
-,Backend Development,Certiedge Solutions And Services,Work from home,JavaPython.NETMongoDBDjangoNode.jsPostgreSQL+3 more
+,Backend Development,Certiedge Solutions And Services,Work from home,JavaPython.NETMongoDBDjangoNode.jsPostgreSQL+3
 ,Full Stack Development,Mindenious Edutech,Work from home,PHPMySQLHTMLJavaScriptPythonMongoDB
 ,Data Analytics,Red Dot Foundation,Work from home,PythonSQLData AnalyticsPower BITableau
 ,Java Development,Optimasys,Work from home,JavaMySQLJSPJ2EEHibernate ORM(Java)Spring MVC
 ,Python Development,Optimasys,Work from home,HTMLCSSPythonDjangoMachine LearningREST APIFlask
-,Web Development,Optimasys,Work from home,PHPMySQLHTMLCSSJavaScriptjQueryWordPress+3 more
+,Web Development,Optimasys,Work from home,PHPMySQLHTMLCSSJavaScriptjQueryWordPress+3
 ,iOS Testing,Across The Globe (ATG),Work from home,PythonSeleniumManual TestingTest AutomationUsability Testing
 ,Chrome Extension,Across The Globe (ATG),Work from home,HTMLCSSJavaScriptNode.js
 ,AI Agent Development,XpertStim IT Services Pvt. Ltd.,Work from home,PythonWeb DesignGenerative AI ToolsVibe CodingAI Image Generation
-,Software Development,Techdome Solutions Private Limited,"Indore, Hyderabad",MySQLJavaScriptPython.NETNode.jsReactMEAN+1 more
-,Full Stack Development,NDL Power Limited,Work from home,PythonASP.NETMachine LearningNode.jsMS SQL ServerAutomationReact+5 more
-,Full Stack Development,AiVibes Pvt. Ltd.,Mumbai,JavaHTMLCSSJavaScriptPythonMongoDBAngularJS+3 more
+,Software Development,Techdome Solutions Private Limited,"Indore, Hyderabad",MySQLJavaScriptPython.NETNode.jsReactMEAN+1
+,Full Stack Development,NDL Power Limited,Work from home,PythonASP.NETMachine LearningNode.jsMS SQL ServerAutomationReact+5
+,Full Stack Development,AiVibes Pvt. Ltd.,Mumbai,JavaHTMLCSSJavaScriptPythonMongoDBAngularJS+3
 ,Python Development,Hybr1d Technologies Private Limited,Work from home,PythonDjangoDjango Rest Framework
 ,Full Stack Development,PATTERNLAB.AI,Hyderabad,HTMLCSSJavaScriptMongoDBNode.jsReact
 ,WebFlow Developer,ProGrowth Consulting Services,Bangalore                                                                (Hybrid),Web developmentWeb DesignFigmaWebflow
@@ -559,14 +559,14 @@ Unnamed: 0,Title,Company,Location,Skills
 ,WordPress Development,Chips Of Fury,Work from home,PHPHTMLCSSJavaScriptWordPressSearch Engine Optimization (SEO)UI & UX Design
 ,Java Development,Zdminds,Work from home,JavaMySQLJSPJ2EEHibernate ORM(Java)Spring MVC
 ,Python Development,Zdminds,Work from home,HTMLCSSPythonDjangoMachine LearningREST APIFlask
-,Web Development,Zdminds,Work from home,PHPMySQLHTMLCSSJavaScriptjQueryWordPress+3 more
+,Web Development,Zdminds,Work from home,PHPMySQLHTMLCSSJavaScriptjQueryWordPress+3
 ,Python Development,PATTERNLAB.AI,Hyderabad,PythonMongoDBREST APIFlaskFastAPIPandasObject Oriented Programming (OOP)
-,Node.js Development,Aadi Foundation,Work from home,MySQLHTMLJavaScriptMongoDBNode.jsExpress.jsReact+1 more
+,Node.js Development,Aadi Foundation,Work from home,MySQLHTMLJavaScriptMongoDBNode.jsExpress.jsReact+1
 ,Web Development,CareerNest,Work from home,MySQLHTMLCSSJavaScript
 ,Java Development,Treviax.in,Work from home,JavaMySQLJSPJ2EEHibernate ORM(Java)Spring MVC
 ,Python Development,Treviax.in,Work from home,HTMLCSSPythonDjangoMachine LearningREST APIFlask
 ,Full Stack Development,Emoolar Technology Private Limited,Work from home,HTMLCSSJavaScript
-,Software Development,TringBox,Work from home,JavaCSSJavaScriptPython.NETNode.jsUI & UX Design+9 more
+,Software Development,TringBox,Work from home,JavaCSSJavaScriptPython.NETNode.jsUI & UX Design+9
 ,React Native Web Developer (Oct),Kaushal Ranjeet Private Limited,Work from home,Node.jsReactWeb Application SecurityReact NativeWeb Application Testing
 ,Networking Automation (Python),Across The Globe (ATG),Bangalore,PythonSoftware TestingNetwork SecurityNetwork Configuration
 ,Python Development,Mindenious Edutech,Work from home,HTMLCSSPythonMachine Learning
@@ -576,7 +576,7 @@ Unnamed: 0,Title,Company,Location,Skills
 ,JavaScript Development,Smaclify Technologies,Pune,JavaScriptNode.jsReact NativeAngular
 ,Python Development,Treviax.in,Work from home,HTMLCSSPythonDjangoMachine LearningREST APIFlask
 ,Full Stack Development,Emoolar Technology Private Limited,Work from home,HTMLCSSJavaScript
-,Software Development,TringBox,Work from home,JavaCSSJavaScriptPython.NETNode.jsUI & UX Design+9 more
+,Software Development,TringBox,Work from home,JavaCSSJavaScriptPython.NETNode.jsUI & UX Design+9
 ,React Native Web Developer (Oct),Kaushal Ranjeet Private Limited,Work from home,Node.jsReactWeb Application SecurityReact NativeWeb Application Testing
 ,Networking Automation (Python),Across The Globe (ATG),Bangalore,PythonSoftware TestingNetwork SecurityNetwork Configuration
 ,Python Development,Mindenious Edutech,Work from home,HTMLCSSPythonMachine Learning
@@ -589,9 +589,9 @@ Unnamed: 0,Title,Company,Location,Skills
 ,PHP Development,Clientcarex AI Private Limited,Hyderabad                                                                (Hybrid),PHPMySQLCodeIgniter
 ,Instructional Designer,Kalvium,Bangalore,Data StructuresMachine LearningData ScienceComputer ArchitectureOperating SystemsCybersecurityGenerative AI Tools
 ,Prompt Engineering,Nestup Space,Hyderabad,JavaScriptPythonFrontend development
-,Android App Development,Vijayi WFH Technologies Private Limited,Gurgaon,JavaXMLGitHubREST APIAndroidKotlinFirebase+1 more
+,Android App Development,Vijayi WFH Technologies Private Limited,Gurgaon,JavaXMLGitHubREST APIAndroidKotlinFirebase+1
 ,Full Stack Development,Aurus.ai,Work from home,CSSPythonDjangoPostgreSQLReactFigmaNext.js
-,Technical Support,Fantastech Solutions Private Limited,Work from home,REST APIEnglish Proficiency (Spoken)English Proficiency (Written)Interpersonal skillsEffective CommunicationAPIsOnboarding+1 more
+,Technical Support,Fantastech Solutions Private Limited,Work from home,REST APIEnglish Proficiency (Spoken)English Proficiency (Written)Interpersonal skillsEffective CommunicationAPIsOnboarding+1
 ,Android App Development,DRP Infotech,Bhubaneswar,JavaXMLREST APIAndroid
 ,Web Development,Scoreazy Edutech Private Limited,Work from home,HTMLCSSJavaScriptUI & UX DesignWixGraphic DesignNo?code development
 ,Full Stack Development,SociolinQ Technologies Private Limited,Work from home,PythonDjangoPostgreSQLReactTypeScriptFastAPI
@@ -599,23 +599,23 @@ Unnamed: 0,Title,Company,Location,Skills
 ,Full Stack Development,Traya Health,Bangalore,Node.jsReactNext.jsMERNNestJS
 ,DevOps,"Securigeek (Paris, France)",Work from home,LinuxGitDockerKubernetesGrafanaPrometheus
 ,Selenium Automation Developer,Medius Technologies Private Limited,Work from home,SeleniumDjangoPostgreSQLAmazon Web Services (AWS)Flask
-,Python Django Developer,Tradexa Technologies Private Limited,Pune,GitDjangoProblem SolvingJSONDockerREST APIORM+5 more
+,Python Django Developer,Tradexa Technologies Private Limited,Pune,GitDjangoProblem SolvingJSONDockerREST APIORM+5
 ,WordPress Development,Shiksha Nation™,Noida,PHPHTMLCSSWordPressUI & UX DesignStripe Payment APIPayPal API
-,Front End Development,SUREFY TECHNOLOGIES PRIVATE LIMITED,Work from home,HTMLCSSJavaScriptjQueryBootstrapAngularJSNode.js+4 more
+,Front End Development,SUREFY TECHNOLOGIES PRIVATE LIMITED,Work from home,HTMLCSSJavaScriptjQueryBootstrapAngularJSNode.js+4
 ,Full Stack Development,Highway Delite,Work from home,JavaScriptMongoDBNode.jsReact
-,Full Stack Development,CleverBooks,Work from home,MongoDBNode.jsWeb developmentReactVue.jsReduxGoogle Cloud Platforms (GCP)+2 more
-,General Management,The Guardian,Pune,Social Media MarketingMS-OfficeEvent ManagementVideo EditingMS-ExcelWeb developmentWeb Design+5 more
-,Web Development,Maxforce Services Private Limited,"Delhi, Gurgaon, Noida",PHPMySQLHTMLCSSJavaScriptjQueryWordPress+3 more
+,Full Stack Development,CleverBooks,Work from home,MongoDBNode.jsWeb developmentReactVue.jsReduxGoogle Cloud Platforms (GCP)+2
+,General Management,The Guardian,Pune,Social Media MarketingMS-OfficeEvent ManagementVideo EditingMS-ExcelWeb developmentWeb Design+5
+,Web Development,Maxforce Services Private Limited,"Delhi, Gurgaon, Noida",PHPMySQLHTMLCSSJavaScriptjQueryWordPress+3
 ,Backend Development,Shiksha Nation™,Noida,SQLMongoDBNode.jsNext.js
 ,Web Development,NayePankh Foundation,Work from home,HTML
 ,GPU Mining Infrastructure Manager,Blest Inn,Delhi,LeadershipTeam Management
-,Saas Data Engineer/Data Pipeline Developer,"Estate Atlas (Los Angeles, United States)",Work from home,MySQLPythonSQLNext.jsData ExtractionData EngineeringETL processes+1 more
+,Saas Data Engineer/Data Pipeline Developer,"Estate Atlas (Los Angeles, United States)",Work from home,MySQLPythonSQLNext.jsData ExtractionData EngineeringETL processes+1
 ,Full Stack Development,Amdigit,Work from home,JavaScriptNode.jsPostgreSQLExpress.jsReactArtificial intelligencePrompt Engineering
 ,"Software Engineering (Python, React)",Better,Work from home,PythonReactFlask
 ,Node.js Developer,Factacy.Ai,Gurgaon,JavaScriptLinuxGitNode.jsNoSQLGitHubREST API
 ,C# Backend Development,SAHOTA INFO PRIVATE LIMITED,Delhi,C#.NETASP.NETC#.NETModel View Controller(MVC)
 ,Full Stack Development,ProAnalyser,Coimbatore,HTML
-,Front End Development,SaaviGenAI,Work from home,HTMLCSSJavaScriptReactREST APIFigmaTailwind CSS+2 more
+,Front End Development,SaaviGenAI,Work from home,HTMLCSSJavaScriptReactREST APIFigmaTailwind CSS+2
 ,WordPress Development,Codematics Solution LLP,Work from home,PHPHTMLCSSJavaScriptWordPressSearch Engine Optimization (SEO)Figma
 ,Backend Development ( Night Shift),Big Internet E-commerce Private Limited,Work from home,MongoDBNode.jsExpress.jsNext.jsLangChain
 ,PHP Development,Tourasco Travels Llp,Hyderabad,PHP
@@ -626,32 +626,32 @@ Unnamed: 0,Title,Company,Location,Skills
 ,Software Development Engineering (Web),Vamaship,Mumbai                                                                (Hybrid),PHPMySQLHTMLCSSJavaScript
 ,Digital Marketing Trainee,Challenging Coder,Work from home,Content WritingWordPressDigital MarketingSearch Engine Optimization (SEO)Canva
 ,,,, 
-,Automation Expert,Entrepreneur Growth Lab (OPC) Private Limited,Work from home,JavaScriptProblem SolvingReport WritingAutomationREST APIFirebaseGoogle Workspace+2 more
+,Automation Expert,Entrepreneur Growth Lab (OPC) Private Limited,Work from home,JavaScriptProblem SolvingReport WritingAutomationREST APIFirebaseGoogle Workspace+2
 ,Information Technology,TSTEPS PRIVATE LIMITED,"Chennai, Mumbai, Hyderabad, Kerala, Puduchery                                                                (Hybrid)",JavaPythonComputer Networking
 ,Backend Engineering,Zoop Live,Delhi,PythonSQLNode.jsNoSQL
 ,Mobile App & Web Development,Pioneer Sam Energia,"Pune, Vasai-Virar",Digital MarketingDesign ThinkingDigital Advertising
-,PHP Development,Pranshu Praneta,Work from home,PHPMySQLHTMLCSSJavaScriptjQueryCSS3+4 more
+,PHP Development,Pranshu Praneta,Work from home,PHPMySQLHTMLCSSJavaScriptjQueryCSS3+4
 ,Software Development,IIT Engineer,Lucknow,HTMLCSSJavaScriptReact
 ,AI/ML Python,Tellis Technologies Private Limited,Work from home,JavaScriptPythonMachine LearningArtificial intelligenceMERN
 ,Digital Marketing,Anurag Busi,Bangalore                                                                (Hybrid),Digital MarketingCreative WritingEnglish Proficiency (Spoken)Instagram Marketing
-,Software Development,"Oveleno (Jakarta, Indonesia)",Work from home,JavaMySQLHTMLCSSJavaScriptPython.NET+6 more
+,Software Development,"Oveleno (Jakarta, Indonesia)",Work from home,JavaMySQLHTMLCSSJavaScriptPython.NET+6
 ,WordPress Development,HCapital Business Consulting Private Limited,Mumbai,PHPHTMLCSSWordPressAPIs
 ,WordPress Development,Grivaa Consultancy Services,Delhi,WordPressSearch Engine Optimization (SEO)Content ManagementWeb developmentArtificial intelligence
 ,Full Stack Development,Digital Guruji,Delhi,HTMLCSSJavaScriptMongoDBNode.jsExpress.js
-,Full Stack Development,LI-MAT SOFT SOLUTIONS PRIVATE LIMITED,Bangalore,PHPMySQLHTMLCSSJavaScriptMongoDBAngularJS+2 more
+,Full Stack Development,LI-MAT SOFT SOLUTIONS PRIVATE LIMITED,Bangalore,PHPMySQLHTMLCSSJavaScriptMongoDBAngularJS+2
 ,Front End Development,Supervaisor.AI,Work from home,HTMLCSSAngularJSReactNext.js
 ,Front End Development,KIWIS AND BROWNIES IT SOLUTIONS INDIA PRIVATE LIMITED,Work from home,HTMLCSSJavaScriptjQueryVue.jsNetwork protocols
-,Full Stack Development,Cogn.ai Technologies Private Limited,Bangalore,JavaMySQLHTMLCSSJavaScriptPythonMongoDB+1 more
+,Full Stack Development,Cogn.ai Technologies Private Limited,Bangalore,JavaMySQLHTMLCSSJavaScriptPythonMongoDB+1
 ,PHP Development,Inorbvict Healthcare India Private Limited,Pune,PHPMySQLHTMLCSSJavaScriptjQueryLaravel
-,Full Stack Development,Quantinent Analytics,Work from home,HTMLCSSJavaScriptPythonBootstrapNode.jsReact+2 more
+,Full Stack Development,Quantinent Analytics,Work from home,HTMLCSSJavaScriptPythonBootstrapNode.jsReact+2
 ,Research,Matsolvion Private Limited,Work from home,PythonPhysicsLaTeXANSYSReport Writing
-,Full Stack Development,Bug Aetherium,Work from home,CSSCloud ComputingHTML 5MongoDBNode.jsExpress.jsFrontend development+7 more
+,Full Stack Development,Bug Aetherium,Work from home,CSSCloud ComputingHTML 5MongoDBNode.jsExpress.jsFrontend development+7
 ,Python Development,Scoreazy Edutech Private Limited,Work from home,PythonREST APIFastAPIOpenAI APIStreamlitPrompt Engineering
-,Full Stack Development,Ageit Endorse India Technology,"Pune, Ahmednagar, Nashik",HTMLCSSJavaScriptMongoDBNode.jsReactTypeScript+1 more
+,Full Stack Development,Ageit Endorse India Technology,"Pune, Ahmednagar, Nashik",HTMLCSSJavaScriptMongoDBNode.jsReactTypeScript+1
 ,UI/UX Design (Wix),Brain Quest,Work from home,Wix
 ,Full Stack Development,She Can Foundation,Work from home,HTML
 ,ReactJS Development,TSTEPS PRIVATE LIMITED,"Chennai, Madurai, Hyderabad, Bangalore, Puduchery                                                                (Hybrid)",HTMLJavaScriptNode.jsReactREST API
-,Full Stack Development,Alphanumeric Ideas Private Limited,Mohali,PHPMySQLHTMLCSSJavaScriptPythonMongoDB+4 more
+,Full Stack Development,Alphanumeric Ideas Private Limited,Mohali,PHPMySQLHTMLCSSJavaScriptPythonMongoDB+4
 ,WordPress Development,Inorbvict Healthcare India Private Limited,Pune,WordPressWixFigma
 ,Front End Development,TSTEPS PRIVATE LIMITED,"Chennai, Mumbai, Hyderabad, Kerala, Puduchery, Karnataka                                                                (Hybrid)",HTMLCSSJavaScriptBootstrapAngularJSNode.jsREST API
 ,Java Development,TSTEPS PRIVATE LIMITED,"Chennai, Hyderabad, Kerala, Puduchery, Karnataka                                                                (Hybrid)",JavaMySQLJSPJ2EESpring MVC
@@ -659,8 +659,8 @@ Unnamed: 0,Title,Company,Location,Skills
 ,Web Development,Fusion Tech Solutions,"Ahmedabad, Gandhinagar, Mehsana, Kalol, Himmatnagar, Prantij, Adalaj, Kudasan, Chhatral INA(GIDC), Chiloda, Dehgam                                                                (Hybrid)",HTMLCSSJavaScript
 ,Frontend Developer (Next.js),Reddway Hyperspace Systems Private Limited,Work from home,HTMLCSSReactREST APINext.js
 ,MERN Stack,CYBERED TECH PRIVATE LIMITED,Work from home,HTMLCSSMongoDBNode.jsReactReact Native
-,Junior Wordpress Developer,Codematics Solution LLP,Work from home,PHPHTMLCSSProject ManagementWordPressAdobe Creative SuiteTime Management+5 more
-,Full Stack Development,Altbridge,Work from home,MySQLHTMLJavaScriptPythonMongoDBAngularJSNode.js+13 more
+,Junior Wordpress Developer,Codematics Solution LLP,Work from home,PHPHTMLCSSProject ManagementWordPressAdobe Creative SuiteTime Management+5
+,Full Stack Development,Altbridge,Work from home,MySQLHTMLJavaScriptPythonMongoDBAngularJSNode.js+13
 ,Full Stack Development,Salesqueen Software Solutions,Work from home,PHPMySQLHTMLCSSJavaScript
 ,Digital Marketing,"Nak Auditing (Dubai, United Arab Emirates)",Work from home,WordPressGoogle AdWordsSearch Engine Optimization (SEO)
 ,Front End Development,Lunacal,Work from home,CSSReactTailwind CSSNext.js
@@ -672,76 +672,76 @@ Unnamed: 0,Title,Company,Location,Skills
 ,Web Development,Dharte,Dharamshala,WordPressCanva
 ,Front End Development,Shiksha Nation™,Noida,PHPHTMLCSSJavaScriptReactMERN
 ,E-Commerce Business Management,Fabricstudio Crafts Private Limited,Bikaner,CSSWordPressWeb development
-,N8n Worklfow Builder,Biztel.ai,Bangalore,Frontend developmentBackend developmentAmazon Web Services (AWS)Google Cloud Platforms (GCP)APIsOpenAI APIGrok+2 more
+,N8n Worklfow Builder,Biztel.ai,Bangalore,Frontend developmentBackend developmentAmazon Web Services (AWS)Google Cloud Platforms (GCP)APIsOpenAI APIGrok+2
 ,Python/Django & React Engineering,The Agency Source,Delhi,MySQLPythonDjangoReactFlaskElasticsearch
 ,WordPress Development,ViralChilly,Jaipur,HTMLCSSWordPress
-,Python Automation,Learn Basics,Work from home,PythonSQLAlgorithmsAutomationData VisualizationDatabase Management System (DBMS)Artificial intelligence+1 more
+,Python Automation,Learn Basics,Work from home,PythonSQLAlgorithmsAutomationData VisualizationDatabase Management System (DBMS)Artificial intelligence+1
 ,Web Development,Expert4DM,Work from home,PHPMySQLHTMLCSSJavaScriptWordPressBootstrap
-,Full Stack Development,LivNSense,Bangalore,HTMLCSSJavaScriptNode.jsPostgreSQLDockerGitHub+2 more
+,Full Stack Development,LivNSense,Bangalore,HTMLCSSJavaScriptNode.jsPostgreSQLDockerGitHub+2
 ,WordPress Development,Reliant Business Information Systems Private Limited,Delhi,PHPHTMLCSSJavaScriptWordPress
-,Full Stack Development,OPTRENEX INTERNATIONAL PRIVATE LIMITED,Mumbai,PHPHTMLCSSJavaScriptPythonWordPressNode.js+3 more
-,Tech Assistant,Supervaisor.AI,Work from home,Attention to DetailTime ManagementProblem SolvingEnglish Proficiency (Spoken)English Proficiency (Written)AdaptabilityGoogle Workspace+3 more
+,Full Stack Development,OPTRENEX INTERNATIONAL PRIVATE LIMITED,Mumbai,PHPHTMLCSSJavaScriptPythonWordPressNode.js+3
+,Tech Assistant,Supervaisor.AI,Work from home,Attention to DetailTime ManagementProblem SolvingEnglish Proficiency (Spoken)English Proficiency (Written)AdaptabilityGoogle Workspace+3
 ,Backend Development,Digite Infotech Private Limited,Bangalore,PythonMongoDBREST APIFastAPI
 ,Java Development,TwiLearn EduTech Private Limited,Work from home,JavaMySQLJSPJ2EEHibernate ORM(Java)Spring MVC
 ,Python Development,TwiLearn EduTech Private Limited,Work from home,HTMLCSSPythonDjangoMachine LearningREST API
-,WordPress Development,Humanity Founders,Work from home,PHPHTMLCSSJavaScriptWordPressSearch Engine Optimization (SEO)Design Thinking+1 more
+,WordPress Development,Humanity Founders,Work from home,PHPHTMLCSSJavaScriptWordPressSearch Engine Optimization (SEO)Design Thinking+1
 ,Information Technology,Cynergi,Mumbai,Cloud ComputingComputer NetworkingSoftware Testing
 ,ReactJS Development,GrowMeOrganic Private Limited,Work from home,HTMLCSSJavaScriptReactTypeScript
 ,WordPress Development,Dignifyd Digital Solutions,"Noida, Delhi",PHPHTMLCSSWordPressSearch Engine Optimization (SEO)
 ,UX-UI Designer And Wordpress Developer,Komiq Labs,Work from home,WordPressUI & UX DesignFigma
-,DevOps Oriented Full-Stack Engineer,CodeIncubate,Gurgaon,PythonNode.jsPostgreSQLDockerFlutterAmazon Web Services (AWS)Kubernetes+8 more
+,DevOps Oriented Full-Stack Engineer,CodeIncubate,Gurgaon,PythonNode.jsPostgreSQLDockerFlutterAmazon Web Services (AWS)Kubernetes+8
 ,Web Development,NoirCapial,Work from home,MySQLHTMLCSSJavaScriptWordPressNode.jsReact
 ,Front End Development,NoirCapial,Work from home,HTMLCSSJavaScriptNode.jsReact
-,Backend Development,NoirCapial,Work from home,JavaPHPMySQLHTMLPythonMongoDBDjango+1 more
-,Full Stack Development,Shiplee,Bangalore,PHPMySQLHTMLCSSJavaScriptPythonMongoDB+4 more
-,Web Development,TwiLearn EduTech Private Limited,Work from home,PHPMySQLHTMLCSSJavaScriptjQueryWordPress+3 more
+,Backend Development,NoirCapial,Work from home,JavaPHPMySQLHTMLPythonMongoDBDjango+1
+,Full Stack Development,Shiplee,Bangalore,PHPMySQLHTMLCSSJavaScriptPythonMongoDB+4
+,Web Development,TwiLearn EduTech Private Limited,Work from home,PHPMySQLHTMLCSSJavaScriptjQueryWordPress+3
 ,Web Development,Shubham Gupta,Work from home,WordPress
-,Full Stack Development,J D Jones & Company Private Limited,Kolkata,MySQLJavaScriptPythonSQLNode.jsGitHubReact+1 more
+,Full Stack Development,J D Jones & Company Private Limited,Kolkata,MySQLJavaScriptPythonSQLNode.jsGitHubReact+1
 ,PHP Training,Webgenesis,Jaipur,PHPMySQLHTML 5CSS3
 ,Product (AI Content & Analytics),OpenPrep Academy,Work from home,PythonPostgreSQLPrompt EngineeringLLM evaluation
 ,PHP Development,Rise Retail & Payment Solutions Private Limited,Pune,PHPMySQLHTML
-,Software Development,Amritesh Kumar Bhaskar,Work from home,JavaPHPMySQLHTMLJavaScriptEclipse (IDE)Node.js+8 more
+,Software Development,Amritesh Kumar Bhaskar,Work from home,JavaPHPMySQLHTMLJavaScriptEclipse (IDE)Node.js+8
 ,Web Development,Digital Heroes,"Greater Noida, Noida",Web development
 ,Software Development,Codifinary Technologies Private Limited,Bangalore,PHPAlgorithmsData StructuresReactGolangDatabase Management System (DBMS)
 ,Backend Development,International Institute Of SDGs & Public Policy Research,Work from home,MongoDBNode.jsEnglish Proficiency (Spoken)
 ,Front End Development,Tellis Technologies Private Limited,Work from home,HTMLCSSJavaScriptMongoDBNode.jsReactNext.js
 ,MERN Full Stack (Fulltime/Remote),Tellis Technologies Private Limited,Work from home,JavaScriptNode.jsMEANNext.jsMERN
-,Full Stack Development,Coding Junior,Work from home,MySQLHTMLCSSJavaScriptNode.jsReactGolang+3 more
+,Full Stack Development,Coding Junior,Work from home,MySQLHTMLCSSJavaScriptNode.jsReactGolang+3
 ,,,, 
 ,Full Stack Development,Think41,Bangalore,JavaHTMLCSSJavaScriptPythonReact
 ,Backend Development,TSTEPS PRIVATE LIMITED,"Chennai, Madurai, Hyderabad, Bangalore, Puduchery                                                                (Hybrid)",JavaMySQLHTMLPythonMongoDBNode.jsExpress.js
 ,Python Development,TSTEPS PRIVATE LIMITED,"Chennai, Mumbai, Hyderabad, Kerala, Puduchery                                                                (Hybrid)",HTMLCSSPythonDjangoMachine Learning
 ,Full Stack Development,International Institute Of SDGs & Public Policy Research,Work from home,MongoDBAngularJSNode.jsEnglish Proficiency (Spoken)
-,Full Stack Development,TSTEPS PRIVATE LIMITED,"Chennai, Mumbai, Kerala, Puduchery, Karnataka                                                                (Hybrid)",PHPMySQLHTMLCSSPythonMongoDBNode.js+1 more
+,Full Stack Development,TSTEPS PRIVATE LIMITED,"Chennai, Mumbai, Kerala, Puduchery, Karnataka                                                                (Hybrid)",PHPMySQLHTMLCSSPythonMongoDBNode.js+1
 ,Software Developer,RoadVision AI Private Limited,Delhi,ReactAmazon Web Services (AWS)Flask
 ,Node.js Development,TSTEPS PRIVATE LIMITED,"Chennai, Mumbai, Hyderabad, Bangalore, Kerala                                                                (Hybrid)",MySQLHTMLJavaScriptMongoDBExpress.jsReact
 ,WordPress Development,Pexaworks Technologies Private Limited,Work from home,PHPMySQLHTMLCSSJavaScriptWordPressShopify
 ,Front End Development,Ezygo Innovation Labs Pvt Ltd,Kozhikode,REST APIVue.js
-,Full Stack Development,DataVinci Private Limited,Work from home,PythonGitPostgreSQLReactFastAPITailwind CSSNext.js+1 more
+,Full Stack Development,DataVinci Private Limited,Work from home,PythonGitPostgreSQLReactFastAPITailwind CSSNext.js+1
 ,Web Development,Ramyoz,Noida,HTMLCSSNode.js
 ,ReactJS Development,Educase India,Hyderabad,HTMLJavaScriptNode.jsReactREST APIReact NativeRedux
 ,Google Apps Script,Red Dot Foundation,Work from home,JavaScriptGoogle AdWordsGoogle WorkspaceBigQuery
 ,Web Development,VaultofCodes,Work from home,JavaPythonWeb development
 ,Web Development,Venue,Noida,HTMLCSSWordPressReact
-,WordPress Development,Veerangna By Indra,"Delhi, Gurgaon, Noida",Adobe PhotoshopAdobe IllustratorWordPressVideo EditingCreative ThinkingEnglish Proficiency (Spoken)Graphic Design+1 more
-,Frontend Developer & Designer,Trigrexam,Work from home,JavaHTMLCSSTime ManagementWireframingSketchPrototyping+6 more
+,WordPress Development,Veerangna By Indra,"Delhi, Gurgaon, Noida",Adobe PhotoshopAdobe IllustratorWordPressVideo EditingCreative ThinkingEnglish Proficiency (Spoken)Graphic Design+1
+,Frontend Developer & Designer,Trigrexam,Work from home,JavaHTMLCSSTime ManagementWireframingSketchPrototyping+6
 ,Data Science,Business Quant,Work from home,PythonData AnalyticsData Science
 ,Shopify Developer,Betatest Solutions Private Limited,Work from home,JavaScriptSearch Engine Optimization (SEO)GitShopifyTypeScriptGraphQL
 ,Front End Development,Business Quant,Work from home,PHPJavaScriptjQueryWordPressAJAXREST API
 ,Software Development Engineering (Web),Sunlight Sports Studio LLP,Bangalore,JavaScriptReactShopifyTypeScript
 ,Full Stack Developer – Enterprise Software & System Integration,UnifyXperts,Mumbai,MySQLHTMLCSSJavaScriptPython
 ,Backend Development,PyCray,Work from home,MySQLPythonDjangoREST API
-,Full Stack Development,LiteThink AI,Work from home,HTMLJavaScriptNode.jsReactFirebaseGoogle Cloud Platforms (GCP)OpenAI API+2 more
-,Full Stack Development,iTech Mission Private Limited,"Gurgaon, Delhi",MySQLJavaScriptMongoDBAngularJSNode.jsExpress.jsReact+2 more
-,PHP Development,SPIDERWEB,Work from home,PHPMySQLHTMLJavaScriptjQueryAJAXCodeIgniter+1 more
+,Full Stack Development,LiteThink AI,Work from home,HTMLJavaScriptNode.jsReactFirebaseGoogle Cloud Platforms (GCP)OpenAI API+2
+,Full Stack Development,iTech Mission Private Limited,"Gurgaon, Delhi",MySQLJavaScriptMongoDBAngularJSNode.jsExpress.jsReact+2
+,PHP Development,SPIDERWEB,Work from home,PHPMySQLHTMLJavaScriptjQueryAJAXCodeIgniter+1
 ,Shopify Developer,Ridvig Technologies,Work from home,Product ManagementShopifyEffective Communication
-,Full Stack Development,Everything About AI,Work from home,HTMLCSSJavaScriptMongoDBNode.jsPostgreSQLReact+4 more
-,Python Development,Everything About AI,Work from home,CSSPythonMongoDBMachine LearningPostgreSQLREST APIDeep Learning+4 more
+,Full Stack Development,Everything About AI,Work from home,HTMLCSSJavaScriptMongoDBNode.jsPostgreSQLReact+4
+,Python Development,Everything About AI,Work from home,CSSPythonMongoDBMachine LearningPostgreSQLREST APIDeep Learning+4
 ,Full Stack Development,Linqway Techniks Private Limited,Mysuru                                                                (Hybrid),JavaScriptPythonNode.jsReact
 ,.NET Development,TSTEPS PRIVATE LIMITED,"Chennai, Madurai, Mumbai, Bangalore, Kerala, Puduchery                                                                (Hybrid)",HTMLCSSJavaScriptASP.NETSQL
 ,Asp.net Development,TSTEPS PRIVATE LIMITED,"Chennai, Mumbai, Bangalore, Kerala, Puduchery                                                                (Hybrid)",JavaScriptjQuery.NETASP.NETC#.NETMS SQL Server
 ,Angular.js Development,TSTEPS PRIVATE LIMITED,"Chennai, Madurai, Mumbai, Bangalore, Kerala                                                                (Hybrid)",CSSJavaScriptAngularJSNode.jsAngular 2.0Angular 7.0
-,Full Stack/App Developer,Admunch,Meerut                                                                (Hybrid),JavaScriptGitNode.jsMobile Application DevelopmentProblem SolvingReactREST API+6 more
+,Full Stack/App Developer,Admunch,Meerut                                                                (Hybrid),JavaScriptGitNode.jsMobile Application DevelopmentProblem SolvingReactREST API+6
 ,Backend Development,Archit Dhir,Mohali                                                                (Hybrid),Amazon Web Services (AWS)APIs
 ,Information Technology,"Milltex Blanks Inc (New York, United States)",Work from home,PythonAPIsReplit (GenAI)
 ,Software Development,Hello Live NA,Work from home,HTMLPython
@@ -753,14 +753,14 @@ Unnamed: 0,Title,Company,Location,Skills
 ,Robotics,Robonite Robotics & STEAM Education Private Limited,"Siliguri, Raipur",PythonRoboticsArduinoInternet of Things (IoT)
 ,Shopify Generalist,ThePlainsCo.,"Delhi, Gurgaon",HTMLCSSGoogle AnalyticsSearch Engine Optimization (SEO)English Proficiency (Spoken)English Proficiency (Written)Canva
 ,Full Stack Development,Wisemonk TA,Work from home,MongoDBNode.jsExpress.jsReact
-,Backend Development,Cybernauts Technologies Private Limited,"Delhi, Ghaziabad, Greater Noida, Noida",PHPMySQLPythonMongoDBCodeIgniterNode.jsREST API+2 more
-,Full Stack Development,ETechCube,Jamshedpur,MySQLHTMLCSSJavaScriptPythonBootstrapMongoDB+5 more
+,Backend Development,Cybernauts Technologies Private Limited,"Delhi, Ghaziabad, Greater Noida, Noida",PHPMySQLPythonMongoDBCodeIgniterNode.jsREST API+2
+,Full Stack Development,ETechCube,Jamshedpur,MySQLHTMLCSSJavaScriptPythonBootstrapMongoDB+5
 ,Full Stack Development,APEX ENGINEERING,Work from home,PHPMySQLHTMLCSSJavaScriptPython
 ,Front End Development,APEX ENGINEERING,Work from home,HTMLCSSJavaScriptBootstrapBubble.io
 ,Management Information System,Tapovan Impex Private Limited,Delhi,SQLAdvanced ExcelPower BIGoogle Sheets
 ,Python Development,Warewe Consultancy Private Limited,Gurgaon,PythonDjangoNode.jsPostgreSQLREST APIStripe Payment APIFastAPI
-,Content & Communication,Love And Flour By Pooja,Mumbai                                                                (Hybrid),Content WritingEmail MarketingCMS (Content Management System)Client Relationship Management (CRM)ProofreadingWeb developmentEnglish Proficiency (Written)+2 more
-,Backend & Full Stack Development,PLEXO HR Solutions,Gurgaon,JavaScriptData StructuresGitNode.jsPostgreSQLGitHubExpress.js+4 more
+,Content & Communication,Love And Flour By Pooja,Mumbai                                                                (Hybrid),Content WritingEmail MarketingCMS (Content Management System)Client Relationship Management (CRM)ProofreadingWeb developmentEnglish Proficiency (Written)+2
+,Backend & Full Stack Development,PLEXO HR Solutions,Gurgaon,JavaScriptData StructuresGitNode.jsPostgreSQLGitHubExpress.js+4
 ,Full Stack Development,Namekart,Noida                                                                (Hybrid),JavaMySQLHTMLCSSJavaScriptNode.jsReact
 ,Front End Development,NayePankh Foundation,Work from home,HTML
 ,Web Development,Hustlr Staffing Services,Work from home,JavaScriptWordPressBootstrapNode.js
@@ -772,82 +772,82 @@ Unnamed: 0,Title,Company,Location,Skills
 ,Full Stack Development - AI,Yardstick,Work from home,HTMLCSSJavaScriptMongoDBNode.jsReactNext.js
 ,"Figma, NextJS, React Native And Firebase Development",Bolesale Technologies Private Limited,Work from home,Node.jsReact NativeFirebaseCloud FirestoreNext.js
 ,Front End Development,Visys Cloud Technologies India Private Limited,Hyderabad,HTMLCSSJavaScriptjQueryBootstrapAngularJSReact
-,Full Stack Development,Visys Cloud Technologies India Private Limited,Hyderabad,PHPMySQLHTMLCSSJavaScriptPythonMongoDB+3 more
+,Full Stack Development,Visys Cloud Technologies India Private Limited,Hyderabad,PHPMySQLHTMLCSSJavaScriptPythonMongoDB+3
 ,Javascript Developer,Brain Quest,Work from home,JavaScriptExpress.jsReact
 ,E-Commerce Business Management,Talent Corner HR Services,Mumbai,Client InteractionMS-ExcelClient Relationship Management (CRM)Sales ManagementBusiness DevelopmentEffective CommunicationSales Strategy
 ,Vibe Coders,Stirring Minds,Work from home,Web developmentArtificial intelligenceOpenAI APIClaudeVibe CodingCursor (GenAI)Lovable (GenAI)
 ,Full Stack Development,Zykoon Technologies,Work from home,MySQLJavaScriptNode.jsGitHubReactTypeScriptNext.js
-,E‑Commerce App Developer (Shopify),Protega,Mumbai                                                                (Hybrid),HTMLCSSJavaScriptCSS3Node.jsReactShopify+2 more
+,E‑Commerce App Developer (Shopify),Protega,Mumbai                                                                (Hybrid),HTMLCSSJavaScriptCSS3Node.jsReactShopify+2
 ,Full Stack Development,Swifey,Work from home,MySQLJavaScriptPythonAngularJSNode.jsReact
-,Full Stack Development,Memli,Gurgaon,MySQLHTMLCSSJavaScriptGitNode.jsProblem Solving+3 more
+,Full Stack Development,Memli,Gurgaon,MySQLHTMLCSSJavaScriptGitNode.jsProblem Solving+3
 ,Software Development Engineering (Web),Apoorva Mishra,Work from home,MySQLHTMLReactArtificial intelligenceNext.js
 ,Java Development,ROUTINE REGIME PRIVATE LIMITED,Noida,JavaMySQLJavaScriptSpring Boot
-,AI Agent Development,Awwgment,Work from home,PythonREST APITransformersFastAPIAPIsOpenAI APILangChain+4 more
+,AI Agent Development,Awwgment,Work from home,PythonREST APITransformersFastAPIAPIsOpenAI APILangChain+4
 ,Full Stack Development,Zenochi,Work from home,JavaScriptNode.jsUI & UX DesignReact
-,Robotics,The Innovation Story,Mumbai,PythonSolidWorksRoboticsRaspberry PiEmbedded SystemsArduinoC Programming+2 more
+,Robotics,The Innovation Story,Mumbai,PythonSolidWorksRoboticsRaspberry PiEmbedded SystemsArduinoC Programming+2
 ,"React Native, NextJS And Firebase Development",Wecofy,Work from home,Node.jsReact NativeFirebaseFirebase Cloud MessagingNext.js
 ,"React Native, NextJS And Firebase Development",We Code For You,Work from home,React NativeAmazon Web Services (AWS)FirebaseCloud FirestoreNext.js
-,Founders Office,Arkham Literacy Initiative Foundation,Work from home,Social Media MarketingContent WritingBrandingContent ManagementWeb developmentUnreal EngineContent Marketing+2 more
-,Full Stack Developer (MERN Stack With Edge.js Mandatory),Ungrezi,Work from home,Data StructuresMongoDBGitNode.jsProblem SolvingUI & UX DesignWeb development+5 more
+,Founders Office,Arkham Literacy Initiative Foundation,Work from home,Social Media MarketingContent WritingBrandingContent ManagementWeb developmentUnreal EngineContent Marketing+2
+,Full Stack Developer (MERN Stack With Edge.js Mandatory),Ungrezi,Work from home,Data StructuresMongoDBGitNode.jsProblem SolvingUI & UX DesignWeb development+5
 ,,,, 
-,Full Stack Development,Sheikh Media,Work from home,PHPMySQLHTMLCSSJavaScriptContent WritingPython+13 more
+,Full Stack Development,Sheikh Media,Work from home,PHPMySQLHTMLCSSJavaScriptContent WritingPython+13
 ,Full Stack Developer,Indika AI Private Limited,Delhi,PythonClient InteractionDjangoFlaskInterpersonal skillsEffective CommunicationAmazon S3
 ,Laravel Expert,Medicalbook,Work from home,PHPAJAXLaravel
-,Full Stack Development,StoreShoppy Online Services Private Limited,"Delhi, Ghaziabad, Noida",MongoDBNode.jsMobile Application DevelopmentGitHubExpress.jsReactReact Native+4 more
-,Junior Developer,"Rally Portal LLC (Dubai, United Arab Emirates)",Work from home,SQLMobile Application DevelopmentPostgreSQLWeb developmentDatabase Management System (DBMS)APIsDebugging+2 more
+,Full Stack Development,StoreShoppy Online Services Private Limited,"Delhi, Ghaziabad, Noida",MongoDBNode.jsMobile Application DevelopmentGitHubExpress.jsReactReact Native+4
+,Junior Developer,"Rally Portal LLC (Dubai, United Arab Emirates)",Work from home,SQLMobile Application DevelopmentPostgreSQLWeb developmentDatabase Management System (DBMS)APIsDebugging+2
 ,Content Writing & SEO (AI-Assisted Blogging),Thoughtsverse,Work from home,Content WritingWordPressSearch Engine Optimization (SEO)
 ,Full Stack Development,Vrutti Technologies Pvt. Ltd.,"Surat, Navsari, Kosamba, Kim, Kamrej",MySQLHTMLCSSJavaScriptNode.jsReactTypeScript
 ,PHP / Laravel Developer,Shipper4u,Work from home,PHPMySQLHTMLJavaScriptjQueryAJAXLaravel
 ,Software Development,URE Legal Advocates,Work from home,CSSNode.jsReactElectronJS
 ,.NET Development,Pixelkube Technologies Private Limited,Work from home,C#.NETSQL
-,Front End Development,SigmaMind Research Labs,Jaipur                                                                (Hybrid),CSSSQLGitNode.jsReactREST APIRedux+1 more
+,Front End Development,SigmaMind Research Labs,Jaipur                                                                (Hybrid),CSSSQLGitNode.jsReactREST APIRedux+1
 ,Python Algo Developer,Money Making Trading Courses,"Thane, Navi Mumbai, Mumbai, Vashi, Panvel",PythonAlgorithms
-,Designer/Flutter + Node.js Developer/Next.js Developer,Deep Nucleus,Work from home,MySQLJavaScriptAdobe IllustratorMongoDBNode.jsReactFlutter+5 more
+,Designer/Flutter + Node.js Developer/Next.js Developer,Deep Nucleus,Work from home,MySQLJavaScriptAdobe IllustratorMongoDBNode.jsReactFlutter+5
 ,Data Labelling,Radic Advertising Private Limited,Hyderabad                                                                (Hybrid),PythonMS-ExcelJSON
 ,Full Stack Development,Energy Alternatives India,Chennai,PHPHTMLCSSWordPressBootstrapMS SQL ServerReact
-,Full Stack Development,Udaghosh Social Welfare Society,Work from home,PHPMySQLHTMLCSSJavaScriptPythonMongoDB+3 more
+,Full Stack Development,Udaghosh Social Welfare Society,Work from home,PHPMySQLHTMLCSSJavaScriptPythonMongoDB+3
 ,WordPress Development,Yasham Software Services Private Limited,Work from home,WordPress
-,Full Stack AI Engineer,DigiPlus IT,"Mumbai, Maharashtra",MongoDBNode.jsUI & UX DesignDockerGitHubTypeScriptDevOps+6 more
+,Full Stack AI Engineer,DigiPlus IT,"Mumbai, Maharashtra",MongoDBNode.jsUI & UX DesignDockerGitHubTypeScriptDevOps+6
 ,Front End Development,Basti Ki Pathshala Foundation,Work from home,HTML
 ,Software Engineer,Giddly.com,Work from home,PythonMachine LearningReact NativeGolangTypeScriptArtificial intelligence
-,ReactJS Development,Wakandabooks Private Limited,Bangalore,HTML 5CSS3GitNode.jsReactREST APISass+11 more
+,ReactJS Development,Wakandabooks Private Limited,Bangalore,HTML 5CSS3GitNode.jsReactREST APISass+11
 ,WordPress Development,Practice Buzz,Chandigarh,PHPMySQLHTMLCSSJavaScript
 ,Python Development,EvoNexis,Work from home,HTMLCSSPythonDjangoMachine LearningREST APIFlask
-,Web Development,EvoNexis,Work from home,PHPMySQLHTMLCSSJavaScriptjQueryWordPress+3 more
+,Web Development,EvoNexis,Work from home,PHPMySQLHTMLCSSJavaScriptjQueryWordPress+3
 ,Online Teaching (Full Stack),CodingZen,Work from home,HTMLCSSJavaScriptBootstrapAngularJSNode.jsReact
 ,Web Development,OmniSoft Consulting,Dehradun,PHPMySQLHTMLCSSJavaScriptCanva
-,Front End Development,Emoolar Technology Private Limited,Work from home,HTMLCSSSearch Engine Optimization (SEO)AnimationTailwind CSSNext.jsAPIs+1 more
+,Front End Development,Emoolar Technology Private Limited,Work from home,HTMLCSSSearch Engine Optimization (SEO)AnimationTailwind CSSNext.jsAPIs+1
 ,Web Development,Tapovan Impex Private Limited,Delhi,MySQLHTMLCSS
-,Web Development,BMARKT TECAMAT PRIVATE LIMITED,Delhi,PHPMySQLHTMLCSSJavaScriptjQueryWordPress+3 more
+,Web Development,BMARKT TECAMAT PRIVATE LIMITED,Delhi,PHPMySQLHTMLCSSJavaScriptjQueryWordPress+3
 ,Java Development,EvoNexis,Work from home,JavaMySQLJSPJ2EEHibernate ORM(Java)Spring MVC
 ,Front End Development,Stacks (Techaboard Digi Solutions Private Limited),Mumbai,JavaScriptNode.jsReactNext.jsGraphQL
 ,Python Development,Regime Tax Solutions Private Limited,"Navi Mumbai, Mumbai",HTMLPython
 ,Front End Development,Letstream Ventures Private Limited,Work from home,JavaScriptSCSSTypeScriptVue.js
 ,.NET Development,COEPD (Center Of Excellence For Professional Development),"Hyderabad, Andhra Pradesh",HTMLCSSJavaScriptASP.NETMS SQL ServerModel View Controller(MVC)
-,Python Development (Next.js),Freelance Trainings,Work from home,PythonSQLDjangoReactREST APIInterpersonal skillsEffective Communication+2 more
-,Full Stack Development,Fallon Studio,Work from home,PHPMySQLHTMLCSSJavaScriptPythonMongoDB+4 more
-,Full Stack Development,Tinydata Technologies Private Limited,Work from home,HTMLCSSJavaScriptPythonMongoDBNode.jsReact+1 more
-,Web Development,Archivision Design & Construction Services,Hubli,HTMLCSSJavaScriptAdobe PhotoshopWordPressSearch Engine Optimization (SEO)Artificial intelligence+1 more
+,Python Development (Next.js),Freelance Trainings,Work from home,PythonSQLDjangoReactREST APIInterpersonal skillsEffective Communication+2
+,Full Stack Development,Fallon Studio,Work from home,PHPMySQLHTMLCSSJavaScriptPythonMongoDB+4
+,Full Stack Development,Tinydata Technologies Private Limited,Work from home,HTMLCSSJavaScriptPythonMongoDBNode.jsReact+1
+,Web Development,Archivision Design & Construction Services,Hubli,HTMLCSSJavaScriptAdobe PhotoshopWordPressSearch Engine Optimization (SEO)Artificial intelligence+1
 ,Full Stack Development,Partex.AI,Pune,HTMLCSSJavaScriptPythonNode.jsReact
 ,Full Stack Development,Pexaworks Technologies Private Limited,Work from home,JavaScriptNode.jsReactReact NativeNext.js
 ,,,, 
-,Python Developer,Ergode IT Services Private Limited,Mumbai,PythonSeleniumUser Interface (UI) DevelopmentAutomationAPIsData PreprocessingData Cleaning+4 more
+,Python Developer,Ergode IT Services Private Limited,Mumbai,PythonSeleniumUser Interface (UI) DevelopmentAutomationAPIsData PreprocessingData Cleaning+4
 ,Softwear Development Engineering (WordPress),Inditech Technology Services Private Limited,Work from home,PHPMySQLWordPress
 ,Full Stack Development,IndianAppGuy Tech Private Limited,Bangalore,Node.jsReact
 ,Next.js Developer,Infoware,Work from home,TypeScriptReduxNext.js
-,Digital Marketing,IP Brigade,Delhi,Social Media MarketingGoogle AnalyticsSearch Engine Marketing (SEM)WordPressGoogle AdWordsSearch Engine Optimization (SEO)Email Marketing+2 more
+,Digital Marketing,IP Brigade,Delhi,Social Media MarketingGoogle AnalyticsSearch Engine Marketing (SEM)WordPressGoogle AdWordsSearch Engine Optimization (SEO)Email Marketing+2
 ,Backend Developer (Night Shift Only),Big Internet E-commerce Private Limited,Work from home,MongoDBNode.jsExpress.jsBubble.ioNestJS
 ,PHP Development,International Institute Of SDGs & Public Policy Research,Work from home,PHPMySQLHTMLJavaScript
 ,WordPress Development,International Institute Of SDGs & Public Policy Research,Work from home,WordPressSearch Engine Optimization (SEO)English Proficiency (Spoken)
-,Software Development,Zarle Infotech,"Delhi, Ghaziabad, Noida",HTMLCSSJavaScriptNode.jsGitHubC++ ProgrammingReact+3 more
-,Front End Development,HUBX Commercial Ventures,Work from home,HTMLCSSJavaScriptBootstrapAngularJSNode.jsReact+4 more
-,Automation & Agent Builder (n8n / Make.com),BIIT,Work from home,WordPressE-commerceCreative ThinkingProblem SolvingComputer skillsUI & UX DesignAutomation+4 more
-,Full Stack Development,Brihat Infotech Private Limited,Work from home,HTMLCSSJavaScriptMongoDBNode.jsExpress.jsReact+3 more
+,Software Development,Zarle Infotech,"Delhi, Ghaziabad, Noida",HTMLCSSJavaScriptNode.jsGitHubC++ ProgrammingReact+3
+,Front End Development,HUBX Commercial Ventures,Work from home,HTMLCSSJavaScriptBootstrapAngularJSNode.jsReact+4
+,Automation & Agent Builder (n8n / Make.com),BIIT,Work from home,WordPressE-commerceCreative ThinkingProblem SolvingComputer skillsUI & UX DesignAutomation+4
+,Full Stack Development,Brihat Infotech Private Limited,Work from home,HTMLCSSJavaScriptMongoDBNode.jsExpress.jsReact+3
 ,WordPress Development,Taskraft.agency,"Thane, Dombivli, Kalyan, Badlapur                                                                (Hybrid)",PHPHTMLCSSJavaScriptWordPressSearch Engine Optimization (SEO)Creative Writing
-,Software Development,"Gridmetry Gmbh (Munich, Germany)",Work from home,PythonPostgreSQLDockerGitHubReactREST APIGolang+4 more
-,E-Commerce Web Development (Shopify),Nivara Diamonds Private Limited,Hyderabad,HTMLCSSJavaScriptSearch Engine Optimization (SEO)Web developmentShopifyResponsive Design+2 more
+,Software Development,"Gridmetry Gmbh (Munich, Germany)",Work from home,PythonPostgreSQLDockerGitHubReactREST APIGolang+4
+,E-Commerce Web Development (Shopify),Nivara Diamonds Private Limited,Hyderabad,HTMLCSSJavaScriptSearch Engine Optimization (SEO)Web developmentShopifyResponsive Design+2
 ,AI Agent Development,WhizJuniors,Mumbai                                                                (Hybrid),PythonProblem SolvingDatabase TestingFirebaseAPIsChatGPTGemini
-,Software Development - Mern Stack,Amber Flux Private Limited,Work from home,JavaScriptData StructuresMongoDBGitDjangoPostgreSQLNoSQL+8 more
+,Software Development - Mern Stack,Amber Flux Private Limited,Work from home,JavaScriptData StructuresMongoDBGitDjangoPostgreSQLNoSQL+8
 ,WordPress Development,BeingLoop,"Mumbai, Virar, Vasai, Mira Bhayandar, Dahisar, Goregaon Kh, Bandra, Mira Road",JavaHTMLCSSPythonWordPress
 ,Digital Marketing,FlexiFunnels,Work from home,WordPressDigital MarketingSearch Engine Optimization (SEO)CopywritingMarket research
 ,WordPress Development,OBLYTECH INDIA PRIVATE LIMITED,Work from home,PHPHTMLCSSJavaScriptWordPressEffective Communication
@@ -855,38 +855,38 @@ Unnamed: 0,Title,Company,Location,Skills
 ,Full Stack Development,Rotasu Fin,Ahmedabad,ReactGolangNext.js
 ,Website & Social Media Content (Squarespace + Canva/Instagram),Yalavarthi Granites And Furniture (P) Ltd,Work from home,Social Media MarketingWeb Design
 ,Full Stack Development,Gagan Puri,Work from home,MySQLMongoDBNode.jsGitHubExpress.jsReact Native
-,Backend Development,Shiplee,Work from home,JavaPHPMySQLHTMLPythonMongoDBDjango+4 more
+,Backend Development,Shiplee,Work from home,JavaPHPMySQLHTMLPythonMongoDBDjango+4
 ,Web Development,CYPWNG Software Technologies,Work from home,WordPressCanvaGemini
 ,Web Development,Pure Cosmeceuticals Private Limited,Jaipur,HTMLWordPress
 ,Backend Development,Megaplex Prime,Mumbai,MongoDBNode.jsExpress.jsReactREST API
-,No-Code Developer,Caarya,Work from home,UI & UX DesignWebflowIntegromat (Make)APIsBubble.ioGenerative AI ToolsNo?code development+2 more
+,No-Code Developer,Caarya,Work from home,UI & UX DesignWebflowIntegromat (Make)APIsBubble.ioGenerative AI ToolsNo?code development+2
 ,Apprentice - Technology Associate,ETS India Private Limited,Gurgaon,MS-Office
 ,Backend Development,Shiksha Nation™,Noida,SQLMongoDBNode.jsNext.js
 ,PHP Development,Tourasco Travels Llp,Hyderabad,PHP
 ,Full Stack Development,Amdigit,Work from home,JavaScriptNode.jsPostgreSQLExpress.jsReactArtificial intelligencePrompt Engineering
 ,Full Stack Development,SociolinQ Technologies Private Limited,Work from home,PythonDjangoPostgreSQLReactTypeScriptFastAPI
-,Backend Development,Evolusis,"Thane, Navi Mumbai, Mumbai                                                                (Hybrid)",PythonMongoDBGitAnalytical ThinkingProblem SolvingREST APITeamwork+6 more
+,Backend Development,Evolusis,"Thane, Navi Mumbai, Mumbai                                                                (Hybrid)",PythonMongoDBGitAnalytical ThinkingProblem SolvingREST APITeamwork+6
 ,React Native Web Developer (Oct),Kaushal Ranjeet Private Limited,Work from home,Node.jsReactWeb Application SecurityReact NativeWeb Application Testing
-,Full Stack Development,NDL Power Limited,Work from home,PythonASP.NETMachine LearningNode.jsMS SQL ServerAutomationReact+5 more
-,Mobile App Development,Ghackk Technologies,Gurgaon,MySQLHTMLCSSJavaScriptPythonMongoDBAngularJS+12 more
+,Full Stack Development,NDL Power Limited,Work from home,PythonASP.NETMachine LearningNode.jsMS SQL ServerAutomationReact+5
+,Mobile App Development,Ghackk Technologies,Gurgaon,MySQLHTMLCSSJavaScriptPythonMongoDBAngularJS+12
 ,Tech Development (AI-Assisted Coding),Marpu Foundation,Work from home,Computer skillsArtificial intelligence
 ,Systems Software Developer,Vicharak Computers LLP,Surat,C#PythonC ProgrammingC++ Programming
 ,,,, 
 ,Full Stack Development,Lavanya  Srinivas,Bangalore,Node.jsReactNext.js
-,Backend Development,Certiedge Solutions And Services,Work from home,JavaPython.NETMongoDBDjangoNode.jsPostgreSQL+3 more
+,Backend Development,Certiedge Solutions And Services,Work from home,JavaPython.NETMongoDBDjangoNode.jsPostgreSQL+3
 ,Full Stack Development,Mindenious Edutech,Work from home,PHPMySQLHTMLJavaScriptPythonMongoDB
 ,Data Analytics,Red Dot Foundation,Work from home,PythonSQLData AnalyticsPower BITableau
 ,Python Development,Optimasys,Work from home,HTMLCSSPythonDjangoMachine LearningREST APIFlask
 ,iOS Testing,Across The Globe (ATG),Work from home,PythonSeleniumManual TestingTest AutomationUsability Testing
 ,Chrome Extension,Across The Globe (ATG),Work from home,HTMLCSSJavaScriptNode.js
-,Full Stack Development,AiVibes Pvt. Ltd.,Mumbai,JavaHTMLCSSJavaScriptPythonMongoDBAngularJS+3 more
+,Full Stack Development,AiVibes Pvt. Ltd.,Mumbai,JavaHTMLCSSJavaScriptPythonMongoDBAngularJS+3
 ,Python Development,Hybr1d Technologies Private Limited,Work from home,PythonDjangoDjango Rest Framework
 ,Full Stack Development,PATTERNLAB.AI,Hyderabad,HTMLCSSJavaScriptMongoDBNode.jsReact
 ,Node.js Developer,CGPEY INTERNATIONAL PRIVATE LIMITED,Bhilai Charoda,JavaHTMLNode.js
 ,Full Stack Development,Hybr1d Technologies Private Limited,Work from home,HTMLJavaScriptNode.jsPostgreSQLExpress.jsReactREST API
 ,Python Development,Zdminds,Work from home,HTMLCSSPythonDjangoMachine LearningREST APIFlask
 ,Python Development,PATTERNLAB.AI,Hyderabad,PythonMongoDBREST APIFlaskFastAPIPandasObject Oriented Programming (OOP)
-,Node.js Development,Aadi Foundation,Work from home,MySQLHTMLJavaScriptMongoDBNode.jsExpress.jsReact+1 more
+,Node.js Development,Aadi Foundation,Work from home,MySQLHTMLJavaScriptMongoDBNode.jsExpress.jsReact+1
 ,Web Development,CareerNest,Work from home,MySQLHTMLCSSJavaScript
 ,Python Development,Treviax.in,Work from home,HTMLCSSPythonDjangoMachine LearningREST APIFlask
 ,Networking Automation (Python),Across The Globe (ATG),Bangalore,PythonSoftware TestingNetwork SecurityNetwork Configuration
@@ -894,16 +894,16 @@ Unnamed: 0,Title,Company,Location,Skills
 ,JavaScript Development,Smaclify Technologies,Pune,JavaScriptNode.jsReact NativeAngular
 ,PHP Development,Clientcarex AI Private Limited,Hyderabad                                                                (Hybrid),PHPMySQLCodeIgniter
 ,Prompt Engineering,Nestup Space,Hyderabad,JavaScriptPythonFrontend development
-,Android App Development,Vijayi WFH Technologies Private Limited,Gurgaon,JavaXMLGitHubREST APIAndroidKotlinFirebase+1 more
+,Android App Development,Vijayi WFH Technologies Private Limited,Gurgaon,JavaXMLGitHubREST APIAndroidKotlinFirebase+1
 ,Full Stack Development,Aurus.ai,Work from home,CSSPythonDjangoPostgreSQLReactFigmaNext.js
 ,Android App Development,DRP Infotech,Bhubaneswar,JavaXMLREST APIAndroid
 ,Selenium Web Scraper Developer,Medius Technologies Private Limited,Work from home,SeleniumDjangoPostgreSQLAmazon Web Services (AWS)Flask
 ,Full Stack Development,Traya Health,Bangalore,Node.jsReactNext.jsMERNNestJS
 ,DevOps,"Securigeek (Paris, France)",Work from home,LinuxGitDockerKubernetesGrafanaPrometheus
 ,Selenium Automation Developer,Medius Technologies Private Limited,Work from home,SeleniumDjangoPostgreSQLAmazon Web Services (AWS)Flask
-,Python Django Developer,Tradexa Technologies Private Limited,Pune,GitDjangoProblem SolvingJSONDockerREST APIORM+5 more
-,Web Development,Maxforce Services Private Limited,"Delhi, Gurgaon, Noida",PHPMySQLHTMLCSSJavaScriptjQueryWordPress+3 more
-,Saas Data Engineer/Data Pipeline Developer,"Estate Atlas (Los Angeles, United States)",Work from home,MySQLPythonSQLNext.jsData ExtractionData EngineeringETL processes+1 more
+,Python Django Developer,Tradexa Technologies Private Limited,Pune,GitDjangoProblem SolvingJSONDockerREST APIORM+5
+,Web Development,Maxforce Services Private Limited,"Delhi, Gurgaon, Noida",PHPMySQLHTMLCSSJavaScriptjQueryWordPress+3
+,Saas Data Engineer/Data Pipeline Developer,"Estate Atlas (Los Angeles, United States)",Work from home,MySQLPythonSQLNext.jsData ExtractionData EngineeringETL processes+1
 ,"Software Engineering (Python, React)",Better,Work from home,PythonReactFlask
 ,Node.js Developer,Factacy.Ai,Gurgaon,JavaScriptLinuxGitNode.jsNoSQLGitHubREST API
 ,C# Backend Development,SAHOTA INFO PRIVATE LIMITED,Delhi,C#.NETASP.NETC#.NETModel View Controller(MVC)
@@ -923,33 +923,33 @@ Unnamed: 0,Title,Company,Location,Skills
 ,Software Development Engineering (Web),Vamaship,Mumbai                                                                (Hybrid),PHPMySQLHTMLCSSJavaScript
 ,Backend Engineering,Zoop Live,Delhi,PythonSQLNode.jsNoSQL
 ,,,, 
-,PHP Development,Pranshu Praneta,Work from home,PHPMySQLHTMLCSSJavaScriptjQueryCSS3+4 more
+,PHP Development,Pranshu Praneta,Work from home,PHPMySQLHTMLCSSJavaScriptjQueryCSS3+4
 ,AI/ML Python,Tellis Technologies Private Limited,Work from home,JavaScriptPythonMachine LearningArtificial intelligenceMERN
-,Software Development,"Oveleno (Jakarta, Indonesia)",Work from home,JavaMySQLHTMLCSSJavaScriptPython.NET+6 more
+,Software Development,"Oveleno (Jakarta, Indonesia)",Work from home,JavaMySQLHTMLCSSJavaScriptPython.NET+6
 ,Full Stack Development,Digital Guruji,Delhi,HTMLCSSJavaScriptMongoDBNode.jsExpress.js
-,Full Stack Development,LI-MAT SOFT SOLUTIONS PRIVATE LIMITED,Bangalore,PHPMySQLHTMLCSSJavaScriptMongoDBAngularJS+2 more
+,Full Stack Development,LI-MAT SOFT SOLUTIONS PRIVATE LIMITED,Bangalore,PHPMySQLHTMLCSSJavaScriptMongoDBAngularJS+2
 ,PHP Development,Inorbvict Healthcare India Private Limited,Pune,PHPMySQLHTMLCSSJavaScriptjQueryLaravel
-,Full Stack Development,Quantinent Analytics,Work from home,HTMLCSSJavaScriptPythonBootstrapNode.jsReact+2 more
+,Full Stack Development,Quantinent Analytics,Work from home,HTMLCSSJavaScriptPythonBootstrapNode.jsReact+2
 ,Research,Matsolvion Private Limited,Work from home,PythonPhysicsLaTeXANSYSReport Writing
-,Full Stack Development,Bug Aetherium,Work from home,CSSCloud ComputingHTML 5MongoDBNode.jsExpress.jsFrontend development+7 more
+,Full Stack Development,Bug Aetherium,Work from home,CSSCloud ComputingHTML 5MongoDBNode.jsExpress.jsFrontend development+7
 ,Python Development,Scoreazy Edutech Private Limited,Work from home,PythonREST APIFastAPIOpenAI APIStreamlitPrompt Engineering
 ,Java Development,TSTEPS PRIVATE LIMITED,"Chennai, Hyderabad, Kerala, Puduchery, Karnataka                                                                (Hybrid)",JavaMySQLJSPJ2EESpring MVC
 ,Python Development,Fusion Tech Solutions,"Gandhinagar, Ahmedabad, Mehsana, Kalol, Himmatnagar, Prantij, Adalaj, Kudasan, Chhatral INA(GIDC), Dehgam, Chiloda, Chhatral                                                                (Hybrid)",PythonDjango
 ,MERN Stack,CYBERED TECH PRIVATE LIMITED,Work from home,HTMLCSSMongoDBNode.jsReactReact Native
-,Full Stack Development,Altbridge,Work from home,MySQLHTMLJavaScriptPythonMongoDBAngularJSNode.js+13 more
+,Full Stack Development,Altbridge,Work from home,MySQLHTMLJavaScriptPythonMongoDBAngularJSNode.js+13
 ,Full Stack Development,Salesqueen Software Solutions,Work from home,PHPMySQLHTMLCSSJavaScript
 ,Java Development,Crossing Hurdles,Gurgaon,JavaPostgreSQLSpring Boot
-,N8n Worklfow Builder,Biztel.ai,Bangalore,Frontend developmentBackend developmentAmazon Web Services (AWS)Google Cloud Platforms (GCP)APIsOpenAI APIGrok+2 more
+,N8n Worklfow Builder,Biztel.ai,Bangalore,Frontend developmentBackend developmentAmazon Web Services (AWS)Google Cloud Platforms (GCP)APIsOpenAI APIGrok+2
 ,Python/Django & React Engineering,The Agency Source,Delhi,MySQLPythonDjangoReactFlaskElasticsearch
-,Python Automation,Learn Basics,Work from home,PythonSQLAlgorithmsAutomationData VisualizationDatabase Management System (DBMS)Artificial intelligence+1 more
+,Python Automation,Learn Basics,Work from home,PythonSQLAlgorithmsAutomationData VisualizationDatabase Management System (DBMS)Artificial intelligence+1
 ,Web Development,Expert4DM,Work from home,PHPMySQLHTMLCSSJavaScriptWordPressBootstrap
 ,Backend Development,Digite Infotech Private Limited,Bangalore,PythonMongoDBREST APIFastAPI
 ,Python Development,TwiLearn EduTech Private Limited,Work from home,HTMLCSSPythonDjangoMachine LearningREST API
-,DevOps Oriented Full-Stack Engineer,CodeIncubate,Gurgaon,PythonNode.jsPostgreSQLDockerFlutterAmazon Web Services (AWS)Kubernetes+8 more
+,DevOps Oriented Full-Stack Engineer,CodeIncubate,Gurgaon,PythonNode.jsPostgreSQLDockerFlutterAmazon Web Services (AWS)Kubernetes+8
 ,Web Development,NoirCapial,Work from home,MySQLHTMLCSSJavaScriptWordPressNode.jsReact
-,Backend Development,NoirCapial,Work from home,JavaPHPMySQLHTMLPythonMongoDBDjango+1 more
-,Full Stack Development,Shiplee,Bangalore,PHPMySQLHTMLCSSJavaScriptPythonMongoDB+4 more
-,Full Stack Development,J D Jones & Company Private Limited,Kolkata,MySQLJavaScriptPythonSQLNode.jsGitHubReact+1 more
+,Backend Development,NoirCapial,Work from home,JavaPHPMySQLHTMLPythonMongoDBDjango+1
+,Full Stack Development,Shiplee,Bangalore,PHPMySQLHTMLCSSJavaScriptPythonMongoDB+4
+,Full Stack Development,J D Jones & Company Private Limited,Kolkata,MySQLJavaScriptPythonSQLNode.jsGitHubReact+1
 ,PHP Training,Webgenesis,Jaipur,PHPMySQLHTML 5CSS3
 ,Product (AI Content & Analytics),OpenPrep Academy,Work from home,PythonPostgreSQLPrompt EngineeringLLM evaluation
 ,PHP Development,Rise Retail & Payment Solutions Private Limited,Pune,PHPMySQLHTML
@@ -959,7 +959,7 @@ Unnamed: 0,Title,Company,Location,Skills
 ,MERN Full Stack (Fulltime/Remote),Tellis Technologies Private Limited,Work from home,JavaScriptNode.jsMEANNext.jsMERN
 ,Backend Development,TSTEPS PRIVATE LIMITED,"Chennai, Madurai, Hyderabad, Bangalore, Puduchery                                                                (Hybrid)",JavaMySQLHTMLPythonMongoDBNode.jsExpress.js
 ,Python Development,TSTEPS PRIVATE LIMITED,"Chennai, Mumbai, Hyderabad, Kerala, Puduchery                                                                (Hybrid)",HTMLCSSPythonDjangoMachine Learning
-,Full Stack Development,TSTEPS PRIVATE LIMITED,"Chennai, Mumbai, Kerala, Puduchery, Karnataka                                                                (Hybrid)",PHPMySQLHTMLCSSPythonMongoDBNode.js+1 more
+,Full Stack Development,TSTEPS PRIVATE LIMITED,"Chennai, Mumbai, Kerala, Puduchery, Karnataka                                                                (Hybrid)",PHPMySQLHTMLCSSPythonMongoDBNode.js+1
 ,Software Developer,RoadVision AI Private Limited,Delhi,ReactAmazon Web Services (AWS)Flask
 ,Node.js Development,TSTEPS PRIVATE LIMITED,"Chennai, Mumbai, Hyderabad, Bangalore, Kerala                                                                (Hybrid)",MySQLHTMLJavaScriptMongoDBExpress.jsReact
 ,Web Development,Ramyoz,Noida,HTMLCSSNode.js
@@ -967,74 +967,74 @@ Unnamed: 0,Title,Company,Location,Skills
 ,Web Development,Venue,Noida,HTMLCSSWordPressReact
 ,Data Science,Business Quant,Work from home,PythonData AnalyticsData Science
 ,Backend Development,PyCray,Work from home,MySQLPythonDjangoREST API
-,Full Stack Development,LiteThink AI,Work from home,HTMLJavaScriptNode.jsReactFirebaseGoogle Cloud Platforms (GCP)OpenAI API+2 more
-,PHP Development,SPIDERWEB,Work from home,PHPMySQLHTMLJavaScriptjQueryAJAXCodeIgniter+1 more
-,Python Development,Everything About AI,Work from home,CSSPythonMongoDBMachine LearningPostgreSQLREST APIDeep Learning+4 more
+,Full Stack Development,LiteThink AI,Work from home,HTMLJavaScriptNode.jsReactFirebaseGoogle Cloud Platforms (GCP)OpenAI API+2
+,PHP Development,SPIDERWEB,Work from home,PHPMySQLHTMLJavaScriptjQueryAJAXCodeIgniter+1
+,Python Development,Everything About AI,Work from home,CSSPythonMongoDBMachine LearningPostgreSQLREST APIDeep Learning+4
 ,Full Stack Development,Linqway Techniks Private Limited,Mysuru                                                                (Hybrid),JavaScriptPythonNode.jsReact
 ,Asp.net Development,TSTEPS PRIVATE LIMITED,"Chennai, Mumbai, Bangalore, Kerala, Puduchery                                                                (Hybrid)",JavaScriptjQuery.NETASP.NETC#.NETMS SQL Server
 ,Backend Development,Archit Dhir,Mohali                                                                (Hybrid),Amazon Web Services (AWS)APIs
 ,Software Development,Hello Live NA,Work from home,HTMLPython
 ,Full Stack Development,Visiq Technology Private Limited,Work from home,JavaScriptPythonAngularJSNode.jsReact
 ,Robotics,Robonite Robotics & STEAM Education Private Limited,"Siliguri, Raipur",PythonRoboticsArduinoInternet of Things (IoT)
-,Backend Development,Cybernauts Technologies Private Limited,"Delhi, Ghaziabad, Greater Noida, Noida",PHPMySQLPythonMongoDBCodeIgniterNode.jsREST API+2 more
+,Backend Development,Cybernauts Technologies Private Limited,"Delhi, Ghaziabad, Greater Noida, Noida",PHPMySQLPythonMongoDBCodeIgniterNode.jsREST API+2
 ,Python Development,Warewe Consultancy Private Limited,Gurgaon,PythonDjangoNode.jsPostgreSQLREST APIStripe Payment APIFastAPI
-,Backend & Full Stack Development,PLEXO HR Solutions,Gurgaon,JavaScriptData StructuresGitNode.jsPostgreSQLGitHubExpress.js+4 more
+,Backend & Full Stack Development,PLEXO HR Solutions,Gurgaon,JavaScriptData StructuresGitNode.jsPostgreSQLGitHubExpress.js+4
 ,Backend Development,Travel Lykke Private Limited,Work from home,MySQLJavaScriptPythonDjango
 ,Node.js Generative AI/ML Developer,Arakoo,Work from home,Node.jsExpress.jsTypeScriptTerraform
 ,"Figma, NextJS, React Native And Firebase Development",Bolesale Technologies Private Limited,Work from home,Node.jsReact NativeFirebaseCloud FirestoreNext.js
-,Full Stack Development,Visys Cloud Technologies India Private Limited,Hyderabad,PHPMySQLHTMLCSSJavaScriptPythonMongoDB+3 more
+,Full Stack Development,Visys Cloud Technologies India Private Limited,Hyderabad,PHPMySQLHTMLCSSJavaScriptPythonMongoDB+3
 ,Full Stack Development,Zykoon Technologies,Work from home,MySQLJavaScriptNode.jsGitHubReactTypeScriptNext.js
-,E‑Commerce App Developer (Shopify),Protega,Mumbai                                                                (Hybrid),HTMLCSSJavaScriptCSS3Node.jsReactShopify+2 more
+,E‑Commerce App Developer (Shopify),Protega,Mumbai                                                                (Hybrid),HTMLCSSJavaScriptCSS3Node.jsReactShopify+2
 ,Full Stack Development,Swifey,Work from home,MySQLJavaScriptPythonAngularJSNode.jsReact
-,Full Stack Development,Memli,Gurgaon,MySQLHTMLCSSJavaScriptGitNode.jsProblem Solving+3 more
-,AI Agent Development,Awwgment,Work from home,PythonREST APITransformersFastAPIAPIsOpenAI APILangChain+4 more
+,Full Stack Development,Memli,Gurgaon,MySQLHTMLCSSJavaScriptGitNode.jsProblem Solving+3
+,AI Agent Development,Awwgment,Work from home,PythonREST APITransformersFastAPIAPIsOpenAI APILangChain+4
 ,Full Stack Development,Zenochi,Work from home,JavaScriptNode.jsUI & UX DesignReact
-,Robotics,The Innovation Story,Mumbai,PythonSolidWorksRoboticsRaspberry PiEmbedded SystemsArduinoC Programming+2 more
+,Robotics,The Innovation Story,Mumbai,PythonSolidWorksRoboticsRaspberry PiEmbedded SystemsArduinoC Programming+2
 ,"React Native, NextJS And Firebase Development",Wecofy,Work from home,Node.jsReact NativeFirebaseFirebase Cloud MessagingNext.js
 ,"React Native, NextJS And Firebase Development",We Code For You,Work from home,React NativeAmazon Web Services (AWS)FirebaseCloud FirestoreNext.js
-,Full Stack Developer (MERN Stack With Edge.js Mandatory),Ungrezi,Work from home,Data StructuresMongoDBGitNode.jsProblem SolvingUI & UX DesignWeb development+5 more
-,Full Stack Development,Sheikh Media,Work from home,PHPMySQLHTMLCSSJavaScriptContent WritingPython+13 more
+,Full Stack Developer (MERN Stack With Edge.js Mandatory),Ungrezi,Work from home,Data StructuresMongoDBGitNode.jsProblem SolvingUI & UX DesignWeb development+5
+,Full Stack Development,Sheikh Media,Work from home,PHPMySQLHTMLCSSJavaScriptContent WritingPython+13
 ,Full Stack Developer,Indika AI Private Limited,Delhi,PythonClient InteractionDjangoFlaskInterpersonal skillsEffective CommunicationAmazon S3
 ,Laravel Expert,Medicalbook,Work from home,PHPAJAXLaravel
-,Full Stack Development,StoreShoppy Online Services Private Limited,"Delhi, Ghaziabad, Noida",MongoDBNode.jsMobile Application DevelopmentGitHubExpress.jsReactReact Native+4 more
+,Full Stack Development,StoreShoppy Online Services Private Limited,"Delhi, Ghaziabad, Noida",MongoDBNode.jsMobile Application DevelopmentGitHubExpress.jsReactReact Native+4
 ,PHP / Laravel Developer,Shipper4u,Work from home,PHPMySQLHTMLJavaScriptjQueryAJAXLaravel
 ,.NET Development,Pixelkube Technologies Private Limited,Work from home,C#.NETSQL
 ,Python Algo Developer,Money Making Trading Courses,"Thane, Navi Mumbai, Mumbai, Vashi, Panvel",PythonAlgorithms
-,Designer/Flutter + Node.js Developer/Next.js Developer,Deep Nucleus,Work from home,MySQLJavaScriptAdobe IllustratorMongoDBNode.jsReactFlutter+5 more
+,Designer/Flutter + Node.js Developer/Next.js Developer,Deep Nucleus,Work from home,MySQLJavaScriptAdobe IllustratorMongoDBNode.jsReactFlutter+5
 ,Data Labelling,Radic Advertising Private Limited,Hyderabad                                                                (Hybrid),PythonMS-ExcelJSON
 ,Full Stack Development,Energy Alternatives India,Chennai,PHPHTMLCSSWordPressBootstrapMS SQL ServerReact
-,Full Stack AI Engineer,DigiPlus IT,"Mumbai, Maharashtra",MongoDBNode.jsUI & UX DesignDockerGitHubTypeScriptDevOps+6 more
+,Full Stack AI Engineer,DigiPlus IT,"Mumbai, Maharashtra",MongoDBNode.jsUI & UX DesignDockerGitHubTypeScriptDevOps+6
 ,,,, 
 ,Software Engineer,Giddly.com,Work from home,PythonMachine LearningReact NativeGolangTypeScriptArtificial intelligence
 ,Python Development,EvoNexis,Work from home,HTMLCSSPythonDjangoMachine LearningREST APIFlask
-,Web Development,BMARKT TECAMAT PRIVATE LIMITED,Delhi,PHPMySQLHTMLCSSJavaScriptjQueryWordPress+3 more
+,Web Development,BMARKT TECAMAT PRIVATE LIMITED,Delhi,PHPMySQLHTMLCSSJavaScriptjQueryWordPress+3
 ,Python Development,Regime Tax Solutions Private Limited,"Navi Mumbai, Mumbai",HTMLPython
-,Python Development (Next.js),Freelance Trainings,Work from home,PythonSQLDjangoReactREST APIInterpersonal skillsEffective Communication+2 more
-,Full Stack Development,Fallon Studio,Work from home,PHPMySQLHTMLCSSJavaScriptPythonMongoDB+4 more
-,Full Stack Development,Tinydata Technologies Private Limited,Work from home,HTMLCSSJavaScriptPythonMongoDBNode.jsReact+1 more
-,Python Developer,Ergode IT Services Private Limited,Mumbai,PythonSeleniumUser Interface (UI) DevelopmentAutomationAPIsData PreprocessingData Cleaning+4 more
+,Python Development (Next.js),Freelance Trainings,Work from home,PythonSQLDjangoReactREST APIInterpersonal skillsEffective Communication+2
+,Full Stack Development,Fallon Studio,Work from home,PHPMySQLHTMLCSSJavaScriptPythonMongoDB+4
+,Full Stack Development,Tinydata Technologies Private Limited,Work from home,HTMLCSSJavaScriptPythonMongoDBNode.jsReact+1
+,Python Developer,Ergode IT Services Private Limited,Mumbai,PythonSeleniumUser Interface (UI) DevelopmentAutomationAPIsData PreprocessingData Cleaning+4
 ,Softwear Development Engineering (WordPress),Inditech Technology Services Private Limited,Work from home,PHPMySQLWordPress
 ,Full Stack Development,IndianAppGuy Tech Private Limited,Bangalore,Node.jsReact
 ,Backend Developer (Night Shift Only),Big Internet E-commerce Private Limited,Work from home,MongoDBNode.jsExpress.jsBubble.ioNestJS
 ,PHP Development,International Institute Of SDGs & Public Policy Research,Work from home,PHPMySQLHTMLJavaScript
-,Software Development,Zarle Infotech,"Delhi, Ghaziabad, Noida",HTMLCSSJavaScriptNode.jsGitHubC++ ProgrammingReact+3 more
-,Software Development,"Gridmetry Gmbh (Munich, Germany)",Work from home,PythonPostgreSQLDockerGitHubReactREST APIGolang+4 more
+,Software Development,Zarle Infotech,"Delhi, Ghaziabad, Noida",HTMLCSSJavaScriptNode.jsGitHubC++ ProgrammingReact+3
+,Software Development,"Gridmetry Gmbh (Munich, Germany)",Work from home,PythonPostgreSQLDockerGitHubReactREST APIGolang+4
 ,AI Agent Development,WhizJuniors,Mumbai                                                                (Hybrid),PythonProblem SolvingDatabase TestingFirebaseAPIsChatGPTGemini
 ,AI/ML Dev,Trinity Packaging Co. Pvt. Ltd.,Mumbai                                                                (Hybrid),PythonDockerArtificial intelligenceAPIsLLMOps
 ,Full Stack Development,Gagan Puri,Work from home,MySQLMongoDBNode.jsGitHubExpress.jsReact Native
-,Backend Development,Shiplee,Work from home,JavaPHPMySQLHTMLPythonMongoDBDjango+4 more
+,Backend Development,Shiplee,Work from home,JavaPHPMySQLHTMLPythonMongoDBDjango+4
 ,Backend Development,Megaplex Prime,Mumbai,MongoDBNode.jsExpress.jsReactREST API
-,Asp.net Development,COEPD (Center Of Excellence For Professional Development),Ameerpet,HTMLCSSJavaScriptC#ASP.NETSQLMS SQL Server+1 more
+,Asp.net Development,COEPD (Center Of Excellence For Professional Development),Ameerpet,HTMLCSSJavaScriptC#ASP.NETSQLMS SQL Server+1
 ,Python Development,Nexotech Solutions,"Kollam, Kottayam, Kozhikode, Pathanamthitta, Thiruvananthapuram, Thrissur, Malappuram, Kasaragod, Alappuzha, Wayanad, Idukki, Kochi, Ernakulam, Palakkad, Kannur                                                                (Hybrid)",PythonDjangoPostgreSQLREST APIPostmanRedisDjango Rest Framework
-,Web Development,Edusaint,Work from home,MySQLHTMLCSSJavaScriptjQueryPythonNode.js+1 more
+,Web Development,Edusaint,Work from home,MySQLHTMLCSSJavaScriptjQueryPythonNode.js+1
 ,Web Development,Hungy Inc,Work from home,HTMLCSSJavaScriptNode.jsReact
-,Full Stack Development,Web3Task,"Delhi, Ghaziabad, Greater Noida, Gautam Buddha Nagar, Noida                                                                (Hybrid)",PHPMySQLHTMLCSSJavaScriptMongoDBNode.js+1 more
-,Angular Development,Jogaz Info Private Limited,Delhi,JavaScriptGitUser Interface (UI) DevelopmentHTTPREST APIModel View Controller(MVC)SCSS+4 more
-,Software Development,Optima Learn,Noida,HTMLCSSJavaScriptNode.jsReactTypeScriptFirebase+1 more
+,Full Stack Development,Web3Task,"Delhi, Ghaziabad, Greater Noida, Gautam Buddha Nagar, Noida                                                                (Hybrid)",PHPMySQLHTMLCSSJavaScriptMongoDBNode.js+1
+,Angular Development,Jogaz Info Private Limited,Delhi,JavaScriptGitUser Interface (UI) DevelopmentHTTPREST APIModel View Controller(MVC)SCSS+4
+,Software Development,Optima Learn,Noida,HTMLCSSJavaScriptNode.jsReactTypeScriptFirebase+1
 ,Python Mentor,Mikado Solutions,Work from home,PythonData AnalyticsDjangoData VisualizationPandasDjango Rest FrameworkPython Libraries
-,Full Stack Developer (Shopify App Development),Shiplee,Work from home,PHPMySQLHTMLCSSJavaScriptGitNode.js+4 more
+,Full Stack Developer (Shopify App Development),Shiplee,Work from home,PHPMySQLHTMLCSSJavaScriptGitNode.js+4
 ,Clinical Data Analyst,IDDCR Global Research CRO Private Limited,Work from home,Clinical ResearchClinical Data Management
-,PHP Development,TSTEPS PRIVATE LIMITED,"Chennai, Delhi, Hyderabad, Mumbai, Bangalore, Kerala Estate                                                                (Hybrid)",PHPMySQLHTMLJavaScriptjQueryAJAXCodeIgniter+1 more
+,PHP Development,TSTEPS PRIVATE LIMITED,"Chennai, Delhi, Hyderabad, Mumbai, Bangalore, Kerala Estate                                                                (Hybrid)",PHPMySQLHTMLJavaScriptjQueryAJAXCodeIgniter+1
 ,Full Stack Development,Cogent Web Services,Work from home,Node.jsReactFlutter
 ,Full Stack Development,Cogent Web Services,Work from home,Node.jsReactReact Native
 ,React Native Development,Cogent Web Services,Work from home,Node.jsReact Native
@@ -1046,6 +1046,196 @@ Unnamed: 0,Title,Company,Location,Skills
 ,Software Development,TSTEPS PRIVATE LIMITED,"Chennai, Mumbai, Bangalore, Kerala, Puduchery                                                                (Hybrid)",JavaJavaScript.NETNode.jsC++ ProgrammingReact
 ,Backend Development,YourKoder OÜ,Work from home,JavaMySQLMongoDBNode.jsREST APIAmazon Web Services (AWS)TypeScript
 ,,,, 
-,Web Development,TSTEPS PRIVATE LIMITED,"Chennai, Coimbatore, Madurai, Mumbai, Hyderabad, Salem, Bangalore, Kerala Estate                                                                (Hybrid)",PHPMySQLHTMLCSSJavaScriptjQueryWordPress+3 more
+,Web Development,TSTEPS PRIVATE LIMITED,"Chennai, Coimbatore, Madurai, Mumbai, Hyderabad, Salem, Bangalore, Kerala Estate                                                                (Hybrid)",PHPMySQLHTMLCSSJavaScriptjQueryWordPress+3
 ,Web Development,Digital Heroes,Work from home,Web development
 ,Full Stack Developer,AffinityAnswers,Work from home,PythonLinuxSQLUnixShell Scripting
+,Backend Development,Shiksha Nation™,Noida,
+,Full Stack Development,SociolinQ Technologies Private Limited,Work from home,
+,Backend Development,Evolusis,"Thane, Navi Mumbai, Mumbai                                                                (Hybrid)",
+,React Native Web Developer (Oct),Kaushal Ranjeet Private Limited,Work from home,
+,Full Stack Development,NDL Power Limited,Work from home,
+,Mobile App Development,Ghackk Technologies,Gurgaon,
+,Tech Development (AI-Assisted Coding),Marpu Foundation,Work from home,
+,Web Development,Brizzo Digital,Work from home,
+,Python Development,Primetrade.ai,Work from home,
+,Systems Software Developer,Vicharak Computers LLP,Surat,
+,,,,
+,Full Stack Development,Lavanya  Srinivas,Bangalore,
+,Backend Development,Certiedge Solutions And Services,Work from home,
+,Full Stack Development,Mindenious Edutech,Work from home,
+,Data Analytics,Red Dot Foundation,Work from home,
+,Python Development,Optimasys,Work from home,
+,iOS Testing,Across The Globe (ATG),Work from home,
+,Chrome Extension,Across The Globe (ATG),Work from home,
+,Full Stack Development,AiVibes Pvt. Ltd.,Mumbai,
+,Python Development,Hybr1d Technologies Private Limited,Work from home,
+,Full Stack Development,PATTERNLAB.AI,Hyderabad,
+,Node.js Developer,CGPEY INTERNATIONAL PRIVATE LIMITED,Bhilai Charoda,
+,Full Stack Development,Hybr1d Technologies Private Limited,Work from home,
+,Python Development,Zdminds,Work from home,
+,Python Development,PATTERNLAB.AI,Hyderabad,
+,Node.js Development,Aadi Foundation,Work from home,
+,Web Development,CareerNest,Work from home,
+,Python Development,Treviax.in,Work from home,
+,Networking Automation (Python),Across The Globe (ATG),Bangalore,
+,Python Development,Mindenious Edutech,Work from home,
+,JavaScript Development,Smaclify Technologies,Pune,
+,PHP Development,Clientcarex AI Private Limited,Hyderabad                                                                (Hybrid),
+,Prompt Engineering,Nestup Space,Hyderabad,
+,Android App Development,Vijayi WFH Technologies Private Limited,Gurgaon,
+,Full Stack Development,Aurus.ai,Work from home,
+,Android App Development,DRP Infotech,Bhubaneswar,
+,Selenium Web Scraper Developer,Medius Technologies Private Limited,Work from home,
+,Full Stack Development,Traya Health,Bangalore,
+,DevOps,"Securigeek (Paris, France)",Work from home,
+,Selenium Automation Developer,Medius Technologies Private Limited,Work from home,
+,Python Django Developer,Tradexa Technologies Private Limited,Pune,
+,Web Development,Maxforce Services Private Limited,"Delhi, Gurgaon, Noida",
+,Saas Data Engineer/Data Pipeline Developer,"Estate Atlas (Los Angeles, United States)",Work from home,
+,Full Stack Development,Amdigit,Work from home,
+,"Software Engineering (Python, React)",Better,Work from home,
+,Node.js Developer,Factacy.Ai,Gurgaon,
+,C# Backend Development,SAHOTA INFO PRIVATE LIMITED,Delhi,
+,Backend Development ( Night Shift),Big Internet E-commerce Private Limited,Work from home,
+,PHP Development,Tourasco Travels Llp,Hyderabad,
+,Backend Development,RegisterKaro,Gurgaon,
+,Node.js Development,Warewe Consultancy Private Limited,Gurgaon,
+,Backend Development,Shiksha Nation™,Noida,
+,Saas Data Engineer/Data Pipeline Developer,"Estate Atlas (Los Angeles, United States)",Work from home,
+,Full Stack Development,Amdigit,Work from home,
+,"Software Engineering (Python, React)",Better,Work from home,
+,Node.js Developer,Factacy.Ai,Gurgaon,
+,C# Backend Development,SAHOTA INFO PRIVATE LIMITED,Delhi,
+,Backend Development ( Night Shift),Big Internet E-commerce Private Limited,Work from home,
+,PHP Development,Tourasco Travels Llp,Hyderabad,
+,Backend Development,RegisterKaro,Gurgaon,
+,Node.js Development,Warewe Consultancy Private Limited,Gurgaon,
+,,,,
+,Software Development Engineering (Web),Vamaship,Mumbai                                                                (Hybrid),
+,Backend Engineering,Zoop Live,Delhi,
+,PHP Development,Pranshu Praneta,Work from home,
+,AI/ML Python,Tellis Technologies Private Limited,Work from home,
+,Software Development,"Oveleno (Jakarta, Indonesia)",Work from home,
+,Full Stack Development,Digital Guruji,Delhi,
+,Full Stack Development,LI-MAT SOFT SOLUTIONS PRIVATE LIMITED,Bangalore,
+,PHP Development,Inorbvict Healthcare India Private Limited,Pune,
+,Full Stack Development,Quantinent Analytics,Work from home,
+,Research,Matsolvion Private Limited,Work from home,
+,Full Stack Development,Bug Aetherium,Work from home,
+,Python Development,Scoreazy Edutech Private Limited,Work from home,
+,Java Development,TSTEPS PRIVATE LIMITED,"Chennai, Hyderabad, Kerala, Puduchery, Karnataka                                                                (Hybrid)",
+,Python Development,Fusion Tech Solutions,"Gandhinagar, Ahmedabad, Mehsana, Kalol, Himmatnagar, Prantij, Adalaj, Kudasan, Chhatral INA(GIDC), Dehgam, Chiloda, Chhatral                                                                (Hybrid)",
+,MERN Stack,CYBERED TECH PRIVATE LIMITED,Work from home,
+,Full Stack Development,Altbridge,Work from home,
+,Full Stack Development,Salesqueen Software Solutions,Work from home,
+,Java Development,Crossing Hurdles,Gurgaon,
+,N8n Worklfow Builder,Biztel.ai,Bangalore,
+,Python/Django & React Engineering,The Agency Source,Delhi,
+,Python Automation,Learn Basics,Work from home,
+,Web Development,Expert4DM,Work from home,
+,Backend Development,Digite Infotech Private Limited,Bangalore,
+,Python Development,TwiLearn EduTech Private Limited,Work from home,
+,DevOps Oriented Full-Stack Engineer,CodeIncubate,Gurgaon,
+,Web Development,NoirCapial,Work from home,
+,Backend Development,NoirCapial,Work from home,
+,Full Stack Development,Shiplee,Bangalore,
+,Full Stack Development,J D Jones & Company Private Limited,Kolkata,
+,PHP Training,Webgenesis,Jaipur,
+,Product (AI Content & Analytics),OpenPrep Academy,Work from home,
+,PHP Development,Rise Retail & Payment Solutions Private Limited,Pune,
+,Web Development,Digital Heroes,"Greater Noida, Noida",
+,Software Development,Codifinary Technologies Private Limited,Bangalore,
+,Backend Development,International Institute Of SDGs & Public Policy Research,Work from home,
+,MERN Full Stack (Fulltime/Remote),Tellis Technologies Private Limited,Work from home,
+,Backend Development,TSTEPS PRIVATE LIMITED,"Chennai, Madurai, Hyderabad, Bangalore, Puduchery                                                                (Hybrid)",
+,Python Development,TSTEPS PRIVATE LIMITED,"Chennai, Mumbai, Hyderabad, Kerala, Puduchery                                                                (Hybrid)",
+,Full Stack Development,TSTEPS PRIVATE LIMITED,"Chennai, Mumbai, Kerala, Puduchery, Karnataka                                                                (Hybrid)",
+,Software Developer,RoadVision AI Private Limited,Delhi,
+,,,,
+,Node.js Development,TSTEPS PRIVATE LIMITED,"Chennai, Mumbai, Hyderabad, Bangalore, Kerala                                                                (Hybrid)",
+,Web Development,Ramyoz,Noida,
+,Web Development,Venue,Noida,
+,Data Science,Business Quant,Work from home,
+,Backend Development,PyCray,Work from home,
+,Full Stack Development,LiteThink AI,Work from home,
+,PHP Development,SPIDERWEB,Work from home,
+,Python Development,Everything About AI,Work from home,
+,Full Stack Development,Linqway Techniks Private Limited,Mysuru                                                                (Hybrid),
+,Asp.net Development,TSTEPS PRIVATE LIMITED,"Chennai, Mumbai, Bangalore, Kerala, Puduchery                                                                (Hybrid)",
+,Backend Development,Archit Dhir,Mohali                                                                (Hybrid),
+,Software Development,Hello Live NA,Work from home,
+,Full Stack Development,Visiq Technology Private Limited,Work from home,
+,Robotics,Robonite Robotics & STEAM Education Private Limited,"Siliguri, Raipur",
+,Backend Development,Cybernauts Technologies Private Limited,"Delhi, Ghaziabad, Greater Noida, Noida",
+,Python Development,Warewe Consultancy Private Limited,Gurgaon,
+,Backend & Full Stack Development,PLEXO HR Solutions,Gurgaon,
+,Backend Development,Travel Lykke Private Limited,Work from home,
+,Node.js Generative AI/ML Developer,Arakoo,Work from home,
+,"Figma, NextJS, React Native And Firebase Development",Bolesale Technologies Private Limited,Work from home,
+,Full Stack Development,Visys Cloud Technologies India Private Limited,Hyderabad,
+,Full Stack Development,Zykoon Technologies,Work from home,
+,E‑Commerce App Developer (Shopify),Protega,Mumbai                                                                (Hybrid),
+,Full Stack Development,Swifey,Work from home,
+,Full Stack Development,Memli,Gurgaon,
+,AI Agent Development,Awwgment,Work from home,
+,Full Stack Development,Zenochi,Work from home,
+,Robotics,The Innovation Story,Mumbai,
+,"React Native, NextJS And Firebase Development",Wecofy,Work from home,
+,"React Native, NextJS And Firebase Development",We Code For You,Work from home,
+,Full Stack Developer (MERN Stack With Edge.js Mandatory),Ungrezi,Work from home,
+,Full Stack Development,Sheikh Media,Work from home,
+,Full Stack Developer,Indika AI Private Limited,Delhi,
+,Laravel Expert,Medicalbook,Work from home,
+,Full Stack Development,StoreShoppy Online Services Private Limited,"Delhi, Ghaziabad, Noida",
+,PHP / Laravel Developer,Shipper4u,Work from home,
+,.NET Development,Pixelkube Technologies Private Limited,Work from home,
+,Python Algo Developer,Money Making Trading Courses,"Thane, Navi Mumbai, Mumbai, Vashi, Panvel",
+,Designer/Flutter + Node.js Developer/Next.js Developer,Deep Nucleus,Work from home,
+,Data Labelling,Radic Advertising Private Limited,Hyderabad                                                                (Hybrid),
+,,,,
+,Full Stack Development,Energy Alternatives India,Chennai,
+,Full Stack AI Engineer,DigiPlus IT,"Mumbai, Maharashtra",
+,Software Engineer,Giddly.com,Work from home,
+,Python Development,EvoNexis,Work from home,
+,Web Development,BMARKT TECAMAT PRIVATE LIMITED,Delhi,
+,Python Development,Regime Tax Solutions Private Limited,"Navi Mumbai, Mumbai",
+,Python Development (Next.js),Freelance Trainings,Work from home,
+,Full Stack Development,Fallon Studio,Work from home,
+,Full Stack Development,Tinydata Technologies Private Limited,Work from home,
+,Python Developer,Ergode IT Services Private Limited,Mumbai,
+,Softwear Development Engineering (WordPress),Inditech Technology Services Private Limited,Work from home,
+,Full Stack Development,IndianAppGuy Tech Private Limited,Bangalore,
+,Backend Developer (Night Shift Only),Big Internet E-commerce Private Limited,Work from home,
+,PHP Development,International Institute Of SDGs & Public Policy Research,Work from home,
+,Software Development,Zarle Infotech,"Delhi, Ghaziabad, Noida",
+,Software Development,"Gridmetry Gmbh (Munich, Germany)",Work from home,
+,AI Agent Development,WhizJuniors,Mumbai                                                                (Hybrid),
+,AI/ML Dev,Trinity Packaging Co. Pvt. Ltd.,Mumbai                                                                (Hybrid),
+,Full Stack Development,Gagan Puri,Work from home,
+,Backend Development,Shiplee,Work from home,
+,Backend Development,Megaplex Prime,Mumbai,
+,Asp.net Development,COEPD (Center Of Excellence For Professional Development),Ameerpet,
+,Python Development,Nexotech Solutions,"Kollam, Kottayam, Kozhikode, Pathanamthitta, Thiruvananthapuram, Thrissur, Malappuram, Kasaragod, Alappuzha, Wayanad, Idukki, Kochi, Ernakulam, Palakkad, Kannur                                                                (Hybrid)",
+,Web Development,Edusaint,Work from home,
+,Web Development,Hungy Inc,Work from home,
+,Full Stack Development,Web3Task,"Delhi, Ghaziabad, Greater Noida, Gautam Buddha Nagar, Noida                                                                (Hybrid)",
+,Angular Development,Jogaz Info Private Limited,Delhi,
+,Software Development,Optima Learn,Noida,
+,Python Mentor,Mikado Solutions,Work from home,
+,Full Stack Developer (Shopify App Development),Shiplee,Work from home,
+,Clinical Data Analyst,IDDCR Global Research CRO Private Limited,Work from home,
+,PHP Development,TSTEPS PRIVATE LIMITED,"Chennai, Delhi, Hyderabad, Mumbai, Bangalore, Kerala Estate                                                                (Hybrid)",
+,Full Stack Development,Cogent Web Services,Work from home,
+,Full Stack Development,Cogent Web Services,Work from home,
+,React Native Development,Cogent Web Services,Work from home,
+,Software Development,Cogent Web Services,Work from home,
+,Web Development,Cogent Web Services,Work from home,
+,ReactJS Development,Cogent Web Services,Work from home,
+,Web Development,Cogent Web Services,Work from home,
+,Web Development,TSTEPS PRIVATE LIMITED,"Chennai, Madurai, Hyderabad, Bangalore, Puduchery                                                                (Hybrid)",
+,,,,
+,Software Development,TSTEPS PRIVATE LIMITED,"Chennai, Mumbai, Bangalore, Kerala, Puduchery                                                                (Hybrid)",
+,Backend Development,YourKoder OÜ,Work from home,
+,Web Development,TSTEPS PRIVATE LIMITED,"Chennai, Coimbatore, Madurai, Mumbai, Hyderabad, Salem, Bangalore, Kerala Estate                                                                (Hybrid)",
+,Web Development,Digital Heroes,Work from home,
+,Full Stack Developer,AffinityAnswers,Work from home,

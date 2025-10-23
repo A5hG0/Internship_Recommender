@@ -68,42 +68,70 @@ titles, companies, locations, skills = [], [], [], []
 # df.to_csv("internships.csv", index=False)
 # print("✅ Scraping complete! Data saved to internships.csv")
 
-
+#Scraped : machine learning, android app development, data-science, artificial intelligence, web development, backend development
 existing_df = pd.read_csv("Z:\Python\Internship_Recommender\data\internships_cleaned.csv")
 
-base_url = "https://internshala.com/internships/artificial-intelligence-ai-internship"
+base_url = "https://internshala.com/internships/backend-development-internship"
 
-for page in range(1, 5):
+# for page in range(1, 9): #Change the pages!
+#     url = f"{base_url}/page-{page}"
+#     print("Scraping:", url)
+#     res = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
+#     soup = BeautifulSoup(res.text, 'html.parser')
+
+#     # find all internship cards
+#     internships = soup.find_all('div', class_='individual_internship')
+
+#     for intern in internships:
+#         # extract data
+#         title = intern.find('h3', class_='job-internship-name')
+#         company = intern.find('p', class_='company-name')
+#         location = intern.find('div', class_='row-1-item locations')
+#         skill_div = intern.find('div', class_='job_skills')
+
+#         titles.append(title.text.strip() if title else "")
+#         companies.append(company.text.strip() if company else "")
+#         locations.append(location.text.strip() if location else "")
+#         skills.append(skill_div.text.strip() if skill_div else " ")
+#         # print(skills)
+
+#     time.sleep(1)  # be polite — delay between requests
+
+#NEW LOOP FOR FIXING THE SKILLS SPACEING ISSUE
+for page in range(1, 9):
     url = f"{base_url}/page-{page}"
     print("Scraping:", url)
     res = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
     soup = BeautifulSoup(res.text, 'html.parser')
 
-    # find all internship cards
     internships = soup.find_all('div', class_='individual_internship')
 
     for intern in internships:
-        # extract data
         title = intern.find('h3', class_='job-internship-name')
         company = intern.find('p', class_='company-name')
         location = intern.find('div', class_='row-1-item locations')
-        skill_div = intern.find('div', class_='job_skills')
+
+        # ✅ FIX HERE
+        skills_tags = intern.find_all('span', class_='round_tabs')
+        skill_list = [s.text.strip() for s in skills_tags]
+        skill_str = ', '.join(skill_list)
 
         titles.append(title.text.strip() if title else "")
         companies.append(company.text.strip() if company else "")
         locations.append(location.text.strip() if location else "")
-        skills.append(skill_div.text.strip() if skill_div else " ")
-        # print(skills)
+        skills.append(skill_str)
 
-    time.sleep(1)  # be polite — delay between requests
+    time.sleep(1)
+
 # print(title)
 # save to DataFrame
-df = pd.DataFrame({
+new_df = pd.DataFrame({
     'Title': titles,
     'Company': companies,
     'Location': locations,
     'Skills': skills
 })
-
-df.to_csv("internships.csv", index=False)
+#Appending the new scraped data to old one
+updated_df = pd.concat([existing_df, new_df], ignore_index=True)
+updated_df.to_csv("Z:\Python\Internship_Recommender\data\internships_NEW.csv", index=False)
 print("✅ Scraping complete! Data saved to internships.csv")
