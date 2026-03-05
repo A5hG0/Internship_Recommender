@@ -1,4 +1,4 @@
-import { Handler, HandlerEvent, HandlerContext } from "@netlify/functions";
+import { Handler, HandlerEvent } from "@netlify/functions";
 import { GoogleGenAI, Type } from "@google/genai";
 
 // Mirroring the frontend types for self-containment.
@@ -24,14 +24,13 @@ interface Internship {
     reasoning?: string;
 }
 
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+const API_KEY = process.env.GEMINI_API_KEY;
 
-if (!GEMINI_API_KEY) {
-    // This will cause the function to fail deployment if the key isn't set, which is a good thing.
+if (!API_KEY) {
     throw new Error("GEMINI_API_KEY environment variable not set for the serverless function.");
 }
 
-const ai = new GoogleGenAI({ apiKey: GEMINI_API_KEY });
+const ai = new GoogleGenAI({ apiKey: API_KEY });
 const model = "gemini-2.5-flash";
 
 const generateInternships = async (): Promise<Internship[]> => {
@@ -144,7 +143,7 @@ const getRecommendations = async (userProfile: UserProfile, internships: Interns
     return recommendedInternships.sort((a, b) => (b.matchScore || 0) - (a.matchScore || 0));
 };
 
-const handler: Handler = async (event: HandlerEvent, context: HandlerContext) => {
+const handler: Handler = async (event: HandlerEvent) => {
     if (event.httpMethod !== 'POST') {
         return {
             statusCode: 405,
